@@ -42,8 +42,6 @@ export default function ProductCard() {
   const [quickSent, setQuickSent] = useState(false)
   const [quickConsent, setQuickConsent] = useState(false)
 
-  const [addedConsent, setAddedConsent] = useState(false)
-  const [addedConsentError, setAddedConsentError] = useState('')
 
   if (!part) {
     return (
@@ -83,8 +81,6 @@ export default function ProductCard() {
 
   const closeAdded = () => {
     setAddedOpen(false)
-    setAddedConsent(false)
-    setAddedConsentError('')
   }
 
   const openQuick = () => {
@@ -154,13 +150,8 @@ export default function ProductCard() {
   }
 
   const proceedFromAdded = (destination: 'cart' | 'quick') => {
-    if (!addedConsent) {
-      setAddedConsentError('Отметьте согласие на обработку персональных данных.')
-      return
-    }
-    setAddedConsentError('')
     closeAdded()
-    if (destination === 'cart') navigate('/cart')
+    if (destination === 'cart') navigate('/checkout')
     else openQuick()
   }
 
@@ -478,15 +469,6 @@ export default function ProductCard() {
               </button>
             </div>
 
-            <ConsentCheckbox
-              id="added-consent"
-              checked={addedConsent}
-              onChange={(checked) => {
-                setAddedConsent(checked)
-                if (checked) setAddedConsentError('')
-              }}
-              error={addedConsentError}
-            />
           </div>
         </div>
       )}

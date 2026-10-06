@@ -234,7 +234,7 @@ export default function Checkout() {
       </div>
 
       <div className="mt-6 grid gap-6 lg:grid-cols-3">
-        <form onSubmit={handleSubmit} noValidate className="space-y-4 lg:col-span-2">
+        <form onSubmit={handleSubmit} noValidate className="order-2 space-y-4 lg:order-1 lg:col-span-2">
           <div className="rounded-xl border border-border bg-card p-5">
             <h2 className="font-semibold">Контактные данные</h2>
 
@@ -364,7 +364,7 @@ export default function Checkout() {
           </div>
         </form>
 
-        <aside className="h-fit rounded-xl border border-border bg-card p-5">
+        <aside className="order-1 h-fit rounded-xl border border-border bg-card p-5 lg:order-2">
           <h2 className="font-semibold">Состав заказа</h2>
 
           <ul className="mt-4 space-y-3">

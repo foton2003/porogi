@@ -1,12 +1,14 @@
-import { useEffect, useMemo, useState } from 'react'
-import { Link, useSearchParams } from 'react-router-dom'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
 import {
   BRANDS,
   PARTS,
   VEHICLES,
+  buildCatalogPath,
   formatPrice,
   generationsFor,
   modelsForBrand,
+  parseCatalogPath,
 } from '@/data/catalog'
 
 const types = ['все', 'порог', 'арка'] as const
@@ -43,8 +45,15 @@ function saveFilter(value: SavedFilter) {
 }
 
 export default function Catalog() {
-  const [searchParams] = useSearchParams()
-  const initial = loadFilter()
+  const location = useLocation()
+  const navigate = useNavigate()
+  const [initial] = useState(() => {
+    const parsed = parseCatalogPath(location.pathname.split('/').filter(Boolean).slice(1))
+    return parsed
+      ? { brand: parsed.brand ?? '', model: parsed.model ?? '', generation: parsed.generation ?? '', type: parsed.type }
+      : loadFilter()
+  })
+  const [appliedPath, setAppliedPath] = useState(location.pathname)
   const [brand, setBrand] = useState(initial.brand)
   const [model, setModel] = useState(initial.model)
   const [generation, setGeneration] = useState(initial.generation)
@@ -54,20 +63,38 @@ export default function Catalog() {
   const [mobileOpen, setMobileOpen] = useState(!(initial.brand && initial.model && initial.generation))
   const [visibleCount, setVisibleCount] = useState(9)
 
+  /* Читаем фильтр из дружелюбного пути /catalog/[тип]/[марка]/[модель]/[поколение]/. */
   useEffect(() => {
-    const nextBrand = searchParams.get('brand') ?? ''
-    const nextModel = searchParams.get('model') ?? ''
-    const nextGeneration = searchParams.get('generation') ?? ''
-    if (!nextBrand) return
-    setBrand(nextBrand)
-    setModel(nextModel)
-    setGeneration(nextGeneration)
-    if (nextGeneration) setMobileOpen(false)
-  }, [searchParams])
+    const segments = location.pathname
+      .split('/')
+      .filter(Boolean)
+      .slice(1)
+    const parsed = parseCatalogPath(segments)
+    setAppliedPath(location.pathname)
+    if (!parsed) return
+    setType(parsed.type)
+    setBrand(parsed.brand ?? '')
+    setModel(parsed.model ?? '')
+    setGeneration(parsed.generation ?? '')
+    setVisibleCount(9)
+    if (parsed.generation) setMobileOpen(false)
+  }, [location.pathname])
 
   useEffect(() => {
+    if (appliedPath !== location.pathname) return
     saveFilter({ brand, model, generation, type })
-  }, [brand, model, generation, type])
+  }, [brand, model, generation, type, appliedPath, location.pathname])
+
+  /* Синхронизируем путь с выбранными фильтрами (replace — без спама в истории). */
+  useEffect(() => {
+    // A newly opened URL takes priority over filter state from the previous URL.
+    // Wait for the read effect to apply it before writing a canonical address.
+    if (appliedPath !== location.pathname) return
+    const target = buildCatalogPath(type, brand, model, generation)
+    if (location.pathname !== target) {
+      navigate(target, { replace: true })
+    }
+  }, [type, brand, model, generation, appliedPath, location.pathname, navigate])
 
   const handleGeneration = (value: string) => {
     setGeneration(value)
@@ -114,6 +141,7 @@ export default function Catalog() {
     setGeneration('')
     setType('все')
     setMobileOpen(true)
+    setVisibleCount(9)
     try {
       window.localStorage.removeItem(FILTER_KEY)
     } catch {

@@ -2143,6 +2143,43 @@ const ROWS: CatalogRow[] = [
   ['Vortex', 'Tingo', '1дорест/1рест', '2010-2014', 'Внедорожник 5 дв.', 'Vortex Tingo 1дорест/1рест', '101-59В5', 'Пороги;Задние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей'],
   ['Vortex', 'Estina', '1', '2009', 'Седан 4 дв.', 'Vortex Estina 1', '101-51С4', 'Пороги;Задние арки (наружные/внутренние)'],
   ['Vortex', 'Corda', '1', '2010-2012', 'Лифтбек 5 дв.', 'Vortex Corda 1', '101-61Л5', 'Пороги;Задние арки (наружные/внутренние)'],
+  ["Chrysler", "Voyager", "3", "1995-2001", "Минивэн 4 дв.", "Chrysler Town Country 3", "13-24.1М4", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей;Ремкомплект двери багажника"],
+  ["Chrysler", "Voyager", "2", "1991-1995", "Минивэн 4 дв.", "Chrysler Town Country 2", "13-25М4", "Пороги"],
+  ["UAZ", "Hunter", "1", "с 2003", "Внедорожник 5 дв.", "UAZ Hunter 1", "18-14В5", "Задние арки (наружные/внутренние)"],
+  ["UAZ", "Patriot", "1", "с 2005", "Внедорожник 5 дв.", "UAZ Patriot 1", "18-13В5", "Пороги (наружные/внутренние);Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей;Ремкомплект двери багажника"],
+  ["UAZ", "Patriot", "1", "с 2005", "Внедорожник 3 дв.", "UAZ Patriot 1", "18-13В3", "Пороги (наружные/внутренние);Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей"],
+  ["UAZ", "Patriot", "1", "с 2005", "Пикап 4 дв.", "UAZ Patriot 1", "18-13П4", "Пороги (наружные/внутренние);Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей;Ремкомплект двери багажника"],
+  ["Тагаз", "Вега", "1", "2009-2010", "Седан 4 дв.", "Тагаз Вега 1", "30-42С4", "Пороги"],
+  ["ТагАЗ", "Tager", "1", "2008-2012", "Внедорожник 3 дв.", "ТагАЗ Tager 1", "35-85В3", "Пороги;Задние арки (наружные/внутренние)"],
+  ["ТагАЗ", "Tager", "1", "2008-2012", "Внедорожник 5 дв.", "ТагАЗ Tager 1", "35-85В5", "Задние арки (наружные/внутренние)"],
+  ["ТагАЗ", "С10", "1", "2011-2014", "Седан 4 дв.", "ТагАЗ С10", "35-92С4", "Пороги"],
+  ["IVECO", "Daily", "", "2006", "Грузовик", "IVECO Daily", "101-13Г", "Пороги;Ремкомплекты передних дверей"],
+  ["IVECO", "Daily", "4", "2008", "Фургон", "IVECO Daily 4", "101-18Ф", "Пороги"],
+  ["Jetta", "va3 (китай)", "1", "2019-нв", "Седан 4 дв.", "Jetta va3 (китай) 1", "60-01С4", "Задние арки (наружные/внутренние)"],
+  ["Doninvest", "Assol", "1", "1998-2002", "Седан 4 дв.", "Doninvest Assol 1", "103-03С4", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей"],
+  ["Doninvest", "Assol", "", "1998-2002", "Хэтчбек 5 дв.", "Doninvest Assol", "103-03Х5", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей"],
+  ["Doninvest", "Assol", "", "1998-2002", "Хэтчбек 3 дв.", "Doninvest Assol", "103-03Х3", "Пороги;Передние арки (наружные/внутренние)"],
+  ["Doninvest", "Kondor", "", "1998-2002", "Седан 4 дв.", "Doninvest Kondor", "103-02С4", "Пороги;Задние арки (наружные/внутренние)"],
+  ["Doninvest", "Orion", "", "1998-2002", "Седан 4 дв.", "Doninvest Orion", "103-01С4", "Пороги"],
+  ["Zaz", "Vida", "", "2012-2016", "Хэтчбек 5 дв.", "Zaz Vida", "101-56Х5", "Пороги"],
+  ["Zaz", "Forza", "", "2011-2014", "Лифтбек 5 дв.", "Zaz Forza", "101-58Л5", "Пороги;Задние арки (наружные/внутренние)"],
+  ["Zaz", "Forza", "", "2011-2014", "Хэтчбек 5 дв.", "Zaz Forza", "101-58Х5", "Пороги;Задние арки (наружные/внутренние)"],
+  ["Zaz", "Sens", "1", "2005-20014", "Седан 4 дв.", "Zaz Sens 1", "101-70С4", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей"],
+  ["Zaz", "Sens", "1", "2008-2014", "Хэтчбек 5 дв.", "Zaz Sens 1", "101-70Х5", "Пороги;Передние арки (наружные/внутренние)"],
+  ["Заз", "968", "", "1972-1994", "Седан 2 дв.", "Заз 968", "101-23.2С2", "Пороги"],
+  ["Заз", "965", "", "1960-1970", "Хэтчбек 3 дв.", "Заз 965", "101-73Х3", "Пороги"],
+  ["Заз", "Lanos", "1", "2008-2016", "Седан 4 дв.", "Заз Ланос 1", "101-74С4", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей"],
+  ["Datsun", "240z", "", "1970-1973", "Купе 2 дв.", "Datsun 240z", "101-24К2", "Пороги"],
+  ["Datsun", "on-DO", "1 дорест", "2014-2019", "Седан 4 дв.", "Datsun on-DO 1 дорест", "101-01С4", "Задние арки (наружные/внутренние)"],
+  ["Datsun", "mi-DO", "1", "2014-2021", "Хэтчбек 5 дв.", "Datsun mi-DO 1", "101-02Х5", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние);Ремкомплекты задних дверей;Ремкомплекты передних дверей;Ремкомплект двери багажника"],
+  ["GMC", "Savana", "1", "1996-2020", "Минивэн", "GMC Savana 1", "101-25Ф", "Пороги"],
+  ["GMC", "Sierra", "1", "1998-2007", "Пикап 4 дв.", "GMC Sierra 1", "101-67П4", "Пороги"],
+  ["GMC", "Sierra", "1", "1998-2007", "Пикап 2 дв.", "GMC Sierra 1", "101-67П2", "Пороги;Задние арки (наружные/внутренние)"],
+  ["GMC", "Terrain", "1 дорест / рест.", "2009-2015", "Внедорожник 5 дв.", "GMC Terrain 1 дорест / рест.", "101-05В5", "Пороги"],
+  ["GMC", "Yukon", "1", "1991-1999", "Внедорожник 5 дв.", "GMC Yukon 1", "101-40В5", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние)"],
+  ["GMC", "Yukon", "1", "1991-1999", "Внедорожник 3 дв.", "GMC Yukon 1", "101-40В3", "Пороги;Задние арки (наружные/внутренние);Передние арки (наружные/внутренние)"],
+  ["GMC", "Yukon", "2", "1999-2006", "Внедорожник 5 дв.", "GMC Yukon 2", "101-41В5", "Пороги;Задние арки (наружные/внутренние)"],
+  ["GMC", "Yukon", "3", "2006-2014", "Внедорожник 5 дв.", "GMC Yukon 3", "101-66В5", "Пороги;Задние арки (наружные/внутренние)"],
 ]
 
 export function producedKinds(produced: string[]): PartType[] {
@@ -2236,9 +2273,130 @@ function buildPart(row: CatalogRow, kind: PartType): Part {
   }
 }
 
+// Preserve the first published URL when different catalogue entries share a
+// vehicle/body label. Other entries get an article suffix so links, React keys
+// and the cart identify the actual part rather than the first matching row.
+const partIds = new Set<string>()
 export const PARTS: Part[] = ROWS.flatMap((row) =>
-  producedKinds(row[7].split(';').filter(Boolean)).map((kind) => buildPart(row, kind)),
+  producedKinds(row[7].split(';').filter(Boolean)).map((kind) => {
+    const part = buildPart(row, kind)
+    if (partIds.has(part.id)) {
+      const baseId = `${part.id}-${slug(part.sku)}`
+      let id = baseId
+      let suffix = 2
+      while (partIds.has(id)) id = `${baseId}-${suffix++}`
+      part.id = id
+    }
+    partIds.add(part.id)
+    return part
+  }),
 )
+
+/* URL-транслитерация кириллицы в латиницу (дружелюбные адреса каталога). */
+const CYRILLIC_TO_LATIN: Record<string, string> = {
+  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', е: 'e', ё: 'yo', ж: 'zh', з: 'z', и: 'i',
+  й: 'y', к: 'k', л: 'l', м: 'm', н: 'n', о: 'o', п: 'p', р: 'r', с: 's', т: 't',
+  у: 'u', ф: 'f', х: 'kh', ц: 'ts', ч: 'ch', ш: 'sh', щ: 'shch', ъ: '', ы: 'y', ь: '',
+  э: 'e', ю: 'yu', я: 'ya',
+}
+
+/** Человеко-понятный фрагмент URL: транслитерация + дефисы вместо пробелов. */
+export function toUrlSlug(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(/[а-яё]/g, (char) => CYRILLIC_TO_LATIN[char] ?? '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+// The CSV uses case/transliteration variants of the same brand (Lada/LADA,
+// Volga/Волга). Use one filter value for each URL slug so every model remains
+// selectable through a direct link. Keep article IDs and source titles intact.
+const canonicalBrands = new Map<string, string>()
+for (const part of PARTS) {
+  const brandSlug = toUrlSlug(part.vehicle.brand)
+  const canonical = canonicalBrands.get(brandSlug)
+  if (canonical) part.vehicle.brand = canonical
+  else canonicalBrands.set(brandSlug, part.vehicle.brand)
+}
+
+/** Тип детали → сегмент каталога в URL. */
+export const TYPE_SLUGS: Record<string, string> = {
+  все: 'porogi-i-arki',
+  порог: 'porogi',
+  арка: 'arki',
+}
+
+/** Обратное соответствие: сегмент URL → тип фильтра. */
+export const TYPE_BY_SLUG: Record<string, 'все' | 'порог' | 'арка'> = {
+  'porogi-i-arki': 'все',
+  porogi: 'порог',
+  arki: 'арка',
+}
+
+type CatalogSegment = {
+  type: 'все' | 'порог' | 'арка'
+  brand?: string
+  model?: string
+  generation?: string
+}
+
+/** Разбирает путь каталога вида /catalog/[тип]/[марка]/[модель]/[поколение]/. */
+export function parseCatalogPath(segments: string[]): CatalogSegment | null {
+  const [typeSlug, ...rest] = segments
+  if (!typeSlug || rest.length > 3) return null
+  const type = TYPE_BY_SLUG[typeSlug]
+  if (!type) return null
+  const [brandSlug, modelSlug, generationSlug] = rest
+  if (!brandSlug) return { type }
+  const brand = findPartValue(brandSlug, (part) => part.vehicle.brand)
+  if (!brand) return null
+  const result: CatalogSegment = { type, brand }
+  if (modelSlug) {
+    const model = findPartValue(
+      modelSlug,
+      (part) => (part.vehicle.brand === brand ? part.vehicle.model : ''),
+    )
+    if (!model) return null
+    result.model = model
+  }
+  if (generationSlug) {
+    if (!result.model) return null
+    const generation = findPartValue(
+      generationSlug,
+      (part) =>
+        part.vehicle.brand === brand && part.vehicle.model === result.model
+          ? part.vehicle.generation
+          : '',
+    )
+    if (!generation) return null
+    result.generation = generation
+  }
+  return result
+}
+
+function findPartValue(slugValue: string, getValue: (part: Part) => string): string | null {
+  for (const part of PARTS) {
+    const value = getValue(part)
+    if (value && toUrlSlug(value) === slugValue) return value
+  }
+  return null
+}
+
+/** Строит путь каталога из текущих фильтров: /catalog/[тип]/[марка]/[модель]/[поколение]/
+ *  (фрагменты, равные значениям по умолчанию, пропускаются). */
+export function buildCatalogPath(
+  type: string,
+  brand: string,
+  model: string,
+  generation: string,
+): string {
+  const segments = [TYPE_SLUGS[type] ?? TYPE_SLUGS['все']]
+  if (brand) segments.push(toUrlSlug(brand))
+  if (brand && model) segments.push(toUrlSlug(model))
+  if (brand && model && generation) segments.push(toUrlSlug(generation))
+  return `/catalog/${segments.join('/')}/`
+}
 
 export const VEHICLES: Vehicle[] = Array.from(
   new Map(

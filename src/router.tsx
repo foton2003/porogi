@@ -17,6 +17,7 @@ export const router = createBrowserRouter([
       { index: true, element: <Home /> },
       { path: 'import-probe', element: <ImportProbe /> },
       { path: 'catalog', element: <Catalog /> },
+      { path: 'catalog/*', element: <Catalog /> },
       { path: 'product/:id', element: <ProductCard /> },
       { path: 'cart', element: <Cart /> },
       { path: 'checkout', element: <Checkout /> },
