@@ -23,7 +23,16 @@ export default function ConsentCheckbox({ checked, onChange, error, id }: Consen
           className="mt-1 h-5 w-5 shrink-0 accent-[oklch(60%_0.15_155)]"
         />
         <span className="text-xs leading-relaxed text-muted-foreground">
-          Я согласен на обработку персональных данных
+          Я согласен на{' '}
+          <a
+            href="https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_47032bcf481365ad8d4ad1ec317a60ae/soglasie_OPD.doc"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent underline underline-offset-2 hover:text-accent/80"
+            onClick={(event) => event.stopPropagation()}
+          >
+            обработку персональных данных
+          </a>
         </span>
       </label>
       {error && (

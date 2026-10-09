@@ -202,8 +202,26 @@ export default function App() {
             </div>
           </div>
           <div className="border-t border-border">
-            <div className="mx-auto flex w-full max-w-6xl flex-col gap-1 px-4 py-4 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
+            <div className="mx-auto flex w-full max-w-6xl flex-col gap-2 px-4 py-4 text-xs text-muted-foreground sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:px-6">
               <span>© {new Date().getFullYear()} ПорогиПро — ремонтные пороги и арки.</span>
+              <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
+                <a
+                  href="https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_406c2a0c2ad5ac0586942d030e7ede7f/politic.doc"
+                  className="text-accent hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Политика конфиденциальности
+                </a>
+                <a
+                  href="https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_47032bcf481365ad8d4ad1ec317a60ae/soglasie_OPD.doc"
+                  className="text-accent hover:underline"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Согласие на обработку персональных данных
+                </a>
+              </div>
               <span>ИП ТРЕТЬЯКОВ АРТЕМ АНАТОЛЬЕВИЧ, ИНН 780535524910</span>
               <span>Предложение не является публичной офертой.</span>
             </div>

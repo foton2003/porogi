@@ -186,7 +186,7 @@ export default function Checkout() {
       customer_name: name.trim(),
       phone: normalizedPhone,
       city: city.trim(),
-      comment: comment.trim() ? comment.trim() : null,
+      comment: [`Заказ ${orderNumber}`, `Город: ${city.trim()}`, comment.trim(), 'Оформление заказа (корзина)', `Страница: ${window.location.href}`].filter(Boolean).join('\n'),
       items: orderItems,
       total: orderTotal,
       status: 'new',
@@ -198,23 +198,10 @@ export default function Checkout() {
       customerName: payload.customer_name,
       phone: payload.phone,
       city: payload.city,
-      comment: payload.comment,
+      comment: comment.trim() ? comment.trim() : null,
       items: orderItems,
       total: orderTotal,
       createdAt: new Date().toISOString(),
-    }
-
-    const leadPayload = {
-      name: payload.customer_name,
-      phone: payload.phone,
-      comment: [
-        `Заказ ${orderNumber}`,
-        payload.city ? `Город: ${payload.city}` : null,
-        payload.comment,
-      ]
-        .filter(Boolean)
-        .join(' · '),
-      source: 'Оформление заказа (корзина)',
     }
 
     setSubmitting(true)
@@ -223,8 +210,6 @@ export default function Checkout() {
       const { error } = await db.from('orders_public').insert(payload)
       if (error) throw error
       saveOrder(savedOrder)
-      const { error: leadError } = await db.from('leads').insert(leadPayload)
-      if (leadError) throw leadError
       saved = true
     } catch {
       setSubmitError('Не удалось сохранить заказ. Попробуйте ещё раз.')

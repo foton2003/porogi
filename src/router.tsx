@@ -9,6 +9,7 @@ import OrderSuccess from './pages/OrderSuccess'
 import Contacts from './pages/Contacts'
 import NotFound from './pages/NotFound'
 import ImportProbe from './pages/ImportProbe'
+import MarketFeed from './pages/MarketFeed'
 
 export const router = createBrowserRouter([
   {
@@ -16,6 +17,7 @@ export const router = createBrowserRouter([
     element: <App />,
     children: [
       { index: true, element: <Home /> },
+      { path: 'yandex.xml', element: <MarketFeed /> },
       { path: 'import-probe', element: <ImportProbe /> },
       { path: 'catalog', element: <Catalog /> },
       { path: 'catalog/*', element: <Catalog /> },

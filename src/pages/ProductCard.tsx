@@ -121,7 +121,7 @@ export default function ProductCard() {
         customer_name: 'Заказ в 1 клик',
         phone: `+7${quickPhone}`,
         city: '—',
-        comment: `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · Материал: ${material?.label} · Комплектация: ${kit?.label} · ${formatPrice(price)}`,
+        comment: `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · Материал: ${material?.label} · Комплектация: ${kit?.label} · ${formatPrice(price)}\nСтраница: ${window.location.href}`,
         items: [
           {
             partId: part.id,
@@ -140,12 +140,6 @@ export default function ProductCard() {
         consent_pdn: true,
       })
       if (error) throw error
-      await db.from('leads').insert({
-        name: 'Заказ в 1 клик',
-        phone: `+7${quickPhone}`,
-        comment: `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · Материал: ${material?.label} · Комплектация: ${kit?.label} · ${formatPrice(price)}`,
-        source: `Карточка товара (арт. ${part.sku})`,
-      })
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)

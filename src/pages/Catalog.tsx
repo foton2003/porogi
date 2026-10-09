@@ -1,15 +1,15 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { Link, useLocation, useNavigate } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import {
   BRANDS,
   PARTS,
   VEHICLES,
   buildCatalogPath,
-  formatPrice,
   generationsFor,
   modelsForBrand,
   parseCatalogPath,
 } from '@/data/catalog'
+import CatalogCard from '@/components/CatalogCard'
 
 const types = ['все', 'порог', 'арка'] as const
 
@@ -354,38 +354,7 @@ export default function Catalog() {
       ) : (
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {visible.map((part) => (
-            <Link
-              key={part.id}
-              to={`/product/${part.id}`}
-              className="group overflow-hidden rounded-xl border border-border bg-card transition-colors hover:border-accent"
-            >
-              <div className="aspect-[4/3] overflow-hidden bg-surface">
-                <img
-                  src={part.images[0]}
-                  alt={part.title}
-                  className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  loading="lazy"
-                />
-              </div>
-              <div className="p-4">
-                <div className="flex items-center justify-between gap-2 text-xs uppercase tracking-wide text-muted-foreground">
-                  <span>{part.type}</span>
-                  <span>Арт. {part.sku}</span>
-                </div>
-                <h2 className="mt-1 font-semibold leading-snug">{part.title}</h2>
-                <div className="mt-1 text-sm text-muted-foreground">
-                  {part.vehicle.generation} · Кузов: {part.body}
-                </div>
-                <div className="mt-3 flex items-center justify-between">
-                  <span className="font-bold text-accent">
-                    от {formatPrice(part.type === 'арка' ? 1950 : 1790)}
-                  </span>
-                  <span className="rounded-full bg-secondary px-2 py-0.5 text-xs text-secondary-foreground">
-                    {part.side}
-                  </span>
-                </div>
-              </div>
-            </Link>
+            <CatalogCard key={part.id} part={part} />
           ))}
         </div>
       )}

@@ -126,19 +126,13 @@ export default function Home() {
         customer_name: name,
         phone,
         city: '—',
-        comment: 'Обратный звонок с главной страницы «Довериться профессионалу».',
+        comment: `Обратный звонок с главной страницы «Довериться профессионалу».\nСтраница: ${window.location.href}`,
         items: [],
         total: 0,
         status: 'callback',
         consent_pdn: true,
       })
       if (error) throw error
-      await db.from('leads').insert({
-        name,
-        phone,
-        comment: 'Обратный звонок с главной страницы «Довериться профессионалу».',
-        source: 'Главная — «Довериться профессионалу»',
-      })
       setCallSent(true)
       setCallName('')
       setCallPhone('')
