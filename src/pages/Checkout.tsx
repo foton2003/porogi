@@ -153,7 +153,6 @@ export default function Checkout() {
     if (name.trim().length < 2) next.name = 'Укажите имя'
     const digits = phone.replace(/\D/g, '').replace(/^[78]/, '')
     if (digits.length < 10) next.phone = 'Укажите телефон не короче 10 цифр'
-    if (city.trim().length < 2) next.city = 'Укажите город'
     if (!consent) next.consent = 'Отметьте согласие на обработку персональных данных.'
     return next
   }
@@ -161,6 +160,8 @@ export default function Checkout() {
   const handleSubmit = async (event: FormEvent) => {
     event.preventDefault()
     setSubmitError('')
+
+    if (submitting) return
 
     const nextErrors = validate()
     setErrors(nextErrors)
@@ -192,29 +193,58 @@ export default function Checkout() {
       consent_pdn: consent,
     }
 
+    const savedOrder = {
+      orderNumber,
+      customerName: payload.customer_name,
+      phone: payload.phone,
+      city: payload.city,
+      comment: payload.comment,
+      items: orderItems,
+      total: orderTotal,
+      createdAt: new Date().toISOString(),
+    }
+
+    const leadPayload = {
+      name: payload.customer_name,
+      phone: payload.phone,
+      comment: [
+        `Заказ ${orderNumber}`,
+        payload.city ? `Город: ${payload.city}` : null,
+        payload.comment,
+      ]
+        .filter(Boolean)
+        .join(' · '),
+      source: 'Оформление заказа (корзина)',
+    }
+
     setSubmitting(true)
+    let saved = false
     try {
       const { error } = await db.from('orders_public').insert(payload)
       if (error) throw error
-      saveOrder({
-        orderNumber,
-        customerName: payload.customer_name,
-        phone: payload.phone,
-        city: payload.city,
-        comment: payload.comment,
-        items: orderItems,
-        total: orderTotal,
-        createdAt: new Date().toISOString(),
-      })
-      clear()
-      navigate(`/order/${encodeOrderNumber(orderNumber)}`, {
-        replace: true,
-        state: { orderNumber },
-      })
+      saveOrder(savedOrder)
+      const { error: leadError } = await db.from('leads').insert(leadPayload)
+      if (leadError) throw leadError
+      saved = true
     } catch {
       setSubmitError('Не удалось сохранить заказ. Попробуйте ещё раз.')
     } finally {
       setSubmitting(false)
+    }
+
+    /* Очистка корзины и переход на /thankyou/<номер заказа> выполняются вне
+       блока try/catch: сбой сохранения состояния заказа не должен отменять
+       подтверждённый заказ, а ошибка маршрутизатора — молча уводить в каталог. */
+    if (saved) {
+      clear()
+      try {
+        navigate(`/thankyou/${encodeOrderNumber(orderNumber)}`, {
+          replace: true,
+          state: { orderNumber },
+        })
+      } catch {
+        window.location.assign(`/thankyou/${encodeOrderNumber(orderNumber)}`)
+      }
     }
   }
 
@@ -270,7 +300,7 @@ export default function Checkout() {
             </label>
 
             <label className="mt-4 block">
-              <span className="mb-1.5 block text-sm font-medium">Город</span>
+              <span className="mb-1.5 block text-sm font-medium">Город (необязательно)</span>
               <div className="relative">
                 <input
                   type="text"
@@ -347,7 +377,7 @@ export default function Checkout() {
             />
           </div>
 
-          <div className="flex flex-wrap items-center gap-3">
+          <div className="mt-4 flex flex-wrap items-center gap-3">
             <button
               type="submit"
               disabled={submitting}

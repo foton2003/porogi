@@ -26,7 +26,7 @@ export default function ProductCard() {
   const { id } = useParams()
   const navigate = useNavigate()
   const part = useMemo(() => PARTS.find((item) => item.id === id), [id])
-  const { addLine } = useCart()
+  const { addLine, lines } = useCart()
 
   const [materialId, setMaterialId] = useState(MATERIALS[0].id)
   const [kitId, setKitId] = useState(kitsFor(part?.type ?? 'порог')[0]?.id ?? 'one-side')
@@ -65,6 +65,7 @@ export default function ProductCard() {
   const kit = kits.find((item) => item.id === kitId) ?? kits[0]
   const showDirection = needsArchDirection(part)
   const directionLabel = showDirection ? archDirectionLabel(directionId) : null
+  const inCart = lines.some((line) => line.partId === part.id)
 
   const handleAdd = () => {
     addLine({
@@ -139,6 +140,12 @@ export default function ProductCard() {
         consent_pdn: true,
       })
       if (error) throw error
+      await db.from('leads').insert({
+        name: 'Заказ в 1 клик',
+        phone: `+7${quickPhone}`,
+        comment: `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · Материал: ${material?.label} · Комплектация: ${kit?.label} · ${formatPrice(price)}`,
+        source: `Карточка товара (арт. ${part.sku})`,
+      })
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)
@@ -337,9 +344,14 @@ export default function ProductCard() {
               <button
                 type="button"
                 onClick={handleAdd}
-                className="h-12 w-full rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90 sm:h-11 sm:w-auto sm:flex-1"
+                disabled={inCart}
+                className={
+                  inCart
+                    ? 'h-12 w-full rounded-md border border-[#0369a1] bg-white px-5 text-sm font-medium text-[#0369a1] transition-colors sm:h-11 sm:w-auto sm:flex-1'
+                    : 'h-12 w-full rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90 sm:h-11 sm:w-auto sm:flex-1'
+                }
               >
-                Добавить в корзину
+                {inCart ? 'Товар уже в корзине' : 'Добавить в корзину'}
               </button>
 
               <button

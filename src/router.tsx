@@ -6,6 +6,7 @@ import ProductCard from './pages/ProductCard'
 import Cart from './pages/Cart'
 import Checkout from './pages/Checkout'
 import OrderSuccess from './pages/OrderSuccess'
+import Contacts from './pages/Contacts'
 import NotFound from './pages/NotFound'
 import ImportProbe from './pages/ImportProbe'
 
@@ -21,8 +22,11 @@ export const router = createBrowserRouter([
       { path: 'product/:id', element: <ProductCard /> },
       { path: 'cart', element: <Cart /> },
       { path: 'checkout', element: <Checkout /> },
+      { path: 'contacts', element: <Contacts /> },
       { path: 'order/:orderNumber', element: <OrderSuccess /> },
       { path: 'order/:orderNumber/:slug', element: <OrderSuccess /> },
+      { path: 'thankyou/:orderNumber', element: <OrderSuccess /> },
+      { path: 'thankyou/:orderNumber/:slug', element: <OrderSuccess /> },
       { path: '*', element: <NotFound /> },
     ],
   },

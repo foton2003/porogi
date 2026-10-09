@@ -170,7 +170,28 @@ export default function Catalog() {
       <section className="mt-6 rounded-xl border border-border bg-card p-4 sm:p-5">
         {vehicleReady && (
           <div className="mb-4 rounded-md border border-accent/50 bg-secondary p-3 text-sm sm:hidden">
-            <div className="font-medium">Выбранный автомобиль</div>
+            <div className="flex items-start justify-between gap-2">
+              <div className="font-medium">Выбранный автомобиль</div>
+              <div className="flex shrink-0 items-center gap-2">
+                <button
+                  type="button"
+                  onClick={() => setMobileOpen(true)}
+                  className="text-sm font-medium text-[#16a34a] underline-offset-4 hover:underline"
+                >
+                  Изменить автомобиль
+                </button>
+                <button
+                  type="button"
+                  onClick={reset}
+                  aria-label="Сбросить выбранный автомобиль"
+                  className="flex h-7 w-7 items-center justify-center rounded-full border border-border bg-white text-[#16a34a] transition-colors hover:text-[#15803d]"
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className="h-4 w-4" aria-hidden="true">
+                    <path d="M6 6l12 12M18 6L6 18" strokeLinecap="round" />
+                  </svg>
+                </button>
+              </div>
+            </div>
             <div className="mt-1 text-muted-foreground">
               {[collapsedVehicle?.brand ?? brand, collapsedVehicle?.model ?? model, collapsedVehicle?.generation ?? generation]
                 .filter(Boolean)
@@ -183,7 +204,7 @@ export default function Catalog() {
             mobileOpen ? 'grid' : 'grid sm:hidden'
           } grid-cols-1 gap-4 md:grid md:grid-cols-2 lg:grid-cols-4`}
         >
-          <label className="block sm:hidden">
+          <label className={`${vehicleReady && !mobileOpen ? 'hidden sm:hidden' : 'block'} sm:hidden`}>
             <span className="mb-1.5 block text-sm font-bold text-[#16a34a]">Марка</span>
             <select
               value={brand}
@@ -199,7 +220,7 @@ export default function Catalog() {
             </select>
           </label>
 
-          <label className="block sm:hidden">
+          <label className={`${vehicleReady && !mobileOpen ? 'hidden sm:hidden' : 'block'} sm:hidden`}>
             <span className="mb-1.5 block text-sm font-bold text-[#16a34a]">Модель</span>
             <select
               value={model}
@@ -216,7 +237,7 @@ export default function Catalog() {
             </select>
           </label>
 
-          <label className="block sm:hidden">
+          <label className={`${vehicleReady && !mobileOpen ? 'hidden sm:hidden' : 'block'} sm:hidden`}>
             <span className="mb-1.5 block text-sm font-bold text-[#16a34a]">Поколение</span>
             <select
               value={generation}

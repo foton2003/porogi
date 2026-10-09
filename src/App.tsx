@@ -1,10 +1,53 @@
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { CartProvider, useCart } from '@/store/cart'
 
 const links = [
   { to: '/catalog', label: 'Каталог' },
+  { to: '/contacts', label: 'Контакты' },
 ]
+
+const COOKIE_ACCEPT_KEY = 'sill-arch-cookie-accepted-v1'
+
+function CookieBanner() {
+  const [visible, setVisible] = useState(() => {
+    try {
+      return window.localStorage.getItem(COOKIE_ACCEPT_KEY) !== '1'
+    } catch {
+      return true
+    }
+  })
+
+  if (!visible) return null
+
+  const accept = () => {
+    try {
+      window.localStorage.setItem(COOKIE_ACCEPT_KEY, '1')
+    } catch {
+      // localStorage недоступен — баннер просто закроется до перезагрузки
+    }
+    setVisible(false)
+  }
+
+  return (
+    <div
+      role="region"
+      aria-label="Уведомление о файлах cookie"
+      className="fixed inset-x-0 bottom-0 z-50 border-t border-border bg-card/95 backdrop-blur"
+    >
+      <div className="mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-3 sm:px-6">
+        <p className="text-sm text-muted-foreground">Сайт использует файлы Cookies</p>
+        <button
+          type="button"
+          onClick={accept}
+          className="ml-auto inline-flex min-h-11 items-center rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+        >
+          Принять
+        </button>
+      </div>
+    </div>
+  )
+}
 
 function CartBadge() {
   const { count } = useCart()
@@ -46,10 +89,10 @@ export default function App() {
             </Link>
 
             <a
-              href="tel:+78003025024"
+              href="tel:+78003501624"
               className="inline-flex min-h-11 items-center whitespace-nowrap px-1 text-sm font-bold transition-colors hover:text-accent sm:text-base"
             >
-              +7 (800) 302-50-24
+              +7 (800) 350-16-24
             </a>
 
             <nav className="hidden items-center gap-1 sm:flex">
@@ -116,6 +159,8 @@ export default function App() {
           <Outlet />
         </main>
 
+        <CookieBanner />
+
         <footer className="mt-16 border-t border-border bg-card">
           <div className="mx-auto grid w-full max-w-6xl gap-8 px-4 py-10 sm:grid-cols-2 sm:px-6 lg:grid-cols-3">
             <div>
@@ -159,6 +204,7 @@ export default function App() {
           <div className="border-t border-border">
             <div className="mx-auto flex w-full max-w-6xl flex-col gap-1 px-4 py-4 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6">
               <span>© {new Date().getFullYear()} ПорогиПро — ремонтные пороги и арки.</span>
+              <span>ИП ТРЕТЬЯКОВ АРТЕМ АНАТОЛЬЕВИЧ, ИНН 780535524910</span>
               <span>Предложение не является публичной офертой.</span>
             </div>
           </div>

@@ -133,6 +133,12 @@ export default function Home() {
         consent_pdn: true,
       })
       if (error) throw error
+      await db.from('leads').insert({
+        name,
+        phone,
+        comment: 'Обратный звонок с главной страницы «Довериться профессионалу».',
+        source: 'Главная — «Довериться профессионалу»',
+      })
       setCallSent(true)
       setCallName('')
       setCallPhone('')
