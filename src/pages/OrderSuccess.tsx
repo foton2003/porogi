@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useLocation, useParams } from 'react-router-dom'
 import { db } from '@lork/sdk'
+import { markPhoneClick } from '@/lib/callbackScript'
 import { formatPrice } from '@/data/catalog'
 import { decodeOrderNumber, useCart } from '@/store/cart'
 
@@ -96,6 +97,15 @@ function SuccessLayout({ children }: { children: React.ReactNode }) {
 }
 
 export default function OrderSuccess() {
+  /* Отметка клика по телефону — скрипт обратного звонка больше не срабатывает. */
+  useEffect(() => {
+    const onClick = (event: MouseEvent) => {
+      const target = event.target instanceof Element ? event.target.closest('a[href^="tel:"]') : null
+      if (target) markPhoneClick()
+    }
+    document.addEventListener('click', onClick)
+    return () => document.removeEventListener('click', onClick)
+  }, [])
   const { orderNumber } = useParams()
   const location = useLocation()
   const { lastOrder, freshOrderId, consumeFreshOrder } = useCart()

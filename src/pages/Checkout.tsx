@@ -1,9 +1,10 @@
-import { useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { Link, Navigate, useNavigate } from 'react-router-dom'
 import { db } from '@lork/sdk'
 import { archDirectionLabel, archDirectionTitle, cartTotal, describeLine, formatPrice, needsArchDirection } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
 import { encodeOrderNumber, orderItemsFromLines, orderTotalFromLines, useCart } from '@/store/cart'
+import { markContact, markPhoneClick, rememberCallbackProfile } from '@/lib/callbackScript'
 
 interface FieldErrors {
   name?: string
@@ -123,6 +124,16 @@ function createOrderNumber(): string {
 }
 
 export default function Checkout() {
+  /* Отметка клика по телефону — скрипт обратного звонка больше не срабатывает. */
+  useEffect(() => {
+    const onClick = (event: MouseEvent) => {
+      const target = event.target instanceof Element ? event.target.closest('a[href^="tel:"]') : null
+      if (target) markPhoneClick()
+    }
+    document.addEventListener('click', onClick)
+    return () => document.removeEventListener('click', onClick)
+  }, [])
+
   const { lines, clear, saveOrder } = useCart()
   const navigate = useNavigate()
   const [name, setName] = useState('')
@@ -211,6 +222,8 @@ export default function Checkout() {
       if (error) throw error
       saveOrder(savedOrder)
       saved = true
+      rememberCallbackProfile({ name: payload.customer_name, phone: payload.phone })
+      markContact()
     } catch {
       setSubmitError('Не удалось сохранить заказ. Попробуйте ещё раз.')
     } finally {

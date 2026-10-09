@@ -1,4 +1,4 @@
-import { useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { db } from '@lork/sdk'
 import {
@@ -14,7 +14,7 @@ import {
   type Part,
 } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
-import { useCart } from '@/store/cart'
+import { getCallbackProfile, markContact, onCallbackEvent, rememberCallbackProfile } from '@/lib/callbackScript'
 
 function createOrderNumber(): string {
   const stamp = Date.now().toString(36).toUpperCase()
@@ -26,49 +26,59 @@ interface CatalogCardProps {
   part: Part
 }
 
-/** Карточка товара в каталоге с действиями «Купить», «Купить в 1 клик» и «Консультация». */
+/** Карточка товара в каталоге с действиями «Выбрать комплектацию», «Купить в 1 клик» и «Консультация». */
 export default function CatalogCard({ part }: CatalogCardProps) {
   const navigate = useNavigate()
-  const { addLine, lines } = useCart()
 
   const material = MATERIALS[0]
   const kit = useMemo(() => kitsFor(part.type)[0], [part.type])
   const showDirection = needsArchDirection(part)
   const price = linePrice(part, material.id, kit.id)
   const basePrice = basePriceFor(part, material.id)
-  const inCart = lines.some((line) => line.partId === part.id)
 
-  const [added, setAdded] = useState(false)
-  const [addedOpen, setAddedOpen] = useState(false)
   const [quickOpen, setQuickOpen] = useState(false)
   const [quickPhone, setQuickPhone] = useState('')
   const [quickError, setQuickError] = useState('')
   const [quickSending, setQuickSending] = useState(false)
   const [quickSent, setQuickSent] = useState(false)
   const [quickConsent, setQuickConsent] = useState(false)
+
+  /* Отправка любой формы отключает скрипт обратного звонка. */
+  useEffect(() => {
+    if (quickSent) markContact()
+  }, [quickSent])
+
   const [callOpen, setCallOpen] = useState(false)
+
+  /* Скрипт обратного звонка: показывает форму на первом визите по таймеру
+     или при попытке закрыть сайт; данные из Cookie подставляются в форму. */
+  useEffect(() => {
+    let cancelled = false
+    const onShown = () => {
+      if (cancelled) return
+      const profile = getCallbackProfile()
+      if (profile.name) setCallName(profile.name)
+      if (profile.phone) setCallPhone(profile.phone.replace(/^\+7/, ''))
+      setCallOpen(true)
+      setCallError('')
+      setCallSent(false)
+      setCallConsent(false)
+    }
+    const off = onCallbackEvent((event) => {
+      if (event.type === 'callback-form-shown') onShown()
+    })
+    return () => {
+      cancelled = true
+      off()
+    }
+  }, [])
+
   const [callName, setCallName] = useState('')
   const [callPhone, setCallPhone] = useState('')
   const [callError, setCallError] = useState('')
   const [callSending, setCallSending] = useState(false)
   const [callSent, setCallSent] = useState(false)
   const [callConsent, setCallConsent] = useState(false)
-
-  const handleBuy = () => {
-    if (inCart) return
-    addLine({ partId: part.id, materialId: material.id, kitId: kit.id, qty: 1 })
-    setAdded(true)
-    setAddedOpen(true)
-    window.setTimeout(() => setAdded(false), 2200)
-  }
-
-  const closeAdded = () => setAddedOpen(false)
-
-  const proceedFromAdded = (destination: 'cart' | 'quick') => {
-    closeAdded()
-    if (destination === 'cart') navigate('/checkout')
-    else openQuick()
-  }
 
   const openQuick = () => {
     setQuickOpen(true)
@@ -129,6 +139,8 @@ export default function CatalogCard({ part }: CatalogCardProps) {
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)
+      rememberCallbackProfile({ phone: `+7${quickPhone}` })
+      markContact()
     } catch {
       setQuickError('Не удалось отправить заявку. Попробуйте ещё раз.')
     } finally {
@@ -189,6 +201,8 @@ export default function CatalogCard({ part }: CatalogCardProps) {
       setCallName('')
       setCallPhone('')
       setCallConsent(false)
+      rememberCallbackProfile({ name, phone: `+7${callPhone}` })
+      markContact()
     } catch {
       setCallError('Не удалось отправить заявку. Попробуйте ещё раз.')
     } finally {
@@ -228,15 +242,10 @@ export default function CatalogCard({ part }: CatalogCardProps) {
       <div className="grid gap-2 border-t border-border p-4 pt-3">
         <button
           type="button"
-          onClick={handleBuy}
-          disabled={inCart}
-          className={
-            inCart
-              ? 'inline-flex min-h-11 w-full items-center justify-center rounded-md border border-[#0369a1] bg-white px-4 text-sm font-medium text-[#0369a1] transition-colors'
-              : 'inline-flex min-h-11 w-full items-center justify-center rounded-md bg-primary px-4 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90'
-          }
+          onClick={() => navigate(`/product/${part.id}`)}
+          className="inline-flex min-h-11 w-full items-center justify-center rounded-md bg-primary px-4 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
         >
-          {inCart ? 'Товар уже в корзине' : 'Купить'}
+          Выбрать комплектацию
         </button>
         <div className="grid grid-cols-2 gap-2">
           <button
@@ -255,87 +264,6 @@ export default function CatalogCard({ part }: CatalogCardProps) {
           </button>
         </div>
       </div>
-
-      {added && (
-        <div
-          className="mx-4 mb-4 rounded-md border border-accent bg-secondary px-3 py-2 text-sm text-foreground"
-          role="status"
-        >
-          Товар добавлен в корзину
-        </div>
-      )}
-
-      {addedOpen && (
-        <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-foreground/60 p-4"
-          role="dialog"
-          aria-modal="true"
-          aria-labelledby={`added-order-title-${part.id}`}
-          onClick={closeAdded}
-        >
-          <div
-            className="w-full max-w-md rounded-xl border border-border bg-card p-6 shadow-xl"
-            onClick={(event) => event.stopPropagation()}
-          >
-            <div className="flex items-start justify-between gap-4">
-              <div>
-                <h2 id={`added-order-title-${part.id}`} className="text-xl font-bold tracking-tight">
-                  Товар добавлен в корзину
-                </h2>
-                <p className="mt-2 text-sm text-muted-foreground">Выберите, как оформить покупку.</p>
-              </div>
-              <button
-                type="button"
-                onClick={closeAdded}
-                aria-label="Закрыть окно"
-                className="inline-flex min-h-11 min-w-11 items-center justify-center rounded-md border border-border px-2 text-sm text-muted-foreground transition-colors hover:border-accent hover:text-accent"
-              >
-                ✕
-              </button>
-            </div>
-
-            <div className="mt-4 rounded-md border border-border bg-secondary p-3 text-sm">
-              <div className="font-medium">{archDirectionTitle(part)}</div>
-              <div className="mt-1 text-muted-foreground">
-                {showDirection ? `Направление: ${archDirectionLabel()} · ` : ''}
-                Материал: {material.label} · Комплектация: {kit.label}
-              </div>
-              <div className="mt-1 flex items-center justify-between gap-2">
-                <span className="text-muted-foreground">Арт. {part.sku}</span>
-                <span className="font-semibold text-accent">{formatPrice(price)}</span>
-              </div>
-              <div className="mt-1 flex items-center justify-between gap-2">
-                <span className="text-muted-foreground">Итого</span>
-                <span className="font-semibold text-accent">{formatPrice(price)}</span>
-              </div>
-            </div>
-
-            <div className="mt-5 grid gap-3">
-              <button
-                type="button"
-                onClick={() => proceedFromAdded('cart')}
-                className="min-h-11 w-full rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
-              >
-                Оформить заказ
-              </button>
-              <button
-                type="button"
-                onClick={() => proceedFromAdded('quick')}
-                className="min-h-11 w-full rounded-md border border-[#7dd3fc] bg-[#e0f2fe] px-5 text-sm font-medium text-[#0369a1] transition-colors hover:border-[#38bdf8] hover:bg-[#bae6fd]"
-              >
-                Купить в 1 клик
-              </button>
-              <button
-                type="button"
-                onClick={closeAdded}
-                className="min-h-11 w-full rounded-md border border-border px-5 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
-              >
-                Продолжить покупки
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
 
       {quickOpen && (
         <div

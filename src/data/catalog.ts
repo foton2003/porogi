@@ -2492,9 +2492,16 @@ export const VEHICLES: Vehicle[] = Array.from(
   ).values(),
 )
 
-export const BRANDS = Array.from(new Set(VEHICLES.map((v) => v.brand))).sort((a, b) =>
-  a.localeCompare(b, 'ru'),
-)
+/** Марки: латиница в начале, кириллица — в конце; внутри группы — по алфавиту. */
+function brandGroup(brand: string): number {
+  return /[A-Za-z]/.test(brand) ? 0 : 1
+}
+
+export const BRANDS = Array.from(new Set(VEHICLES.map((v) => v.brand))).sort((a, b) => {
+  const groupDiff = brandGroup(a) - brandGroup(b)
+  if (groupDiff !== 0) return groupDiff
+  return a.localeCompare(b, 'ru')
+})
 
 export function modelsForBrand(brand: string): string[] {
   return Array.from(

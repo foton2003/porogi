@@ -15,6 +15,7 @@ import {
 } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
 import { useCart } from '@/store/cart'
+import { markContact, rememberCallbackProfile } from '@/lib/callbackScript'
 
 function createOrderNumber(): string {
   const stamp = Date.now().toString(36).toUpperCase()
@@ -38,10 +39,9 @@ export default function ProductCard() {
   const [quickOpen, setQuickOpen] = useState(false)
   const [quickPhone, setQuickPhone] = useState('')
   const [quickError, setQuickError] = useState('')
-  const [quickSending, setQuickSending] = useState(false)
   const [quickSent, setQuickSent] = useState(false)
   const [quickConsent, setQuickConsent] = useState(false)
-
+  const [quickSending, setQuickSending] = useState(false)
 
   if (!part) {
     return (
@@ -143,6 +143,8 @@ export default function ProductCard() {
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)
+      rememberCallbackProfile({ phone: `+7${quickPhone}` })
+      markContact()
     } catch {
       setQuickError('Не удалось отправить заявку. Попробуйте ещё раз.')
     } finally {

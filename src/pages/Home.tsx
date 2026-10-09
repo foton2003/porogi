@@ -1,8 +1,9 @@
-import { useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { db } from '@lork/sdk'
 import { BRANDS, PARTS, VEHICLES, buildCatalogPath, formatPrice, generationsFor, modelsForBrand } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
+import { getCallbackProfile, markContact, onCallbackEvent, rememberCallbackProfile } from '@/lib/callbackScript'
 
 const advantages = [
   {
@@ -59,6 +60,34 @@ export default function Home() {
   const [callSending, setCallSending] = useState(false)
   const [callSent, setCallSent] = useState(false)
   const [callConsent, setCallConsent] = useState(false)
+
+  /* Скрипт обратного звонка: показывает форму на первом визите по таймеру
+     или при попытке закрыть сайт; данные из Cookie подставляются в форму. */
+  useEffect(() => {
+    let cancelled = false
+    const onShown = () => {
+      if (cancelled) return
+      const profile = getCallbackProfile()
+      if (profile.name) setCallName(profile.name)
+      if (profile.phone) setCallPhone(profile.phone.replace(/^\+7/, ''))
+      setCallOpen(true)
+      setCallError('')
+      setCallSent(false)
+      setCallConsent(false)
+    }
+    const off = onCallbackEvent((event) => {
+      if (event.type === 'callback-form-shown') onShown()
+    })
+    return () => {
+      cancelled = true
+      off()
+    }
+  }, [])
+
+  /* Отправка любой формы на сайте отключает скрипт обратного звонка. */
+  useEffect(() => {
+    if (callSent) markContact()
+  }, [callSent])
 
   const models = useMemo(() => (brand ? modelsForBrand(brand) : []), [brand])
   const generations = useMemo(
@@ -137,6 +166,8 @@ export default function Home() {
       setCallName('')
       setCallPhone('')
       setCallConsent(false)
+      rememberCallbackProfile({ name, phone })
+      markContact()
     } catch {
       setCallError('Не удалось отправить заявку. Попробуйте ещё раз.')
     } finally {

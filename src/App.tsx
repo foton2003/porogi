@@ -1,6 +1,8 @@
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 import { CartProvider, useCart } from '@/store/cart'
+import CallbackScript from '@/components/CallbackScript'
+import { markPhoneClick } from '@/lib/callbackScript'
 
 const links = [
   { to: '/catalog', label: 'Каталог' },
@@ -90,6 +92,7 @@ export default function App() {
 
             <a
               href="tel:+78003501624"
+              onClick={() => markPhoneClick()}
               className="inline-flex min-h-11 items-center whitespace-nowrap px-1 text-sm font-bold transition-colors hover:text-accent sm:text-base"
             >
               +7 (800) 350-16-24
@@ -158,6 +161,8 @@ export default function App() {
         <main className="flex-1">
           <Outlet />
         </main>
+
+        <CallbackScript />
 
         <CookieBanner />
 

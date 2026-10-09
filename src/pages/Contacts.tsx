@@ -1,4 +1,6 @@
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { markPhoneClick } from '@/lib/callbackScript'
 
 const ADDRESS = 'г. Санкт-Петербург, ул. Бабушкина, 36, корп. 1'
 const PHONE = '+7 (800) 350-16-24'
@@ -20,6 +22,17 @@ const points = [
 ]
 
 export default function Contacts() {
+  /* Отметка первого визита — чтобы скрипт обратного звонка срабатывал
+     один раз: клик по телефону и отправка любой формы его отключают. */
+  useEffect(() => {
+    const onClick = (event: MouseEvent) => {
+      const target = event.target instanceof Element ? event.target.closest('a[href^="tel:"]') : null
+      if (target) markPhoneClick()
+    }
+    document.addEventListener('click', onClick)
+    return () => document.removeEventListener('click', onClick)
+  }, [])
+
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
       <div className="max-w-2xl">
