@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link, Navigate, useNavigate } from 'react-router-dom'
-import { cartTotal, describeLine, formatPrice, needsArchDirection, archDirectionLabel, archDirectionTitle } from '@/data/catalog'
+import { cartTotal, describeLine, formatPrice, isSchemeImage, needsArchDirection, archDirectionLabel, archDirectionTitle } from '@/data/catalog'
 import { useCart } from '@/store/cart'
 
 export default function Cart() {
@@ -70,8 +70,14 @@ export default function Cart() {
                 <Link to={`/product/${part.id}`} className="shrink-0">
                   <img
                     src={part.images[0]}
-                    alt={part.title}
-                    className="h-24 w-full rounded-md object-cover sm:h-24 sm:w-32"
+                    alt={
+                      isSchemeImage(part.images[0])
+                        ? `${part.title} — схема зоны установки`
+                        : part.title
+                    }
+                    className={`h-24 w-full rounded-md sm:h-24 sm:w-32 ${
+                      isSchemeImage(part.images[0]) ? 'object-contain p-1' : 'object-cover'
+                    }`}
                     loading="lazy"
                   />
                 </Link>

@@ -2,7 +2,7 @@
  * Скрипт вызова формы обратного звонка для первого визита.
  *
  * Форму показываем, если это первый визит: посетитель ни разу не отправлял
- * форму и не кликал по номеру телефона, и прошло 30 секунд на сайте либо он
+ * форму и не кликал по номеру телефона, и прошло 25 секунд на сайте либо он
  * попытался закрыть сайт (вкладку, свернул её или перешёл на другой сайт).
  * Повторно в рамках одного визита скрипт не срабатывает. Интервал показа,
  * подпись формы и данные предыдущих форм берутся из Cookie.
@@ -19,13 +19,13 @@ export const CALLBACK_COOKIES = {
   promptShown: 'sill-arch-callback-prompt-shown-v1',
   /** «1» — посетитель сам закрыл показ формы. */
   dismissed: 'sill-arch-callback-dismissed-v1',
-  /** Необязательная настройка: интервал показа в секундах (по умолчанию 30). */
+  /** Необязательная настройка: интервал показа в секундах (по умолчанию 60). */
   interval: 'sill-arch-callback-interval-v1',
   /** Необязательная настройка: подпись у формы обратного звонка. */
   prompt: 'sill-arch-callback-prompt-v1',
 } as const
 
-export const DEFAULT_SHOW_DELAY_MS = 30_000
+export const DEFAULT_SHOW_DELAY_MS = 60_000
 
 /** Триггер, по которому форма была показана. */
 export type CallbackTrigger = 'timer' | 'exit' | 'manual'
@@ -49,6 +49,7 @@ export type CallbackEvent =
 type Listener = (event: CallbackEvent) => void
 
 const listeners = new Set<Listener>()
+let firstVisit: boolean | undefined
 
 export function onCallbackEvent(listener: Listener): () => void {
   listeners.add(listener)
@@ -106,7 +107,7 @@ export function getCallbackProfile(): CallbackProfile {
   return parseProfile(readCookie(CALLBACK_COOKIES.profile))
 }
 
-/** Интервал показа формы: из Cookie или 30 секунд по умолчанию. */
+/** Интервал показа формы: из Cookie или 25 секунд по умолчанию. */
 export function getShowDelayMs(): number {
   const raw = readCookie(CALLBACK_COOKIES.interval)
   if (!raw) return DEFAULT_SHOW_DELAY_MS
@@ -153,7 +154,9 @@ export function isDismissed(): boolean {
 
 /** Это первый визит: посетитель ещё не видел сайт (флаг ставится при старте). */
 export function isFirstVisit(): boolean {
-  return readCookie(CALLBACK_COOKIES.seen) !== '1'
+  // Запоминаем признак до markSeen(): запись Cookie не завершает текущий визит.
+  firstVisit ??= readCookie(CALLBACK_COOKIES.seen) !== '1'
+  return firstVisit
 }
 
 /** Отмечает, что посетитель зашёл на сайт. */

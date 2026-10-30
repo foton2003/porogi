@@ -5,12 +5,14 @@ import {
   CALLBACK_COOKIES,
   dismissCallback,
   getCallbackProfile,
+  getShowDelayMs,
   markContact,
   onCallbackEvent,
   readCookie,
   rememberCallbackProfile,
   writeCookie,
 } from '@/lib/callbackScript'
+import { sendUisLead } from '@/lib/uisLead'
 
 /** Адаптация формы под данные из Cookie: подпись и введённые ранее значения. */
 function promptFromCookie(): string {
@@ -34,7 +36,7 @@ function forceCookie(name: string, value: string): void {
 
 /**
  * Скрипт вызова формы обратного звонка: показывает форму на первом визите
- * через 30 секунд без отправленной формы и без клика по телефону либо при
+ * через 25 секунд без отправленной формы и без клика по телефону либо при
  * попытке закрыть сайт. Данные из Cookie подставляются в форму.
  */
 export default function CallbackScript() {
@@ -47,9 +49,7 @@ export default function CallbackScript() {
   const [sent, setSent] = useState(false)
   const [consent, setConsent] = useState(false)
 
-  /* Фиксируем сам факт визита до запуска таймера: canShow() читает seen,
-     поэтому запись идёт сразу, а сам показ зависит от promptShown/contact/
-     dismissed, которые ставятся позже. */
+  /* Фиксируем визит; признак первого посещения сохраняется до конца сессии. */
   useEffect(() => {
     import('@/lib/callbackScript').then(({ markSeen }) => markSeen())
   }, [])
@@ -57,7 +57,7 @@ export default function CallbackScript() {
   /* Открываем форму по событию скрипта (таймер или попытка закрыть сайт). */
   useEffect(() => {
     const off = onCallbackEvent((event) => {
-      if (event.type !== 'callback-form-shown') return
+      if (event.type !== 'callback-form-shown' || event.trigger === 'manual') return
       const profile = getCallbackProfile()
       setPrompt(promptFromCookie())
       setName(profile.name ?? '')
@@ -70,7 +70,7 @@ export default function CallbackScript() {
     return off
   }, [])
 
-  /* Таймер показа: 30 секунд (или интервал из Cookie) без контакта. */
+  /* Таймер показа: 25 секунд (или интервал из Cookie) без контакта. */
   useEffect(() => {
     let cancelled = false
     const timer = window.setTimeout(() => {
@@ -78,7 +78,7 @@ export default function CallbackScript() {
       import('@/lib/callbackScript').then(({ canShow, showCallback }) => {
         if (!cancelled && canShow()) showCallback('timer')
       })
-    }, 30_000)
+    }, getShowDelayMs())
     return () => {
       cancelled = true
       window.clearTimeout(timer)
@@ -128,18 +128,21 @@ export default function CallbackScript() {
     setError('')
     setSending(true)
     try {
+      const comment = `Обратный звонок (скрипт первого визита: ${readCookie(CALLBACK_COOKIES.prompt) || '25 секунд'}).${prompt ? `\nПодпись: ${prompt}` : ''}\nСтраница: ${window.location.href}`
       const { error: insertError } = await db.from('orders_public').insert({
         order_number: 'CALLBACK',
         customer_name: trimmedName,
         phone: fullPhone,
         city: '—',
-        comment: `Обратный звонок (скрипт первого визита: ${readCookie(CALLBACK_COOKIES.prompt) || '30 секунд'}).${prompt ? `\nПодпись: ${prompt}` : ''}\nСтраница: ${window.location.href}`,
+        comment,
         items: [],
         total: 0,
         status: 'callback',
         consent_pdn: true,
       })
       if (insertError) throw insertError
+      /* Заявка сохранена — передаём её в UIS; сбой UIS не влияет на отправку. */
+      void sendUisLead({ name: trimmedName, phone: fullPhone, message: comment })
       markContact()
       rememberCallbackProfile({ name: trimmedName, phone: fullPhone })
       forceCookie(CALLBACK_COOKIES.prompt, '')

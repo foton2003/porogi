@@ -5,6 +5,7 @@ import { archDirectionLabel, archDirectionTitle, cartTotal, describeLine, format
 import ConsentCheckbox from '@/components/ConsentCheckbox'
 import { encodeOrderNumber, orderItemsFromLines, orderTotalFromLines, useCart } from '@/store/cart'
 import { markContact, markPhoneClick, rememberCallbackProfile } from '@/lib/callbackScript'
+import { sendUisLead } from '@/lib/uisLead'
 
 interface FieldErrors {
   name?: string
@@ -143,6 +144,7 @@ export default function Checkout() {
   const [errors, setErrors] = useState<FieldErrors>({})
   const [submitError, setSubmitError] = useState('')
   const [submitting, setSubmitting] = useState(false)
+  const [orderCompleted, setOrderCompleted] = useState(false)
   const [cityOpen, setCityOpen] = useState(false)
   const [consent, setConsent] = useState(false)
 
@@ -155,7 +157,7 @@ export default function Checkout() {
   const items = lines.map((line) => ({ line, described: describeLine(line) }))
   const total = cartTotal(lines)
 
-  if (lines.length === 0) {
+  if (lines.length === 0 && !orderCompleted) {
     return <Navigate to="/catalog" replace />
   }
 
@@ -192,12 +194,22 @@ export default function Checkout() {
       const digits = trimmed.replace(/\D/g, '').replace(/^78/, '7')
       return `+${digits}`
     })()
+    /* Один и тот же текст уходит в заявку и в UIS: состав заказа, итог, комментарий. */
+    const commentText = [
+      `Заказ ${orderNumber}`,
+      city.trim() ? `Город: ${city.trim()}` : '',
+      ...orderItems.map((item) => `${item.title} · Арт. ${item.sku} · ${item.material} · ${item.kit}${item.direction ? ` · ${item.direction}` : ''} · ${item.qty} шт. · ${formatPrice(item.sum)}`),
+      `Итого: ${formatPrice(orderTotal)}`,
+      comment.trim(),
+      'Оформление заказа (корзина)',
+      `Страница: ${window.location.href}`,
+    ].filter(Boolean).join('\n')
     const payload = {
       order_number: orderNumber,
       customer_name: name.trim(),
       phone: normalizedPhone,
       city: city.trim(),
-      comment: [`Заказ ${orderNumber}`, `Город: ${city.trim()}`, comment.trim(), 'Оформление заказа (корзина)', `Страница: ${window.location.href}`].filter(Boolean).join('\n'),
+      comment: commentText,
       items: orderItems,
       total: orderTotal,
       status: 'new',
@@ -220,6 +232,12 @@ export default function Checkout() {
     try {
       const { error } = await db.from('orders_public').insert(payload)
       if (error) throw error
+      /* Заказ сохранён — передаём заявку в UIS; сбой UIS не влияет на заказ. */
+      void sendUisLead({
+        name: payload.customer_name,
+        phone: payload.phone,
+        message: commentText,
+      })
       saveOrder(savedOrder)
       saved = true
       rememberCallbackProfile({ name: payload.customer_name, phone: payload.phone })
@@ -234,6 +252,7 @@ export default function Checkout() {
        блока try/catch: сбой сохранения состояния заказа не должен отменять
        подтверждённый заказ, а ошибка маршрутизатора — молча уводить в каталог. */
     if (saved) {
+      setOrderCompleted(true)
       clear()
       try {
         navigate(`/thankyou/${encodeOrderNumber(orderNumber)}`, {
@@ -383,12 +402,6 @@ export default function Checkout() {
             >
               {submitting ? 'Отправляем заказ…' : 'Оформить заказ'}
             </button>
-            <Link
-              to="/cart"
-              className="rounded-md border border-border px-5 py-3 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
-            >
-              Вернуться в корзину
-            </Link>
           </div>
         </form>
 

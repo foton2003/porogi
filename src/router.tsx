@@ -10,6 +10,9 @@ import Contacts from './pages/Contacts'
 import NotFound from './pages/NotFound'
 import ImportProbe from './pages/ImportProbe'
 import MarketFeed from './pages/MarketFeed'
+import { lazy, Suspense } from 'react'
+
+const AdminApp = lazy(() => import('./admin/AdminApp'))
 
 export const router = createBrowserRouter([
   {
@@ -29,6 +32,14 @@ export const router = createBrowserRouter([
       { path: 'order/:orderNumber/:slug', element: <OrderSuccess /> },
       { path: 'thankyou/:orderNumber', element: <OrderSuccess /> },
       { path: 'thankyou/:orderNumber/:slug', element: <OrderSuccess /> },
+      {
+        path: 'admin/*',
+        element: (
+          <Suspense fallback={<div className="p-10 text-center text-muted-foreground">Загрузка…</div>}>
+            <AdminApp />
+          </Suspense>
+        ),
+      },
       { path: '*', element: <NotFound /> },
     ],
   },

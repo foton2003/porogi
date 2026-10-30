@@ -1,21 +1,35 @@
-import { useMemo, useState, type FormEvent } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { db } from '@lork/sdk'
 import {
+  ALL_PARTS,
   ARCH_DIRECTIONS,
+  FOAM_TAILGATE_OLD_PRICE,
   MATERIALS,
-  PARTS,
+  type PartType,
   archDirectionLabel,
   archDirectionTitle,
   basePriceFor,
+  foamTitle,
   formatPrice,
+  isFoam,
+  isSchemeImage,
   kitsFor,
   linePrice,
   needsArchDirection,
 } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
+import ImageLightbox from '@/components/ImageLightbox'
 import { useCart } from '@/store/cart'
 import { markContact, rememberCallbackProfile } from '@/lib/callbackScript'
+import { sendUisLead } from '@/lib/uisLead'
+
+/** Фото ремонтного комплекта арок (вложение komplekt_arok.jpeg). */
+const KIT_ARCH_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c149dcbb798767a8088c897c404d8dca/komplekt_arok.jpeg'
+/** Фото ремонтного комплекта порогов (вложение komplekt_porogov.jpeg). */
+const KIT_POROG_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_dda0a506c22515fa403a342fd460977b/komplekt_porogov.jpeg'
 
 function createOrderNumber(): string {
   const stamp = Date.now().toString(36).toUpperCase()
@@ -23,16 +37,52 @@ function createOrderNumber(): string {
   return `ORD-${stamp}-${random}`
 }
 
+/** Description по шаблону из задания: деталь, автомобиль и цена от.
+ *  Для пенок — тот же шаблон с фиксированной ценой (без «Гарантия» —
+ *  формулировки наследуются от текущих шаблонов карточки). */
+function productDescription(
+  kind: PartType,
+  brand: string,
+  model: string,
+  generation: string,
+  fromPrice: string,
+  foam?: { title: string },
+): string {
+  const vehicle = [brand, model, generation].filter(Boolean).join(' ')
+  if (foam)
+    return `Новая ${foam.title.toLowerCase()} для ${vehicle}. От производителя со 100% повторением оригинальной детали. Цена ${fromPrice}.`
+  return kind === 'порог'
+    ? `Новый ремонтный кузовной порог для ${vehicle}. От производителя со 100% повторением оригинальной детали. Цена от ${fromPrice}. Гарантия.`
+    : `Новая ремонтная кузовная колёсная арка для ${vehicle}. От производителя со 100% повторением оригинальной детали. Цена от ${fromPrice}. Гарантия.`
+}
+
+/** Title по шаблону из задания: тип, автомобиль и кузов. */
+function productHeading(
+  kind: PartType,
+  brand: string,
+  model: string,
+  generation: string,
+  body: string,
+  foam?: { title: string },
+): string {
+  const vehicle = [brand, model, generation, body].filter(Boolean).join(' ')
+  if (foam) return `Купить ${foam.title.toLowerCase()} на ${vehicle}`
+  return kind === 'порог'
+    ? `Купить кузовной ремонтный порог на ${vehicle}`
+    : `Купить кузовную ремонтную арку на ${vehicle}`
+}
+
 export default function ProductCard() {
   const { id } = useParams()
   const navigate = useNavigate()
-  const part = useMemo(() => PARTS.find((item) => item.id === id), [id])
+  const part = useMemo(() => ALL_PARTS.find((item) => item.id === id), [id])
   const { addLine, lines } = useCart()
 
   const [materialId, setMaterialId] = useState(MATERIALS[0].id)
-  const [kitId, setKitId] = useState(kitsFor(part?.type ?? 'порог')[0]?.id ?? 'one-side')
+  const [kitId, setKitId] = useState(kitsFor(part?.type ?? 'порог', part?.foamKind)[0]?.id ?? 'one-side')
   const [directionId, setDirectionId] = useState<'front' | 'rear'>('rear')
   const [activeImage, setActiveImage] = useState(0)
+  const [lightboxOpen, setLightboxOpen] = useState(false)
   const [added, setAdded] = useState(false)
   const [addedOpen, setAddedOpen] = useState(false)
 
@@ -58,20 +108,110 @@ export default function ProductCard() {
     )
   }
 
-  const price = linePrice(part, materialId, kitId)
-  const basePrice = basePriceFor(part, materialId)
-  const material = MATERIALS.find((item) => item.id === materialId)
-  const kits = kitsFor(part.type)
-  const kit = kits.find((item) => item.id === kitId) ?? kits[0]
   const showDirection = needsArchDirection(part)
+  const foam = isFoam(part)
+  /* Для пенок цена фиксированная — материал и направление не участвуют. */
+  const price = linePrice(
+    part,
+    foam ? MATERIALS[0].id : materialId,
+    foam ? 'foam' : kitId,
+    !foam && showDirection ? directionId : undefined,
+  )
+  const basePrice = basePriceFor(part, foam ? MATERIALS[0].id : materialId)
+  const oldPrice = part.foamKind === 'foam-tailgate' ? FOAM_TAILGATE_OLD_PRICE : null
+  const material = MATERIALS.find((item) => item.id === materialId)
+  const kits = kitsFor(part.type, part.foamKind)
+  const kit = kits.find((item) => item.id === kitId) ?? kits[0]
+  /* Подмена главного фото при выборе «Ремонтного комплекта»:
+     арки → komplekt_arok.jpeg, пороги → komplekt_porogov.jpeg;
+     при снятии опции возвращается исходный кадр part.images[activeImage]. */
+  const kitPhoto =
+    !foam && part.type === 'арка' && kitId === 'full-repair-arch'
+      ? KIT_ARCH_IMAGE
+      : !foam && part.type === 'порог' && kitId === 'full-repair'
+        ? KIT_POROG_IMAGE
+        : null
+  const mainImage = kitPhoto ?? part.images[activeImage]
   const directionLabel = showDirection ? archDirectionLabel(directionId) : null
   const inCart = lines.some((line) => line.partId === part.id)
+
+  /* Микроразметка Schema.org (JSON-LD): товар + продавец.
+     URL извлекается из адреса страницы, чтобы не терять языковую
+     часть пути. Данные — из карточки каталога, без выдуманных фактов. */
+  const canonicalUrl = `${window.location.origin}${window.location.pathname}`
+  const productSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: part.title,
+    sku: part.sku,
+    description: part.description,
+    image: part.images,
+    brand: { '@type': 'Brand', name: part.vehicle.brand },
+    manufacturer: { '@type': 'Organization', name: 'Магазин кузовных порогов и арок' },
+    category: part.foamKind ? foamTitle(part.foamKind) : part.type,
+    offers: {
+      '@type': 'Offer',
+      url: canonicalUrl,
+      priceCurrency: 'RUB',
+      price: basePrice,
+      availability: 'https://schema.org/InStock',
+      itemCondition: 'https://schema.org/NewCondition',
+      seller: { '@type': 'Organization', name: 'Магазин кузовных порогов и арок' },
+    },
+  }
+
+  useEffect(() => {
+    const script = document.createElement('script')
+    script.type = 'application/ld+json'
+    script.textContent = JSON.stringify(productSchema)
+    document.head.appendChild(script)
+    return () => {
+      document.head.removeChild(script)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [part.id])
+
+  /* SEO: title и meta description по шаблонам из задания — меняются вместе
+     с карточкой товара. H1 остаётся прежним. Значения берутся из карточки
+     каталога (марка, модель, поколение, кузов, базовая цена), без выдуманных
+     фактов: «цена от» — это базовая цена выбранного материала, как в фидах. */
+  const seoHeading = productHeading(
+    part.type,
+    part.vehicle.brand,
+    part.vehicle.model,
+    part.vehicle.generation,
+    part.body,
+    part.foamKind ? { title: foamTitle(part.foamKind) } : undefined,
+  )
+  const seoDescription = productDescription(
+    part.type,
+    part.vehicle.brand,
+    part.vehicle.model,
+    part.vehicle.generation,
+    formatPrice(basePrice),
+    part.foamKind ? { title: foamTitle(part.foamKind) } : undefined,
+  )
+  useEffect(() => {
+    document.title = seoHeading
+    const meta = document.querySelector('meta[name="description"]')
+    if (meta) meta.setAttribute('content', seoDescription)
+    return () => {
+      document.title = 'ПорогиПро — ремонтные пороги и колёсные арки'
+      const defaultMeta = document.querySelector('meta[name="description"]')
+      if (defaultMeta) {
+        defaultMeta.setAttribute(
+          'content',
+          'Новые ремонтные пороги и колёсные арки для автомобилей: каталог с подбором по марке, модели и году выпуска, корзина и оформление заказа.',
+        )
+      }
+    }
+  }, [seoHeading, seoDescription])
 
   const handleAdd = () => {
     addLine({
       partId: part.id,
       materialId,
-      kitId,
+      kitId: foam ? 'foam' : kitId,
       ...(showDirection ? { directionId } : {}),
       qty: 1,
     })
@@ -116,19 +256,21 @@ export default function ProductCard() {
     setQuickError('')
     setQuickSending(true)
     try {
+      const phone = `+7${quickPhone}`
+      const comment = `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · ${foam ? 'Фиксированная цена' : `Материал: ${material?.label} · Комплектация: ${kit?.label}`} · ${formatPrice(price)}\nСтраница: ${window.location.href}`
       const { error } = await db.from('orders_public').insert({
         order_number: createOrderNumber(),
         customer_name: 'Заказ в 1 клик',
-        phone: `+7${quickPhone}`,
+        phone,
         city: '—',
-        comment: `Заказ в 1 клик: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel(directionId)}` : ''} (арт. ${part.sku}) · Материал: ${material?.label} · Комплектация: ${kit?.label} · ${formatPrice(price)}\nСтраница: ${window.location.href}`,
+        comment,
         items: [
           {
             partId: part.id,
             title: archDirectionTitle(part, directionId),
             sku: part.sku,
-            material: material?.label ?? '',
-            kit: kit?.label ?? '',
+            material: foam ? '—' : material?.label ?? '',
+            kit: foam ? 'Стандарт' : kit?.label ?? '',
             direction: showDirection ? archDirectionLabel(directionId) : null,
             qty: 1,
             unitPrice: price,
@@ -140,6 +282,8 @@ export default function ProductCard() {
         consent_pdn: true,
       })
       if (error) throw error
+      /* Заявка сохранена — передаём её в UIS; сбой UIS не влияет на отправку. */
+      void sendUisLead({ phone, message: comment })
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)
@@ -174,7 +318,7 @@ export default function ProductCard() {
 
       <div className="mt-6">
         <div className="text-xs uppercase tracking-wide text-muted-foreground">
-          {part.type} · {part.vehicle.brand} {part.vehicle.model}
+          {part.foamKind ? foamTitle(part.foamKind) : part.type} · {part.vehicle.brand} {part.vehicle.model}
         </div>
         <h1 className="mt-1 text-2xl font-bold tracking-tight sm:text-3xl">
           {part.title} {part.years}
@@ -187,11 +331,27 @@ export default function ProductCard() {
       <div className="mt-6 grid gap-8 lg:grid-cols-2">
         <div>
           <div className="overflow-hidden rounded-xl border border-border bg-card">
-            <img
-              src={part.images[activeImage]}
-              alt={`${part.title} — фото ${activeImage + 1}`}
-              className="aspect-[4/3] w-full object-cover"
-            />
+            {/* Фото товара открывается в лайтбоксе с увеличением по клику. */}
+            <button
+              type="button"
+              onClick={() => setLightboxOpen(true)}
+              className="block w-full cursor-zoom-in"
+              aria-label={`Увеличить фото: ${part.title}`}
+            >
+              <img
+                src={mainImage}
+                alt={
+                  kitPhoto
+                    ? `${part.title} — ремонтный комплект, фото ${activeImage + 1}`
+                    : isSchemeImage(mainImage)
+                      ? `${part.title} — схема зоны установки`
+                      : `${part.title} — фото ${activeImage + 1}`
+                }
+                className={`aspect-[4/3] w-full ${
+                  isSchemeImage(mainImage) ? 'object-contain p-3' : 'object-cover'
+                }`}
+              />
+            </button>
           </div>
           {part.images.length > 1 && (
             <div className="mt-3 flex gap-3">
@@ -200,12 +360,17 @@ export default function ProductCard() {
                   key={image}
                   type="button"
                   onClick={() => setActiveImage(index)}
-                  aria-label={`Фото ${index + 1}`}
+                  aria-label={isSchemeImage(image) ? 'Схема зоны установки' : `Фото ${index + 1}`}
                   className={`h-24 w-28 overflow-hidden rounded-md border-2 transition-colors ${
                     index === activeImage ? 'border-accent' : 'border-border hover:border-muted-foreground'
                   }`}
                 >
-                  <img src={image} alt="" className="h-full w-full object-cover" loading="lazy" />
+                  <img
+                    src={image}
+                    alt=""
+                    className={`h-full w-full ${isSchemeImage(image) ? 'object-contain p-1' : 'object-cover'}`}
+                    loading="lazy"
+                  />
                 </button>
               ))}
             </div>
@@ -216,14 +381,26 @@ export default function ProductCard() {
           <div className="mt-5 rounded-xl border border-border bg-card p-5">
             <div className="flex items-end justify-between gap-4">
               <div>
-                <div className="text-sm text-muted-foreground">Цена с выбранными опциями</div>
+                <div className="text-sm text-muted-foreground">
+                  {foam ? 'Цена' : 'Цена с выбранными опциями'}
+                </div>
                 <div className="text-3xl font-bold text-accent">{formatPrice(price)}</div>
+                {oldPrice && (
+                  <div className="mt-1 flex flex-wrap items-center gap-2 text-sm">
+                    <span className="text-muted-foreground line-through">
+                      {formatPrice(oldPrice)}
+                    </span>
+                    <span className="rounded-full bg-[#dc2626] px-2 py-0.5 text-xs font-semibold text-white">
+                      Скидка {formatPrice(oldPrice - basePrice)}
+                    </span>
+                  </div>
+                )}
               </div>
             </div>
 
             {showDirection && (
-              <fieldset className="mt-5">
-                <legend className="text-sm font-medium">Направление</legend>
+            <fieldset className="mt-5">
+              <legend className="text-sm font-medium">Направление</legend>
                 <div className="mt-2 grid gap-2">
                   {ARCH_DIRECTIONS.map((option) => (
                     <label
@@ -251,6 +428,7 @@ export default function ProductCard() {
               </fieldset>
             )}
 
+            {!foam && (
             <fieldset className="mt-5">
               <legend className="text-sm font-medium">Материал</legend>
               <div className="mt-2 grid gap-2">
@@ -283,25 +461,31 @@ export default function ProductCard() {
                 ))}
               </div>
             </fieldset>
+            )}
 
+            {!foam && (
             <fieldset className="mt-5">
               <legend className="text-sm font-medium">Комплектация</legend>
               <div className="mt-2 grid gap-2">
                 {kits.map((option) => {
+                  const optionPrice = linePrice(
+                    part,
+                    materialId,
+                    option.id,
+                    showDirection ? directionId : undefined,
+                  )
                   const suffix =
-                    part.type === 'арка'
-                      ? option.id === 'two-sides'
-                        ? `+${formatPrice(1950 + (materialId === 'galvanized' ? 700 : 0))}`
+                    option.id === 'two-sides'
+                      ? `+${formatPrice(basePrice)}`
+                      : option.id === 'full-repair' || option.id === 'full-repair-arch'
+                        ? `+${formatPrice(optionPrice)}`
                         : ''
-                      : option.id === 'two-sides'
-                        ? `+${formatPrice(basePrice + (materialId === 'galvanized' ? 600 : 0))}`
-                        : option.id === 'full-repair'
-                          ? `+${formatPrice(basePrice * 2 + (materialId === 'galvanized' ? 600 : 0) + 3000)}`
-                          : ''
                   const includes =
                     part.type === 'порог' && option.id === 'full-repair'
                       ? 'Два порога, два усилителя порога и две торцевые заглушки'
-                      : null
+                      : part.type === 'арка' && option.id === 'full-repair-arch'
+                        ? 'две наружные и две внутренние арки'
+                        : null
                   return (
                     <label
                       key={option.id}
@@ -335,6 +519,7 @@ export default function ProductCard() {
                 })}
               </div>
             </fieldset>
+            )}
 
             <div className="mt-5 grid gap-3 sm:flex sm:flex-wrap sm:items-center">
               <button
@@ -361,8 +546,10 @@ export default function ProductCard() {
 
             <div className="mt-3 text-xs text-muted-foreground">
               <div>
-                Выбрано: {directionLabel ? `${directionLabel} · ` : ''}
-                {material?.label} · {kit?.label}
+                Выбрано:{' '}
+                {foam && part.foamKind
+                  ? `${foamTitle(part.foamKind)} для ${part.vehicle.brand} ${part.vehicle.model}`
+                  : `${directionLabel ? `${directionLabel} · ` : ''}${material?.label} · ${kit?.label}`}
               </div>
               <div className="mt-1">Итого: {formatPrice(price)}</div>
             </div>
@@ -440,8 +627,9 @@ export default function ProductCard() {
             <div className="mt-4 rounded-md border border-border bg-secondary p-3 text-sm">
               <div className="font-medium">{archDirectionTitle(part, directionId)}</div>
               <div className="mt-1 text-muted-foreground">
-                {showDirection ? `Направление: ${directionLabel} · ` : ''}
-                Материал: {material?.label} · Комплектация: {kit?.label}
+                {foam
+                  ? 'Фиксированная цена'
+                  : `${showDirection ? `Направление: ${directionLabel} · ` : ''}Материал: ${material?.label} · Комплектация: ${kit?.label}`}
               </div>
               <div className="mt-1 flex items-center justify-between gap-2">
                 <span className="text-muted-foreground">Арт. {part.sku}</span>
@@ -533,8 +721,9 @@ export default function ProductCard() {
                 <div className="mt-4 rounded-md border border-border bg-secondary p-3 text-sm">
                   <div className="font-medium">{archDirectionTitle(part, directionId)}</div>
                   <div className="mt-1 text-muted-foreground">
-                    {showDirection ? `Направление: ${directionLabel} · ` : ''}
-                    Материал: {material?.label} · Комплектация: {kit?.label}
+                    {foam
+                      ? 'Фиксированная цена'
+                      : `${showDirection ? `Направление: ${directionLabel} · ` : ''}Материал: ${material?.label} · Комплектация: ${kit?.label}`}
                   </div>
                   <div className="mt-1 flex items-center justify-between gap-2">
                     <span className="text-muted-foreground">Арт. {part.sku}</span>
@@ -551,11 +740,9 @@ export default function ProductCard() {
                     <input
                       type="tel"
                       inputMode="tel"
-                      value={quickPhone
-                        .replace(/(\d{3})(?=\d)/g, '$1 ')
-                        .replace(/(\d{3}) (\d{3})(?=\d)/g, '$1 $2 ')}
+                      value={[quickPhone.slice(0, 3), quickPhone.slice(3, 6), quickPhone.slice(6, 8), quickPhone.slice(8, 10)].filter(Boolean).join(' ')}
                       onChange={(event) => handleQuickPhone(event.target.value)}
-                      placeholder="(999) 123-45-67"
+                      placeholder="999 123 45 67"
                       aria-label="Номер телефона, начинается с +7"
                       className="h-full w-full bg-transparent px-3 text-sm outline-none"
                     />
@@ -592,6 +779,14 @@ export default function ProductCard() {
             )}
           </div>
         </div>
+      )}
+
+      {lightboxOpen && (
+        <ImageLightbox
+          src={mainImage}
+          alt={part.title}
+          onClose={() => setLightboxOpen(false)}
+        />
       )}
     </div>
   )

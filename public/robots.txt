@@ -1,0 +1,5 @@
+User-agent: * Allow: /
+Disallow: /thankyou/
+Disallow: /cart
+Disallow: /checkout
+Sitemap: https://porogi.pro/sitemap.xml

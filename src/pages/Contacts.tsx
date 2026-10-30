@@ -5,6 +5,22 @@ import { markPhoneClick } from '@/lib/callbackScript'
 const ADDRESS = 'г. Санкт-Петербург, ул. Бабушкина, 36, корп. 1'
 const PHONE = '+7 (800) 350-16-24'
 const PHONE_HREF = 'tel:+78003501624'
+const SITE_URL = 'https://porogi.pro/'
+
+/* Микроразметка Schema.org: организация-продавец (общая для сайта). */
+const ORGANIZATION_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Магазин кузовных порогов и арок',
+  url: SITE_URL,
+  telephone: PHONE,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'ул. Бабушкина, 36, корп. 1',
+    addressLocality: 'Санкт-Петербург',
+    addressCountry: 'RU',
+  },
+}
 
 const points = [
   {
@@ -30,7 +46,14 @@ export default function Contacts() {
       if (target) markPhoneClick()
     }
     document.addEventListener('click', onClick)
-    return () => document.removeEventListener('click', onClick)
+    const script = document.createElement('script')
+    script.type = 'application/ld+json'
+    script.textContent = JSON.stringify(ORGANIZATION_SCHEMA)
+    document.head.appendChild(script)
+    return () => {
+      document.removeEventListener('click', onClick)
+      document.head.removeChild(script)
+    }
   }, [])
 
   return (

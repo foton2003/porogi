@@ -1,8 +1,8 @@
 /** Автосгенерированный фрагмент YML-фида (файл 4/6). */
-export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-порог" available="true">
+export default (`      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-prius-4-wx50-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Prius</name>
@@ -13,7 +13,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="daihatsu-terios-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-terios-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Terios</name>
@@ -24,7 +24,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cami-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cami-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cami</name>
@@ -35,7 +35,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="daihatsu-terios-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-terios-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Terios</name>
@@ -46,7 +46,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cami-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cami-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cami</name>
@@ -57,7 +57,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-6-t200-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-celica-6-t200-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Celica</name>
@@ -68,7 +68,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-6-t200-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celica-6-t200-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celica</name>
@@ -79,7 +79,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corsa-tercel-5-l50-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corsa-tercel-5-l50-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corsa/Tercel</name>
@@ -90,7 +90,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corsa-tercel-5-l50-кузов-ei51-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corsa-tercel-5-l50-кузов-ei51-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corsa/Tercel</name>
@@ -101,7 +101,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corsa-tercel-5-l50-кузов-ei51-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corsa-tercel-5-l50-кузов-ei51-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corsa/Tercel</name>
@@ -112,7 +112,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corsa-4-l40-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corsa-4-l40-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corsa</name>
@@ -123,7 +123,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-will-2-vs-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-will-2-vs-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota WiLL</name>
@@ -134,7 +134,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-will-2-vs-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-will-2-vs-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota WiLL</name>
@@ -145,7 +145,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-chaser-6дорест-6рест-x100-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-chaser-6дорест-6рест-x100-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Chaser</name>
@@ -156,7 +156,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-chaser-6дорест-6рест-x100-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-chaser-6дорест-6рест-x100-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Chaser</name>
@@ -167,7 +167,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-bb-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-bb-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota bB</name>
@@ -178,7 +178,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-bb-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-bb-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota bB</name>
@@ -189,7 +189,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-1дорест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-1дорест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris</name>
@@ -200,7 +200,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-1дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-yaris-1дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Yaris</name>
@@ -211,7 +211,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-1дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-1дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris</name>
@@ -222,7 +222,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-aygo-1дорест-1рест-1рест2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-aygo-1дорест-1рест-1рест2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Aygo</name>
@@ -233,7 +233,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-aygo-1дорест-1рест-1рест2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-aygo-1дорест-1рест-1рест2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Aygo</name>
@@ -244,7 +244,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-aygo-1дорест-1рест-1рест2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-aygo-1дорест-1рест-1рест2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Aygo</name>
@@ -255,7 +255,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-5дорест-5рест-x100-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cresta-5дорест-5рест-x100-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cresta</name>
@@ -266,7 +266,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-5дорест-5рест-x100-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cresta-5дорест-5рест-x100-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cresta</name>
@@ -277,7 +277,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-probox-1дорест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-probox-1дорест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Probox</name>
@@ -288,7 +288,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vitz-1-p10-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vitz-1-p10-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vitz</name>
@@ -299,7 +299,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vitz-1-p10-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-vitz-1-p10-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Vitz</name>
@@ -310,7 +310,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vitz-1-p10-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vitz-1-p10-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vitz</name>
@@ -321,7 +321,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota HiLux SURF</name>
@@ -332,7 +332,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux SURF</name>
@@ -343,7 +343,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-4-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-hilux-4-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Toyota Hilux</name>
@@ -354,7 +354,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-4-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-4-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Hilux</name>
@@ -365,7 +365,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-gt86-1дорест-1рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-gt86-1дорест-1рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota GT86</name>
@@ -376,7 +376,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-4-v40-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-vista-4-v40-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Vista</name>
@@ -387,7 +387,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-4-v40-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vista-4-v40-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vista</name>
@@ -398,7 +398,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-opa-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-opa-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Opa</name>
@@ -409,7 +409,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-opa-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-opa-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Opa</name>
@@ -420,7 +420,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-previa-2-xr30-xr40-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-previa-2-xr30-xr40-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Previa</name>
@@ -431,7 +431,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-previa-2-xr30-xr40-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-previa-2-xr30-xr40-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Previa</name>
@@ -442,7 +442,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-funcargo-1-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-funcargo-1-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota FunCargo</name>
@@ -453,7 +453,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-funcargo-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-funcargo-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota FunCargo</name>
@@ -464,7 +464,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-9-x110-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-9-x110-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Mark II</name>
@@ -475,7 +475,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-9-x110-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-9-x110-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -486,7 +486,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-9-x110-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-9-x110-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -497,7 +497,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-2дорест-2рест-xa20-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-2дорест-2рест-xa20-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -508,7 +508,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-2дорест-2рест-xa20-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-rav4-2дорест-2рест-xa20-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota RAV4</name>
@@ -519,7 +519,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-2дорест-2рест-xa20-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-2дорест-2рест-xa20-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -530,7 +530,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-noah-r60-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-noah-r60-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota NOAH</name>
@@ -541,7 +541,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-noah-r60-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-noah-r60-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota NOAH</name>
@@ -552,7 +552,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-exiv-st203-2-st200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-exiv-st203-2-st200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona Exiv st203</name>
@@ -563,7 +563,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-6-t190-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-6-t190-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina</name>
@@ -574,7 +574,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-6-t190-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-6-t190-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina</name>
@@ -585,7 +585,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-auris-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-auris-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Auris</name>
@@ -596,7 +596,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-auris-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-auris-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Auris</name>
@@ -607,7 +607,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-regius-h100-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-hiace-regius-h100-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota HiAce Regius</name>
@@ -618,7 +618,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-regius-h100-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-hiace-regius-h100-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiAce Regius</name>
@@ -629,7 +629,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sienna-2дорест-2рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sienna-2дорест-2рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Sienna</name>
@@ -640,7 +640,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sienna-2дорест-2рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sienna-2дорест-2рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sienna</name>
@@ -651,7 +651,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-7-дорест-и-все-ресты-xv50-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-7-дорест-и-все-ресты-xv50-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -662,7 +662,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-7-дорест-и-все-ресты-xv50-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-7-дорест-и-все-ресты-xv50-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -673,7 +673,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-trueno-6-ae86-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-trueno-6-ae86-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Sprinter Trueno</name>
@@ -684,7 +684,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-trueno-6-ae86-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-trueno-6-ae86-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter Trueno</name>
@@ -695,7 +695,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-prius-1дорест-1рест-xw10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-prius-1дорест-1рест-xw10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Prius</name>
@@ -706,7 +706,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-comfort-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-comfort-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Comfort</name>
@@ -717,7 +717,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-comfort-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-comfort-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Comfort</name>
@@ -728,7 +728,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-ed-1-т160-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-ed-1-т160-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina ED</name>
@@ -739,7 +739,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-supra-3-a70-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-supra-3-a70-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Supra</name>
@@ -750,7 +750,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-supra-3-a70-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-supra-3-a70-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Supra</name>
@@ -761,7 +761,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-supra-jza-80-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-supra-jza-80-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Supra</name>
@@ -772,7 +772,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris</name>
@@ -783,7 +783,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-2дорест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-2дорест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris</name>
@@ -794,7 +794,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-2дорест-2рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-yaris-2дорест-2рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Yaris</name>
@@ -805,7 +805,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris</name>
@@ -816,7 +816,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux SURF</name>
@@ -827,7 +827,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-2-x70-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cresta-2-x70-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cresta</name>
@@ -838,7 +838,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-2-x70-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cresta-2-x70-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cresta</name>
@@ -849,7 +849,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-highlander-1-поколение-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-highlander-1-поколение-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Highlander</name>
@@ -860,7 +860,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-highlander-1-поколение-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-highlander-1-поколение-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Highlander</name>
@@ -871,7 +871,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rush-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-rush-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Rush</name>
@@ -882,7 +882,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rush-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rush-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Rush</name>
@@ -893,7 +893,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-3-xv10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-3-xv10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -904,7 +904,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-3-xv10-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-3-xv10-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -915,7 +915,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-3-xv10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-3-xv10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -926,7 +926,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-highlander-2-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-highlander-2-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Highlander</name>
@@ -937,7 +937,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-verso-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-verso-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Verso</name>
@@ -948,7 +948,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-2дорест-2рест-t25-t250-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-2дорест-2рест-t25-t250-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -959,7 +959,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-2дорест-2рест-t25-t250-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-avensis-2дорест-2рест-t25-t250-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Avensis</name>
@@ -970,7 +970,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-2дорест-2рест-t25-t250-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-2дорест-2рест-t25-t250-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -981,7 +981,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-2дорест-2рест-t25-t250-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-2дорест-2рест-t25-t250-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -992,7 +992,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-3-x80-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cresta-3-x80-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cresta</name>
@@ -1003,7 +1003,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-3-x80-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cresta-3-x80-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cresta</name>
@@ -1014,7 +1014,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-4-t160-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-celica-4-t160-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Celica</name>
@@ -1025,7 +1025,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-4-t160-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celica-4-t160-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celica</name>
@@ -1036,7 +1036,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-tacoma-all-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-tacoma-all-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Tacoma</name>
@@ -1047,7 +1047,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-verso-1-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-yaris-verso-1-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Yaris Verso</name>
@@ -1058,7 +1058,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-yaris-verso-1-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-yaris-verso-1-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Yaris Verso</name>
@@ -1069,7 +1069,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-solara-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-solara-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Solara</name>
@@ -1080,7 +1080,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-solara-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-solara-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Solara</name>
@@ -1091,7 +1091,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-soarer-3-пок-дорест-1-рест-z30-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-soarer-3-пок-дорест-1-рест-z30-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Soarer</name>
@@ -1102,7 +1102,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-soarer-3-пок-дорест-1-рест-z30-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-soarer-3-пок-дорест-1-рест-z30-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Soarer</name>
@@ -1113,7 +1113,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-highlander-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-highlander-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Highlander</name>
@@ -1124,7 +1124,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-highlander-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-highlander-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Highlander</name>
@@ -1135,7 +1135,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-4-h100-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-hiace-4-h100-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota HiAce</name>
@@ -1146,7 +1146,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-4-h100-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-hiace-4-h100-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiAce</name>
@@ -1157,7 +1157,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-marino-1-дорест-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-marino-1-дорест-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Sprinter Marino</name>
@@ -1168,7 +1168,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-marino-1-дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-marino-1-дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter Marino</name>
@@ -1179,7 +1179,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cynos-2-l54-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cynos-2-l54-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Cynos</name>
@@ -1190,7 +1190,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cynos-2-l54-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cynos-2-l54-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cynos</name>
@@ -1201,7 +1201,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-verso-1-рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-verso-1-рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Verso</name>
@@ -1212,7 +1212,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-voxy-1-r60-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-voxy-1-r60-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Voxy</name>
@@ -1223,7 +1223,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-voxy-1-r60-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-voxy-1-r60-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Voxy</name>
@@ -1234,7 +1234,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-2-v20-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-2-v20-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1245,7 +1245,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-2-v20-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-2-v20-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -1256,7 +1256,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-120-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-120-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land cruiser prado</name>
@@ -1267,7 +1267,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-60-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-60-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Land Cruiser</name>
@@ -1278,7 +1278,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-60-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-60-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -1289,7 +1289,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-5-рест-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-4runner-5-рест-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota 4Runner</name>
@@ -1300,7 +1300,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-5-рест-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-4runner-5-рест-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota 4Runner</name>
@@ -1311,7 +1311,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-4runner-5-дорест-1-рест-2-рест-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-4runner-5-дорест-1-рест-2-рест-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux/4Runner</name>
@@ -1322,7 +1322,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-4runner-5-дорест-1-рест-2-рест-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-4runner-5-дорест-1-рест-2-рест-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux/4Runner</name>
@@ -1333,7 +1333,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina</name>
@@ -1344,7 +1344,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina</name>
@@ -1355,7 +1355,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-6дорест-6рест-xv40-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-6дорест-6рест-xv40-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1366,7 +1366,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-6дорест-6рест-xv40-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-6дорест-6рест-xv40-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -1377,7 +1377,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celsior-xf20-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-celsior-xf20-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Celsior XF20</name>
@@ -1388,7 +1388,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celsior-xf20-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celsior-xf20-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celsior XF20</name>
@@ -1399,7 +1399,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Ipsum</name>
@@ -1410,7 +1410,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Ipsum</name>
@@ -1421,7 +1421,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-exiv-st202-2-st200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-exiv-st202-2-st200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona Exiv st202</name>
@@ -1432,7 +1432,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-bb-2дорест-2рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-bb-2дорест-2рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota bB</name>
@@ -1443,7 +1443,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-trueno-6-ae100-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-trueno-6-ae100-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter trueno</name>
@@ -1454,7 +1454,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-9-s140-маджеста-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-crown-9-s140-маджеста-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Crown</name>
@@ -1465,7 +1465,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-8-xv70-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-8-xv70-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1476,7 +1476,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-8-xv70-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-8-xv70-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -1487,7 +1487,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-v40-v41-v42-v43-cv40-cv41-cv42-cv43-sv40-sv41-sv42-sv43-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-v40-v41-v42-v43-cv40-cv41-cv42-cv43-sv40-sv41-sv42-sv43-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1498,7 +1498,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-v40-v41-v42-v43-cv40-cv41-cv42-cv43-sv40-sv41-sv42-sv43-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-v40-v41-v42-v43-cv40-cv41-cv42-cv43-sv40-sv41-sv42-sv43-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -1509,7 +1509,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-estima-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-estima-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Toyota Estima</name>
@@ -1520,7 +1520,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-estima-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-estima-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Estima</name>
@@ -1531,7 +1531,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-sv30-v30-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-sv30-v30-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1542,7 +1542,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-sv30-v30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-sv30-v30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -1553,7 +1553,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-allion-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-allion-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Allion</name>
@@ -1564,7 +1564,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-vi-е90-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-vi-е90-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -1575,7 +1575,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-carib-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-carib-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter Carib</name>
@@ -1586,7 +1586,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-150-дорест-и-все-ресты-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-150-дорест-и-все-ресты-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser Prado</name>
@@ -1597,7 +1597,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-90-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-90-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser Prado</name>
@@ -1608,7 +1608,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-90-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-90-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser Prado</name>
@@ -1619,7 +1619,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ist-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-ist-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Ist</name>
@@ -1630,7 +1630,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ist-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-ist-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Ist</name>
@@ -1641,7 +1641,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-4дорест-4рест-xa40-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-4дорест-4рест-xa40-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -1652,7 +1652,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-estima-2-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-estima-2-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Estima</name>
@@ -1663,7 +1663,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-estima-2-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-estima-2-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Estima</name>
@@ -1674,7 +1674,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-passo-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-passo-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Passo</name>
@@ -1685,7 +1685,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-verossa-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-verossa-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Verossa</name>
@@ -1696,7 +1696,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-verossa-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-verossa-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Verossa</name>
@@ -1707,7 +1707,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-gracia-1-xv20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-gracia-1-xv20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry Gracia</name>
@@ -1718,7 +1718,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-gracia-1-xv20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-gracia-1-xv20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry Gracia</name>
@@ -1729,7 +1729,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-gracia-1-xv20-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-gracia-1-xv20-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry Gracia</name>
@@ -1740,7 +1740,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-gracia-1-xv20-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-gracia-1-xv20-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry Gracia</name>
@@ -1751,7 +1751,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vitz-2-xp90-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-vitz-2-xp90-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Vitz</name>
@@ -1762,7 +1762,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vitz-2-xp90-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vitz-2-xp90-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vitz</name>
@@ -1773,7 +1773,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-windom-1-xv10-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-windom-1-xv10-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Windom</name>
@@ -1784,7 +1784,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-windom-1-xv10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-windom-1-xv10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Windom</name>
@@ -1795,7 +1795,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-windom-2-xv20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-windom-2-xv20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Windom</name>
@@ -1806,7 +1806,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-windom-2-xv20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-windom-2-xv20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Windom</name>
@@ -1817,7 +1817,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-105-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-105-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser</name>
@@ -1828,7 +1828,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-105-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-105-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -1839,7 +1839,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-voltz-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-voltz-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Voltz</name>
@@ -1850,7 +1850,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-5-v50-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vista-5-v50-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vista</name>
@@ -1861,7 +1861,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-3-v30-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-vista-3-v30-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Vista</name>
@@ -1872,7 +1872,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-3-v30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vista-3-v30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vista</name>
@@ -1883,7 +1883,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-lite-ace-5-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-lite-ace-5-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Lite Ace</name>
@@ -1894,7 +1894,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-lite-ace-5-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-lite-ace-5-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Lite Ace</name>
@@ -1905,7 +1905,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-tacoma-2-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-tacoma-2-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Tacoma</name>
@@ -1916,7 +1916,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-urban-cruiser-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-urban-cruiser-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Urban cruiser</name>
@@ -1927,7 +1927,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-urban-cruiser-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-urban-cruiser-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Urban cruiser</name>
@@ -1938,7 +1938,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-succed-all-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-succed-all-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Succed</name>
@@ -1949,7 +1949,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-soluna-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-soluna-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Soluna</name>
@@ -1960,7 +1960,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sequoia-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sequoia-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Sequoia</name>
@@ -1971,7 +1971,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sequoia-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sequoia-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sequoia</name>
@@ -1982,7 +1982,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-2-v20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-2-v20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -1993,7 +1993,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-2-v20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-2-v20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -2004,7 +2004,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-100-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-100-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser</name>
@@ -2015,7 +2015,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-100-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-100-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -2026,7 +2026,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-scepter-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-scepter-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Scepter</name>
@@ -2037,7 +2037,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-scepter-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-scepter-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Scepter</name>
@@ -2048,7 +2048,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-scepter-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-scepter-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Scepter</name>
@@ -2059,7 +2059,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-scepter-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-scepter-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Scepter</name>
@@ -2070,7 +2070,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-scepter-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-scepter-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Scepter</name>
@@ -2081,7 +2081,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="daihatsu-terios-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-terios-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Terios</name>
@@ -2092,7 +2092,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="daihatsu-terios-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-terios-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Terios</name>
@@ -2103,7 +2103,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-proace-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-proace-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota ProAce</name>
@@ -2114,7 +2114,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-proace-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-proace-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota ProAce</name>
@@ -2125,7 +2125,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-proace-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-proace-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota ProAce</name>
@@ -2136,7 +2136,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-previa-3-xr50-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-previa-3-xr50-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Previa</name>
@@ -2147,7 +2147,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-picnic-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-picnic-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Picnic</name>
@@ -2158,7 +2158,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-picnic-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-picnic-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Picnic</name>
@@ -2169,7 +2169,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-paseo-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-paseo-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Paseo</name>
@@ -2180,7 +2180,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-paseo-2-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-paseo-2-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Paseo</name>
@@ -2191,7 +2191,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-paseo-2-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-paseo-2-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Paseo</name>
@@ -2202,7 +2202,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mr-s-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mr-s-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota MR-S</name>
@@ -2213,7 +2213,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-lite-ace-noah-5-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-lite-ace-noah-5-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Lite Ace Noah</name>
@@ -2224,7 +2224,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-lite-ace-noah-5-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-lite-ace-noah-5-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Lite Ace Noah</name>
@@ -2235,7 +2235,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mr2-2-w20-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mr2-2-w20-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota MR2</name>
@@ -2246,7 +2246,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-cignus-100-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-cignus-100-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser Cignus</name>
@@ -2257,7 +2257,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-cignus-100-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-cignus-100-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser Cignus</name>
@@ -2268,7 +2268,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-kluger-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-kluger-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Kluger</name>
@@ -2279,7 +2279,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-kluger-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-kluger-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Kluger</name>
@@ -2290,7 +2290,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-kluger-2-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-kluger-2-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Kluger</name>
@@ -2301,7 +2301,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-kluger-1-поколение-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-kluger-1-поколение-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Kluger</name>
@@ -2312,7 +2312,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-kluger-1-поколение-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-kluger-1-поколение-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Kluger</name>
@@ -2323,7 +2323,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-1-m10-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-1-m10-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Ipsum</name>
@@ -2334,7 +2334,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-1-m10-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-1-m10-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Ipsum</name>
@@ -2345,7 +2345,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-4runner-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota 4Runner</name>
@@ -2356,7 +2356,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-4runner-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota 4Runner</name>
@@ -2367,7 +2367,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-4-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-4-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Hilux Surf</name>
@@ -2378,7 +2378,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-4-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-4-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Hilux Surf</name>
@@ -2389,7 +2389,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-4-внедорожник-5-дв-порог-27-216вв5" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-4-внедорожник-5-дв-порог-27-216вв5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Hilux Surf</name>
@@ -2400,7 +2400,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-4-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-4runner-4-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota 4Runner</name>
@@ -2411,7 +2411,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-4-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-4runner-4-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota 4Runner</name>
@@ -2422,7 +2422,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-4runner-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota 4Runner</name>
@@ -2433,7 +2433,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-harrier-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-harrier-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus Harrier</name>
@@ -2444,7 +2444,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-harrier-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-harrier-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus Harrier</name>
@@ -2455,7 +2455,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-1дорест-1рест-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-1дорест-1рест-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -2466,7 +2466,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-avensis-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Avensis</name>
@@ -2477,7 +2477,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -2488,7 +2488,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-avensis-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Avensis</name>
@@ -2499,7 +2499,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis</name>
@@ -2510,7 +2510,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-harrier-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-harrier-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus Harrier</name>
@@ -2521,7 +2521,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-harrier-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-harrier-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus Harrier</name>
@@ -2532,7 +2532,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cressida-4-x80-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cressida-4-x80-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cressida</name>
@@ -2543,7 +2543,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cressida-4-x80-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cressida-4-x80-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cressida</name>
@@ -2554,7 +2554,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-5-l50-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-5-l50-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -2565,7 +2565,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-5-l50-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-5-l50-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -2576,7 +2576,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-premio-7-t210-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corona-premio-7-t210-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corona Premio</name>
@@ -2587,7 +2587,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-premio-7-t210-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-premio-7-t210-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona Premio</name>
@@ -2598,7 +2598,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-levin-6-ae86-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-levin-6-ae86-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla Levin</name>
@@ -2609,7 +2609,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-levin-6-ae86-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-levin-6-ae86-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Levin</name>
@@ -2620,7 +2620,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-levin-6-ae100-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-levin-6-ae100-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota corolla levin</name>
@@ -2631,7 +2631,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sienta-2-рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sienta-2-рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sienta</name>
@@ -2642,7 +2642,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-fielder-9дорест-9рест-e120-e130-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-fielder-9дорест-9рест-e120-e130-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla Fielder</name>
@@ -2653,7 +2653,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-fielder-9дорест-9рест-e120-e130-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-fielder-9дорест-9рест-e120-e130-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Fielder</name>
@@ -2664,7 +2664,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-fielder-10дорест-10рест-e140-e150-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-fielder-10дорест-10рест-e140-e150-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Fielder</name>
@@ -2675,7 +2675,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-verso-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-avensis-verso-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Avensis Verso</name>
@@ -2686,7 +2686,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avensis-verso-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avensis-verso-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avensis Verso</name>
@@ -2697,7 +2697,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-ceres-1-дорест-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-ceres-1-дорест-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Corolla Ceres</name>
@@ -2708,7 +2708,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-ceres-1-дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-ceres-1-дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Ceres</name>
@@ -2719,7 +2719,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-axio-nze144-1дорест-1рест-e140-rze144-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-axio-nze144-1дорест-1рест-e140-rze144-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Corolla Axio NZE144</name>
@@ -2730,7 +2730,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-axio-nze144-1дорест-1рест-e140-rze144-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-axio-nze144-1дорест-1рест-e140-rze144-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Axio NZE144</name>
@@ -2741,7 +2741,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celsior-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celsior-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celsior</name>
@@ -2752,7 +2752,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avalon-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-avalon-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Avalon</name>
@@ -2763,7 +2763,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-avalon-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-avalon-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Avalon</name>
@@ -2774,7 +2774,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-aristo-2-дорест-2-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-aristo-2-дорест-2-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Aristo</name>
@@ -2785,7 +2785,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-aristo-2-дорест-2-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-aristo-2-дорест-2-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Aristo</name>
@@ -2796,7 +2796,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-altezza-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-altezza-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Altezza</name>
@@ -2807,7 +2807,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-altezza-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-altezza-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Altezza</name>
@@ -2818,7 +2818,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-altezza-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-altezza-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Altezza</name>
@@ -2829,7 +2829,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-altezza-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-altezza-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Altezza</name>
@@ -2840,7 +2840,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-allex-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-allex-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Allex</name>
@@ -2851,7 +2851,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-voxy-2-r70-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-voxy-2-r70-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Voxy</name>
@@ -2862,7 +2862,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-alphard-1дорест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-alphard-1дорест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Alphard</name>
@@ -2873,7 +2873,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-alphard-1дорест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-alphard-1дорест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Alphard</name>
@@ -2884,7 +2884,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-caldina-3дорест-рест-т240-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-caldina-3дорест-рест-т240-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Caldina</name>
@@ -2895,7 +2895,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-caldina-3дорест-рест-т240-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-caldina-3дорест-рест-т240-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Caldina</name>
@@ -2906,7 +2906,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ist-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-ist-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Ist</name>
@@ -2917,7 +2917,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-11дорест-11рест-e180-e170-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-11дорест-11рест-e180-e170-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -2928,7 +2928,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-duet-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-duet-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Duet</name>
@@ -2939,7 +2939,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-duet-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-duet-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Duet</name>
@@ -2950,7 +2950,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-carib-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-carib-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter Carib</name>
@@ -2961,7 +2961,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-ed-3-т200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-ed-3-т200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina ED</name>
@@ -2972,7 +2972,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-spacio-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-spacio-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Spacio</name>
@@ -2983,7 +2983,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-exiv-st180-1-st180-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-exiv-st180-1-st180-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona Exiv st180</name>
@@ -2994,7 +2994,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-auris-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-auris-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Auris</name>
@@ -3005,7 +3005,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-auris-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-auris-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Auris</name>
@@ -3016,7 +3016,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-isis-1-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-isis-1-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Isis</name>
@@ -3027,7 +3027,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-isis-1-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-isis-1-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Isis</name>
@@ -3038,7 +3038,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-premio-2дорест-2рест-t26-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-premio-2дорест-2рест-t26-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Premio</name>
@@ -3049,7 +3049,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-carib-al-25-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-carib-al-25-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Sprinter Carib (AL 25)</name>
@@ -3060,7 +3060,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-carib-al-25-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-carib-al-25-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter Carib (AL 25)</name>
@@ -3071,7 +3071,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-1-x60-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cresta-1-x60-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cresta</name>
@@ -3082,7 +3082,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-soarer-3-пок-2-рест-z30-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-soarer-3-пок-2-рест-z30-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Soarer</name>
@@ -3093,7 +3093,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-1дорест-1рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-4runner-1дорест-1рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota 4Runner</name>
@@ -3104,7 +3104,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-4runner-1дорест-1рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-4runner-1дорест-1рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota 4Runner</name>
@@ -3115,7 +3115,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota HiLux SURF</name>
@@ -3126,7 +3126,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-surf-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-surf-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux SURF</name>
@@ -3137,7 +3137,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-brevis-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-brevis-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Brevis</name>
@@ -3148,7 +3148,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-2-v20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-vista-2-v20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Vista</name>
@@ -3159,7 +3159,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-vista-2-v20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-vista-2-v20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Vista</name>
@@ -3170,7 +3170,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-caldina-1дорест-1рест-t190-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-caldina-1дорест-1рест-t190-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Caldina</name>
@@ -3181,7 +3181,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-caldina-1дорест-1рест-t190-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-caldina-1дорест-1рест-t190-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Caldina</name>
@@ -3192,7 +3192,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-caldina-2дорест-2рест-t210-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-caldina-2дорест-2рест-t210-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Caldina</name>
@@ -3203,7 +3203,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-4-xv20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-4-xv20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Camry</name>
@@ -3214,7 +3214,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-4-xv20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-4-xv20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -3225,7 +3225,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-5-xv30-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-camry-5-xv30-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Camry</name>
@@ -3236,7 +3236,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-camry-5-xv30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-camry-5-xv30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Camry</name>
@@ -3247,7 +3247,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-9-t190-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-9-t190-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona</name>
@@ -3258,7 +3258,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-9-t190-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corona-9-t190-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corona</name>
@@ -3269,7 +3269,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-9-t190-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-9-t190-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona</name>
@@ -3280,7 +3280,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina E</name>
@@ -3291,7 +3291,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina E</name>
@@ -3302,7 +3302,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina E</name>
@@ -3313,7 +3313,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina E</name>
@@ -3324,7 +3324,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina E</name>
@@ -3335,7 +3335,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-e-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-e-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina E</name>
@@ -3346,7 +3346,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3357,7 +3357,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3368,7 +3368,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Corolla</name>
@@ -3379,7 +3379,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3390,7 +3390,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3401,7 +3401,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3412,7 +3412,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-9дорест-9рест-e120-e130-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3423,7 +3423,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-10дорест-10рест-e150-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-10дорест-10рест-e150-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3434,7 +3434,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-10дорест-10рест-e150-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-10дорест-10рест-e150-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3445,7 +3445,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-10дорест-10рест-e150-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-10дорест-10рест-e150-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3456,7 +3456,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3467,7 +3467,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3478,7 +3478,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3489,7 +3489,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3500,7 +3500,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3511,7 +3511,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3522,7 +3522,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-8дорест-8рест-e110-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-8дорест-8рест-e110-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3533,7 +3533,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3544,7 +3544,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3555,7 +3555,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3566,7 +3566,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3577,7 +3577,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3588,7 +3588,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3599,7 +3599,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3610,7 +3610,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-7-e100-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-7-e100-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3621,7 +3621,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-10дорест-10рест-e140-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-10дорест-10рест-e140-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla</name>
@@ -3632,7 +3632,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-10дорест-10рест-e140-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-10дорест-10рест-e140-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla</name>
@@ -3643,7 +3643,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-8-t170-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-8-t170-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona</name>
@@ -3654,7 +3654,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-8-t170-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corona-8-t170-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Corona</name>
@@ -3665,7 +3665,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-8-t170-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-8-t170-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona</name>
@@ -3676,7 +3676,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corona-8-t170-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corona-8-t170-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corona</name>
@@ -3687,7 +3687,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-10-s150-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-crown-10-s150-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Crown</name>
@@ -3698,7 +3698,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-10-s150-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-crown-10-s150-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Crown</name>
@@ -3709,7 +3709,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-70-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-70-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser Prado</name>
@@ -3720,7 +3720,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-120-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-120-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser Prado</name>
@@ -3731,7 +3731,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-prado-120-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-prado-120-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser Prado</name>
@@ -3742,7 +3742,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-200-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-200-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser</name>
@@ -3753,7 +3753,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-200-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-200-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -3764,7 +3764,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-lx570-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-lx570-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus LX570</name>
@@ -3775,7 +3775,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="lexus-lx570-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-lx570-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LX570</name>
@@ -3786,7 +3786,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-fj-cruiser-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-fj-cruiser-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota FJ Cruiser</name>
@@ -3797,7 +3797,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-fj-cruiser-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-fj-cruiser-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota FJ Cruiser</name>
@@ -3808,7 +3808,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-trueno-7-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-trueno-7-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Sprinter trueno</name>
@@ -3819,7 +3819,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-sprinter-trueno-7-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-sprinter-trueno-7-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Sprinter trueno</name>
@@ -3830,7 +3830,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-80-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-80-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser</name>
@@ -3841,7 +3841,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-80-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-80-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -3852,7 +3852,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-4-x90-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-cresta-4-x90-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Cresta</name>
@@ -3863,7 +3863,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cresta-4-x90-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cresta-4-x90-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cresta</name>
@@ -3874,7 +3874,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-7-x90-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-7-x90-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Mark II</name>
@@ -3885,7 +3885,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-7-x90-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-7-x90-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -3896,7 +3896,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-chaser-5дорест-5рест-х90-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-chaser-5дорест-5рест-х90-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Chaser</name>
@@ -3907,7 +3907,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-chaser-5дорест-5рест-х90-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-chaser-5дорест-5рест-х90-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Chaser</name>
@@ -3918,7 +3918,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-6-x80-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-6-x80-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Mark II</name>
@@ -3929,7 +3929,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-6-x80-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-6-x80-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -3940,7 +3940,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-levin-7-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-levin-7-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Corolla Levin</name>
@@ -3951,7 +3951,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-levin-7-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-levin-7-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Levin</name>
@@ -3962,7 +3962,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-matrix-1-e130-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-matrix-1-e130-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Matrix</name>
@@ -3973,7 +3973,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-matrix-1-e130-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-matrix-1-e130-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Matrix</name>
@@ -3984,7 +3984,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-nadia-1-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-nadia-1-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Nadia</name>
@@ -3995,7 +3995,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-nadia-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-nadia-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Nadia</name>
@@ -4006,7 +4006,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-1-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-1-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Ipsum</name>
@@ -4017,7 +4017,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-ipsum-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-ipsum-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Ipsum</name>
@@ -4028,7 +4028,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-platz-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-platz-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Platz</name>
@@ -4039,7 +4039,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-5-h200-минивэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-hiace-5-h200-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota HiAce</name>
@@ -4050,7 +4050,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hiace-5-h200-минивэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-hiace-5-h200-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiAce</name>
@@ -4061,7 +4061,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-5-х70-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-5-х70-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Mark II</name>
@@ -4072,7 +4072,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-mark-ii-5-х70-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-5-х70-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -4083,7 +4083,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-prius-2дорест-2рест-xw20-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-prius-2дорест-2рест-xw20-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Prius</name>
@@ -4094,7 +4094,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-prius-2дорест-2рест-xw20-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-prius-2дорест-2рест-xw20-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Prius</name>
@@ -4105,7 +4105,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-1-xa10-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-rav4-1-xa10-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota RAV4</name>
@@ -4116,7 +4116,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-1-xa10-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-1-xa10-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -4127,7 +4127,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-1-xa10-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-rav4-1-xa10-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota RAV4</name>
@@ -4138,7 +4138,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-1-xa10-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-1-xa10-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -4149,7 +4149,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-3дорест-3рест-xa30-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-rav4-3дорест-3рест-xa30-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota RAV4</name>
@@ -4160,7 +4160,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-rav4-3дорест-3рест-xa30-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-rav4-3дорест-3рест-xa30-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota RAV4</name>
@@ -4171,7 +4171,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-raum-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-raum-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Raum</name>
@@ -4182,7 +4182,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-7дорест-7рест-t230-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-celica-7дорест-7рест-t230-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Celica</name>
@@ -4193,7 +4193,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-7дорест-7рест-t230-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celica-7дорест-7рест-t230-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celica</name>
@@ -4204,7 +4204,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-70-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-70-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Land Cruiser</name>
@@ -4215,7 +4215,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-land-cruiser-70-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-land-cruiser-70-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Land Cruiser</name>
@@ -4226,7 +4226,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-4-p80-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-starlet-4-p80-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Starlet</name>
@@ -4237,7 +4237,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-4-p80-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-starlet-4-p80-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Starlet</name>
@@ -4248,7 +4248,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-4-p80-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-starlet-4-p80-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Toyota Starlet</name>
@@ -4259,7 +4259,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-4-p80-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-starlet-4-p80-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Starlet</name>
@@ -4270,7 +4270,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-echo-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-echo-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Echo</name>
@@ -4281,7 +4281,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-echo-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-echo-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Echo</name>
@@ -4292,7 +4292,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-raum-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-raum-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Raum</name>
@@ -4303,7 +4303,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-cynos-1-l44-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-cynos-1-l44-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Cynos</name>
@@ -4314,7 +4314,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-5-t180-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-celica-5-t180-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Celica</name>
@@ -4325,7 +4325,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-celica-5-t180-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-celica-5-t180-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Celica</name>
@@ -4336,7 +4336,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-11-s170-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-crown-11-s170-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Crown</name>
@@ -4347,7 +4347,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-11-s170-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-crown-11-s170-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Crown</name>
@@ -4358,7 +4358,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-previa-1-xr10-xr20-минивэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-previa-1-xr10-xr20-минивэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Toyota Previa</name>
@@ -4369,7 +4369,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-previa-1-xr10-xr20-минивэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-previa-1-xr10-xr20-минивэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Previa</name>
@@ -4380,7 +4380,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-estima-3дорест-3рест-3рест2-3рест3-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-estima-3дорест-3рест-3рест2-3рест3-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Estima</name>
@@ -4391,7 +4391,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-gaia-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-gaia-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Gaia</name>
@@ -4402,7 +4402,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-5-p90-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-starlet-5-p90-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Starlet</name>
@@ -4413,7 +4413,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-5-p90-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-starlet-5-p90-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Starlet</name>
@@ -4424,7 +4424,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-starlet-5-p90-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-starlet-5-p90-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Starlet</name>
@@ -4435,7 +4435,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-7-t210-седан-4-двери-арка" available="true">
         <url>https://porogi.pro/product/toyota-carina-7-t210-седан-4-двери-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Carina</name>
@@ -4446,7 +4446,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-carina-7-t210-седан-4-двери-порог" available="true">
         <url>https://porogi.pro/product/toyota-carina-7-t210-седан-4-двери-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Carina</name>
@@ -4457,7 +4457,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-spacio-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-corolla-spacio-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Corolla Spacio</name>
@@ -4468,7 +4468,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-corolla-spacio-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-corolla-spacio-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Corolla Spacio</name>
@@ -4479,7 +4479,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-9-s140-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-crown-9-s140-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Crown</name>
@@ -4490,7 +4490,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-crown-9-s140-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-crown-9-s140-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Crown</name>
@@ -4501,7 +4501,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-7-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-hilux-7-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Toyota HiLux</name>
@@ -4512,7 +4512,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-hilux-7-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-hilux-7-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota HiLux</name>
@@ -4523,7 +4523,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-wish-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-wish-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Toyota Wish</name>
@@ -4534,7 +4534,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="toyota-wish-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-wish-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Wish</name>
@@ -4545,7 +4545,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-2-дорест-230й-елабуга-фургон-арка-28-10-1лф" available="true">
         <url>https://porogi.pro/product/fiat-ducato-2-дорест-230й-елабуга-фургон-арка-28-10-1лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Ducato</name>
@@ -4556,7 +4556,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-2-дорест-230й-елабуга-фургон-порог-28-10-1лф" available="true">
         <url>https://porogi.pro/product/fiat-ducato-2-дорест-230й-елабуга-фургон-порог-28-10-1лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Ducato</name>
@@ -4567,7 +4567,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-2-дорест-230й-елабуга-фургон-арка" available="true">
         <url>https://porogi.pro/product/fiat-ducato-2-дорест-230й-елабуга-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Ducato</name>
@@ -4578,7 +4578,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-2-дорест-230й-елабуга-фургон-порог" available="true">
         <url>https://porogi.pro/product/fiat-ducato-2-дорест-230й-елабуга-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Ducato</name>
@@ -4589,7 +4589,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-professional-ducato-2-рест-244-фургон-арка-28-10-2лф" available="true">
         <url>https://porogi.pro/product/fiat-professional-ducato-2-рест-244-фургон-арка-28-10-2лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Professional Ducato</name>
@@ -4600,7 +4600,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-professional-ducato-2-рест-244-фургон-порог-28-10-2лф" available="true">
         <url>https://porogi.pro/product/fiat-professional-ducato-2-рест-244-фургон-порог-28-10-2лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Professional Ducato</name>
@@ -4611,7 +4611,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-professional-ducato-2-рест-244-фургон-арка" available="true">
         <url>https://porogi.pro/product/fiat-professional-ducato-2-рест-244-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Professional Ducato</name>
@@ -4622,7 +4622,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-professional-ducato-2-рест-244-фургон-порог" available="true">
         <url>https://porogi.pro/product/fiat-professional-ducato-2-рест-244-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Professional Ducato</name>
@@ -4633,7 +4633,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-2-фургон-арка-28-10-3лф" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-2-фургон-арка-28-10-3лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Boxer</name>
@@ -4644,7 +4644,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-2-фургон-порог-28-10-3лф" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-2-фургон-порог-28-10-3лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -4655,7 +4655,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-2-фургон-арка" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-2-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Boxer</name>
@@ -4666,7 +4666,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-2-фургон-порог" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-2-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -4677,7 +4677,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-1-фургон-арка-28-10-4лф" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-1-фургон-арка-28-10-4лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Boxer</name>
@@ -4688,7 +4688,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-1-фургон-порог-28-10-4лф" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-1-фургон-порог-28-10-4лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -4699,7 +4699,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-1-фургон-арка" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-1-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Boxer</name>
@@ -4710,7 +4710,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="peugeot-boxer-1-фургон-порог" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-1-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -4721,7 +4721,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="citroen-jumper-2-дорест-2-рест-230-244-фургон-арка-28-10лф" available="true">
         <url>https://porogi.pro/product/citroen-jumper-2-дорест-2-рест-230-244-фургон-арка-28-10лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Jumper</name>
@@ -4732,7 +4732,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="citroen-jumper-2-дорест-2-рест-230-244-фургон-порог-28-10лф" available="true">
         <url>https://porogi.pro/product/citroen-jumper-2-дорест-2-рест-230-244-фургон-порог-28-10лф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumper</name>
@@ -4743,7 +4743,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="citroen-jumper-2-дорест-2-рест-230-244-фургон-арка" available="true">
         <url>https://porogi.pro/product/citroen-jumper-2-дорест-2-рест-230-244-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Jumper</name>
@@ -4754,7 +4754,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="citroen-jumper-2-дорест-2-рест-230-244-фургон-порог" available="true">
         <url>https://porogi.pro/product/citroen-jumper-2-дорест-2-рест-230-244-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumper</name>
@@ -4765,7 +4765,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-marea-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-marea-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Marea</name>
@@ -4776,7 +4776,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-marea-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-marea-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Marea</name>
@@ -4787,7 +4787,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-2-дорест-2-рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-2-дорест-2-рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto</name>
@@ -4798,7 +4798,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-2-дорест-2-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-2-дорест-2-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto</name>
@@ -4809,7 +4809,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-tempra-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-tempra-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Tempra</name>
@@ -4820,7 +4820,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-tempra-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-tempra-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Tempra</name>
@@ -4831,7 +4831,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-cinquecento-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-cinquecento-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Cinquecento</name>
@@ -4842,7 +4842,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-palio-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-palio-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Palio</name>
@@ -4853,7 +4853,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-bravo-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-bravo-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Bravo</name>
@@ -4864,7 +4864,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-albea-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-albea-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Albea</name>
@@ -4875,7 +4875,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-albea-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-albea-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Albea</name>
@@ -4886,7 +4886,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-500-2-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-500-2-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat 500</name>
@@ -4897,7 +4897,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-500-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-500-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat 500</name>
@@ -4908,7 +4908,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-idea-1-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-idea-1-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Idea</name>
@@ -4919,7 +4919,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-idea-1-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-idea-1-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Idea</name>
@@ -4930,7 +4930,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-grand-punto-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-grand-punto-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto (Grand Punto)</name>
@@ -4941,7 +4941,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-grand-punto-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-punto-grand-punto-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Punto (Grand Punto)</name>
@@ -4952,7 +4952,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-grand-punto-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-grand-punto-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto (Grand Punto)</name>
@@ -4963,7 +4963,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-panda-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-panda-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Panda</name>
@@ -4974,7 +4974,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-bravo-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-bravo-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Bravo</name>
@@ -4985,7 +4985,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-coupe-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-coupe-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Coupe</name>
@@ -4996,7 +4996,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Doblo</name>
@@ -5007,7 +5007,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Doblo</name>
@@ -5018,7 +5018,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Doblo</name>
@@ -5029,7 +5029,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Doblo</name>
@@ -5040,7 +5040,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Doblo</name>
@@ -5051,7 +5051,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-doblo-1-рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-doblo-1-рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Doblo</name>
@@ -5062,7 +5062,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-barchetta-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-barchetta-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Barchetta</name>
@@ -5073,7 +5073,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-barchetta-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-barchetta-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Barchetta</name>
@@ -5084,7 +5084,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-stilo-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-stilo-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Stilo</name>
@@ -5095,7 +5095,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-stilo-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-stilo-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Stilo</name>
@@ -5106,7 +5106,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-sedici-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-sedici-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Sedici</name>
@@ -5117,7 +5117,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-sedici-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-sedici-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Sedici</name>
@@ -5128,7 +5128,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-scudo-2-минивэн-арка" available="true">
         <url>https://porogi.pro/product/fiat-scudo-2-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Scudo</name>
@@ -5139,7 +5139,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-scudo-2-минивэн-порог" available="true">
         <url>https://porogi.pro/product/fiat-scudo-2-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Scudo</name>
@@ -5150,7 +5150,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-scudo-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-scudo-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Scudo</name>
@@ -5161,7 +5161,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-3-фургон-арка" available="true">
         <url>https://porogi.pro/product/fiat-ducato-3-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Ducato</name>
@@ -5172,7 +5172,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-3-фургон-порог" available="true">
         <url>https://porogi.pro/product/fiat-ducato-3-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Ducato</name>
@@ -5183,7 +5183,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-3-фургон-арка-28-31фл" available="true">
         <url>https://porogi.pro/product/fiat-ducato-3-фургон-арка-28-31фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Fiat Ducato</name>
@@ -5194,7 +5194,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-ducato-3-фургон-порог-28-31фл" available="true">
         <url>https://porogi.pro/product/fiat-ducato-3-фургон-порог-28-31фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Ducato</name>
@@ -5205,7 +5205,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-evo-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-evo-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto Evo</name>
@@ -5216,7 +5216,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/fiat-punto-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Fiat Punto</name>
@@ -5227,7 +5227,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-punto-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-punto-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Punto</name>
@@ -5238,7 +5238,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-tipo-160-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-tipo-160-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Tipo 160</name>
@@ -5249,7 +5249,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="fiat-tipo-160-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/fiat-tipo-160-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Fiat Tipo 160</name>
@@ -5260,7 +5260,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-2-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5271,7 +5271,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-2-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5282,7 +5282,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-edge-1дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-edge-1дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Edge</name>
@@ -5293,7 +5293,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-mk4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -5304,7 +5304,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-escort-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort</name>
@@ -5315,7 +5315,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-kombi-6-фургон-арка" available="true">
         <url>https://porogi.pro/product/ford-transit-kombi-6-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit Kombi</name>
@@ -5326,7 +5326,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-kombi-6-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-kombi-6-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit Kombi</name>
@@ -5337,7 +5337,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-scorpio-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-scorpio-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Scorpio</name>
@@ -5348,7 +5348,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-courier-1-европа-компактвэн-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-courier-1-европа-компактвэн-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Courier</name>
@@ -5359,7 +5359,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -5370,7 +5370,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -5381,7 +5381,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-2-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5392,7 +5392,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-2-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5403,7 +5403,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-c-max-1-дорест-1-рест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/ford-c-max-1-дорест-1-рест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford C-Max</name>
@@ -5414,7 +5414,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-c-max-1-дорест-1-рест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-c-max-1-дорест-1-рест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford C-Max</name>
@@ -5425,7 +5425,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5436,7 +5436,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5447,7 +5447,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5458,7 +5458,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5469,7 +5469,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-5-дорест-5-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-5-дорест-5-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5480,7 +5480,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-freestyle-1-d219-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-freestyle-1-d219-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Freestyle</name>
@@ -5491,7 +5491,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5502,7 +5502,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5513,7 +5513,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5524,7 +5524,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5535,7 +5535,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Ford Focus</name>
@@ -5546,7 +5546,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5557,7 +5557,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -5568,7 +5568,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-focus-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -5579,7 +5579,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-s-max-1-дорест-1рест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/ford-s-max-1-дорест-1рест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford S-Max</name>
@@ -5590,7 +5590,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-s-max-1-дорест-1рест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-s-max-1-дорест-1рест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford S-Max</name>
@@ -5601,7 +5601,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-bronco-4-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-bronco-4-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Ford Bronco</name>
@@ -5612,7 +5612,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-bronco-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-bronco-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Bronco</name>
@@ -5623,7 +5623,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-cougar-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-cougar-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Cougar</name>
@@ -5634,7 +5634,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-kuga-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-kuga-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Kuga</name>
@@ -5645,7 +5645,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-kuga-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-kuga-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Kuga</name>
@@ -5656,7 +5656,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-1-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-1-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5667,7 +5667,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-1-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-1-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5678,7 +5678,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5689,7 +5689,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5700,7 +5700,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5711,7 +5711,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-2-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-2-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5722,7 +5722,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Mondeo</name>
@@ -5733,7 +5733,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5744,7 +5744,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-2-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-2-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5755,7 +5755,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5766,7 +5766,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-kuga-2-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-kuga-2-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Kuga</name>
@@ -5777,7 +5777,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Mondeo</name>
@@ -5788,7 +5788,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5799,7 +5799,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Mondeo</name>
@@ -5810,7 +5810,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5821,7 +5821,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5832,7 +5832,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-3-дорест-3-рест-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-3-дорест-3-рест-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5843,7 +5843,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-4-дорест-4-рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-4-дорест-4-рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5854,7 +5854,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-4-дорест-4-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-4-дорест-4-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Mondeo</name>
@@ -5865,7 +5865,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-4-дорест-4-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-4-дорест-4-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5876,7 +5876,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-4-дорест-4-рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-mondeo-4-дорест-4-рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Mondeo</name>
@@ -5887,7 +5887,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-mondeo-4-дорест-4-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mondeo-4-дорест-4-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mondeo</name>
@@ -5898,7 +5898,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-ranger-2-дорест-2-рест-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-ranger-2-дорест-2-рест-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Ranger</name>
@@ -5909,7 +5909,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-ranger-2-дорест-2-рест-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-ranger-2-дорест-2-рест-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Ranger</name>
@@ -5920,7 +5920,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-taurus-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-taurus-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Taurus</name>
@@ -5931,7 +5931,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-tourneo-connect-1-дорест-1рест-минивэн-порог-29-28вв" available="true">
         <url>https://porogi.pro/product/ford-tourneo-connect-1-дорест-1рест-минивэн-порог-29-28вв</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Tourneo Connect</name>
@@ -5942,7 +5942,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-tourneo-connect-1-дорест-1рест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/ford-tourneo-connect-1-дорест-1рест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Tourneo Connect</name>
@@ -5953,7 +5953,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-tourneo-connect-1-дорест-1рест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-tourneo-connect-1-дорест-1рест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Tourneo Connect</name>
@@ -5964,7 +5964,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-connect-1-дорест-1рест-фургон-арка" available="true">
         <url>https://porogi.pro/product/ford-transit-connect-1-дорест-1рест-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit Connect</name>
@@ -5975,7 +5975,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-connect-1-дорест-1рест-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-connect-1-дорест-1рест-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit Connect</name>
@@ -5986,7 +5986,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-арка" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit</name>
@@ -5997,7 +5997,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -6008,7 +6008,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-арка-29-29-2лф6" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-арка-29-29-2лф6</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit</name>
@@ -6019,7 +6019,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-порог-29-29-2лф6" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-порог-29-29-2лф6</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -6030,7 +6030,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-арка-29-29-3кф6" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-арка-29-29-3кф6</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit</name>
@@ -6041,7 +6041,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-6-фургон-порог-29-29-3кф6" available="true">
         <url>https://porogi.pro/product/ford-transit-6-фургон-порог-29-29-3кф6</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -6052,7 +6052,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-арка-29-29-3лф7" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-арка-29-29-3лф7</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit (Mark)</name>
@@ -6063,7 +6063,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-порог-29-29-3лф7" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-порог-29-29-3лф7</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit (Mark)</name>
@@ -6074,7 +6074,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-арка" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit (Mark)</name>
@@ -6085,7 +6085,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit (Mark)</name>
@@ -6096,7 +6096,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-арка-29-29-4лф7" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-арка-29-29-4лф7</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit (Mark)</name>
@@ -6107,7 +6107,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-mark-7-фургон-порог-29-29-4лф7" available="true">
         <url>https://porogi.pro/product/ford-transit-mark-7-фургон-порог-29-29-4лф7</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit (Mark)</name>
@@ -6118,7 +6118,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-5-фургон-арка-29-29ф5" available="true">
         <url>https://porogi.pro/product/ford-transit-5-фургон-арка-29-29ф5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit</name>
@@ -6129,7 +6129,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-transit-5-фургон-порог-29-29ф5" available="true">
         <url>https://porogi.pro/product/ford-transit-5-фургон-порог-29-29ф5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -6140,7 +6140,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-mk5-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk5-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Fiesta</name>
@@ -6151,7 +6151,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-mk5-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk5-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -6162,7 +6162,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-mk5-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk5-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Fiesta</name>
@@ -6173,7 +6173,7 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
       <offer id="ford-fiesta-mk5-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk5-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -6181,4 +6181,4 @@ export default `      <offer id="toyota-prius-4-wx50-лифтбек-5-дв-по�
         <vendor>Ford</vendor>
         <model>Fiesta</model>
       </offer>
-`
+`.replace(/<price>1799<\/price>/g, '<price>1790</price>').replace(/<price>1999<\/price>/g, '<price>1950</price>'))

@@ -1,9 +1,21 @@
 import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { db } from '@lork/sdk'
-import { BRANDS, PARTS, VEHICLES, buildCatalogPath, formatPrice, generationsFor, modelsForBrand } from '@/data/catalog'
+import {
+  BRANDS,
+  PARTS,
+  VEHICLES,
+  buildCatalogPath,
+  formatPrice,
+  isSchemeImage,
+  modelsForBrand,
+  yearsFor,
+  type Part,
+} from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
-import { getCallbackProfile, markContact, onCallbackEvent, rememberCallbackProfile } from '@/lib/callbackScript'
+import QuickOrderModal from '@/components/QuickOrderModal'
+import { getCallbackProfile, markContact, onCallbackEvent, rememberCallbackProfile, showCallback } from '@/lib/callbackScript'
+import { sendUisLead } from '@/lib/uisLead'
 
 const advantages = [
   {
@@ -25,33 +37,33 @@ const advantages = [
 ]
 
 const process = [
-  { step: '01', title: 'Выбор автомобиля', text: 'Укажите марку, модель и поколение — покажем подходящие детали.' },
+  { step: '01', title: 'Выбор автомобиля', text: 'Укажите марку, модель и год выпуска — покажем подходящие детали.' },
   { step: '02', title: 'Материал и комплектация', text: 'В карточке выберите материал и набор — цена обновится сразу.' },
   { step: '03', title: 'Корзина и оформление', text: 'Соберите состав заказа и оставьте имя, телефон, город и комментарий.' },
   { step: '04', title: 'Подтверждение', text: 'Мы свяжемся с вами, чтобы подтвердить состав заказа и детали доставки.' },
 ]
 
-/** Артикулы деталей в блоке «Популярные детали» на главной (в заданном порядке). */
-const FEATURED_SKUS = [
-  '29-10Х5',
-  '34-17Л4',
-  '15-40С4',
-  '19-12С4',
-  '17-24С4',
-  '33-17С4',
-  '27-37С4',
-  '27-73В5',
+/** Детали в блоке «Популярные детали» на главной: тип и артикул в заданном порядке. */
+const FEATURED_ITEMS: { type: Part['type']; sku: string }[] = [
+  { type: 'порог', sku: '29-10Х5' },
+  { type: 'арка', sku: '34-17Л4' },
+  { type: 'порог', sku: '15-40С4' },
+  { type: 'арка', sku: '19-12С4' },
+  { type: 'порог', sku: '17-24С4' },
+  { type: 'арка', sku: '33-17С4' },
+  { type: 'порог', sku: '27-37С4' },
+  { type: 'арка', sku: '27-73В5' },
 ]
 
 export default function Home() {
-  const featured = FEATURED_SKUS.map((sku) => PARTS.find((part) => part.sku === sku)).filter(
-    (part): part is NonNullable<typeof part> => Boolean(part),
-  )
+  const featured = FEATURED_ITEMS.map((item) =>
+    PARTS.find((part) => part.sku === item.sku && part.type === item.type),
+  ).filter((part): part is Part => Boolean(part))
   const navigate = useNavigate()
 
   const [brand, setBrand] = useState('')
   const [model, setModel] = useState('')
-  const [generation, setGeneration] = useState('')
+  const [years, setYears] = useState('')
 
   const [callOpen, setCallOpen] = useState(false)
   const [callName, setCallName] = useState('')
@@ -61,12 +73,14 @@ export default function Home() {
   const [callSent, setCallSent] = useState(false)
   const [callConsent, setCallConsent] = useState(false)
 
-  /* Скрипт обратного звонка: показывает форму на первом визите по таймеру
-     или при попытке закрыть сайт; данные из Cookie подставляются в форму. */
+  /* Товар, для которого открыта форма «Заказ в 1 клик» из блока популярных деталей. */
+  const [orderPart, setOrderPart] = useState<Part | null>(null)
+
+  /* Ручной вызов открывает эту форму; автоматический — глобальную CallbackScript. */
   useEffect(() => {
     let cancelled = false
-    const onShown = () => {
-      if (cancelled) return
+    const off = onCallbackEvent((event) => {
+      if (cancelled || event.type !== 'callback-form-shown' || event.trigger !== 'manual') return
       const profile = getCallbackProfile()
       if (profile.name) setCallName(profile.name)
       if (profile.phone) setCallPhone(profile.phone.replace(/^\+7/, ''))
@@ -74,9 +88,6 @@ export default function Home() {
       setCallError('')
       setCallSent(false)
       setCallConsent(false)
-    }
-    const off = onCallbackEvent((event) => {
-      if (event.type === 'callback-form-shown') onShown()
     })
     return () => {
       cancelled = true
@@ -90,33 +101,39 @@ export default function Home() {
   }, [callSent])
 
   const models = useMemo(() => (brand ? modelsForBrand(brand) : []), [brand])
-  const generations = useMemo(
-    () => (brand && model ? generationsFor(brand, model) : []),
+  const yearOptions = useMemo(
+    () => (brand && model ? yearsFor(brand, model) : []),
     [brand, model],
   )
-  const ready = Boolean(brand && model && generation)
+  const ready = Boolean(brand && model && years)
 
   const handleBrand = (value: string) => {
     setBrand(value)
     setModel('')
-    setGeneration('')
+    setYears('')
   }
 
   const handleModel = (value: string) => {
     setModel(value)
-    setGeneration('')
+    setYears('')
   }
 
   const pickVehicle = () => {
     if (!ready) return
-    navigate(buildCatalogPath('все', brand, model, generation))
+    // Год (а не поколение) передаём в адрес каталога: по нему строится заголовок страницы.
+    navigate(buildCatalogPath('все', brand, model, years))
   }
 
   const openCall = () => {
+    /* Открываем форму обратного звонка: сохраняем введённые данные
+       в профиль, чтобы скрипт показал их вместе с формой. */
+    const name = callName.trim()
+    rememberCallbackProfile({
+      ...(name ? { name } : {}),
+      ...(callPhone.length === 10 ? { phone: `+7${callPhone}` } : {}),
+    })
+    showCallback('manual')
     setCallOpen(true)
-    setCallError('')
-    setCallSent(false)
-    setCallConsent(false)
   }
 
   const closeCall = () => {
@@ -147,6 +164,7 @@ export default function Home() {
       return
     }
     const phone = `+7${callPhone}`
+    const comment = `Обратный звонок с главной страницы «Довериться профессионалу».\nСтраница: ${window.location.href}`
     setCallError('')
     setCallSending(true)
     try {
@@ -155,13 +173,15 @@ export default function Home() {
         customer_name: name,
         phone,
         city: '—',
-        comment: `Обратный звонок с главной страницы «Довериться профессионалу».\nСтраница: ${window.location.href}`,
+        comment,
         items: [],
         total: 0,
         status: 'callback',
         consent_pdn: true,
       })
       if (error) throw error
+      /* Заявка сохранена — передаём её в UIS; сбой UIS не влияет на отправку. */
+      void sendUisLead({ name, phone, message: comment })
       setCallSent(true)
       setCallName('')
       setCallPhone('')
@@ -187,7 +207,7 @@ export default function Home() {
               Ремонтные пороги и колёсные арки для вашего автомобиля
             </h1>
             <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
-              Новые детали для кузовного ремонта: подберём по марке, модели и поколению, поможем
+              Новые детали для кузовного ремонта: подберём по марке, модели и году выпуска, поможем
               выбрать материал и комплектацию и соберём заказ.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-3">
@@ -199,7 +219,10 @@ export default function Home() {
               </Link>
               <button
                 type="button"
-                onClick={openCall}
+                onClick={() => {
+                  /* Данные сохраняются в openCall, здесь — открытие формы. */
+                  openCall()
+                }}
                 className="rounded-md border border-[#7dd3fc] bg-[#e0f2fe] px-5 py-3 text-sm font-medium text-[#0369a1] transition-colors hover:border-[#38bdf8] hover:bg-[#bae6fd]"
               >
                 Довериться профессионалу
@@ -231,7 +254,7 @@ export default function Home() {
         <div className="max-w-2xl">
           <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Подбор по автомобилю</h2>
           <p className="mt-3 text-muted-foreground">
-            Укажите марку, модель и поколение — перейдём в каталог с выбранным автомобилем.
+            Укажите марку, модель и год выпуска — перейдём в каталог с выбранным автомобилем.
           </p>
         </div>
 
@@ -271,15 +294,15 @@ export default function Home() {
             </label>
 
             <label className="block">
-              <span className="mb-1.5 block text-sm font-bold text-[#16a34a]">Поколение</span>
+              <span className="mb-1.5 block text-sm font-bold text-[#16a34a]">Год выпуска</span>
               <select
-                value={generation}
-                onChange={(event) => setGeneration(event.target.value)}
+                value={years}
+                onChange={(event) => setYears(event.target.value)}
                 disabled={!model}
                 className="h-11 w-full rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-60"
               >
-                <option value="">{model ? 'Все поколения' : 'Сначала выберите модель'}</option>
-                {generations.map((item) => (
+                <option value="">{model ? 'Все годы' : 'Сначала выберите модель'}</option>
+                {yearOptions.map((item) => (
                   <option key={item} value={item}>
                     {item}
                   </option>
@@ -300,7 +323,74 @@ export default function Home() {
           </div>
         </section>
       </section>
+      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
+        <div className="flex flex-wrap items-end justify-between gap-4">
+          <div>
+            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Популярные детали</h2>
+            <p className="mt-2 text-muted-foreground">
+              Выберите автомобиль в каталоге, чтобы увидеть все варианты.
+            </p>
+          </div>
+          <Link
+            to="/catalog"
+            className="rounded-md border border-border bg-card px-4 py-2 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
+          >
+            Весь каталог
+          </Link>
+        </div>
 
+        <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {featured.map((part) => (
+            <div
+              key={part.id}
+              className="group flex flex-col overflow-hidden rounded-xl border border-border bg-card transition-colors hover:border-accent"
+            >
+              <Link to={`/product/${part.id}`} className="block">
+                <div className="aspect-[4/3] overflow-hidden bg-surface">
+                  <img
+                    src={part.images[0]}
+                    alt={
+                      isSchemeImage(part.images[0])
+                        ? `${part.title} — схема зоны установки`
+                        : part.title
+                    }
+                    className={
+                      isSchemeImage(part.images[0])
+                        ? 'h-full w-full object-contain p-3'
+                        : 'h-full w-full object-cover transition-transform duration-300 group-hover:scale-105'
+                    }
+                    loading="lazy"
+                  />
+                </div>
+                <div className="p-4">
+                  <div className="flex items-center justify-between gap-2 text-xs uppercase tracking-wide text-muted-foreground">
+                    <span>{part.type}</span>
+                    <span>Арт. {part.sku}</span>
+                  </div>
+                  <h3 className="mt-1 font-semibold leading-snug">{part.title}</h3>
+                  <div className="mt-1 text-sm text-muted-foreground">
+                    {part.vehicle.generation} · Кузов: {part.body}
+                  </div>
+                  <div className="mt-3 flex items-center justify-between">
+                    <span className="font-bold text-accent">
+                      от {formatPrice(part.type === 'арка' ? 1950 : 1790)}
+                    </span>
+                  </div>
+                </div>
+              </Link>
+              <div className="mt-auto border-t border-border p-4 pt-3">
+                <button
+                  type="button"
+                  onClick={() => setOrderPart(part)}
+                  className="inline-flex min-h-11 w-full items-center justify-center rounded-md border border-[#7dd3fc] bg-[#e0f2fe] px-4 text-sm font-medium text-[#0369a1] transition-colors hover:border-[#38bdf8] hover:bg-[#bae6fd]"
+                >
+                  Заказать
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
       <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
         <div className="max-w-2xl">
           <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">
@@ -351,66 +441,12 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6">
-        <div className="flex flex-wrap items-end justify-between gap-4">
-          <div>
-            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Популярные детали</h2>
-            <p className="mt-2 text-muted-foreground">
-              Выберите автомобиль в каталоге, чтобы увидеть все варианты.
-            </p>
-          </div>
-          <Link
-            to="/catalog"
-            className="rounded-md border border-border bg-card px-4 py-2 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
-          >
-            Весь каталог
-          </Link>
-        </div>
-
-        <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {featured.map((part) => (
-            <Link
-              key={part.id}
-              to={`/product/${part.id}`}
-              className="group overflow-hidden rounded-xl border border-border bg-card transition-colors hover:border-accent"
-            >
-              <div className="aspect-[4/3] overflow-hidden bg-surface">
-                <img
-                  src={part.images[0]}
-                  alt={part.title}
-                  className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  loading="lazy"
-                />
-              </div>
-              <div className="p-4">
-                <div className="flex items-center justify-between gap-2 text-xs uppercase tracking-wide text-muted-foreground">
-                  <span>{part.type}</span>
-                  <span>Арт. {part.sku}</span>
-                </div>
-                <h3 className="mt-1 font-semibold leading-snug">{part.title}</h3>
-                <div className="mt-1 text-sm text-muted-foreground">
-                  {part.vehicle.generation} · Кузов: {part.body}
-                </div>
-                <div className="mt-3 flex items-center justify-between">
-                  <span className="font-bold text-accent">
-                    от {formatPrice(part.type === 'арка' ? 1950 : 1790)}
-                  </span>
-                  <span className="rounded-full bg-secondary px-2 py-0.5 text-xs text-secondary-foreground">
-                    {part.side}
-                  </span>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
       <section className="mx-auto w-full max-w-6xl px-4 pb-16 sm:px-6">
         <div className="rounded-xl border border-border bg-foreground p-6 text-background sm:p-10">
           <div className="max-w-2xl">
             <h2 className="text-2xl font-bold tracking-tight">Подберите деталь под свой кузов</h2>
             <p className="mt-3 text-sm leading-relaxed text-background/75">
-              В каталоге выберите марку, модель и поколение автомобиля — фильтр покажет пороги и
+              В каталоге выберите марку, модель и год выпуска автомобиля — фильтр покажет пороги и
               арки, подходящие именно для вашего кузова.
             </p>
           </div>
@@ -492,9 +528,15 @@ export default function Home() {
                     <input
                       type="tel"
                       inputMode="tel"
-                      value={callPhone
-                        .replace(/(\d{3})(?=\d)/g, '$1 ')
-                        .replace(/(\d{3}) (\d{3})(?=\d)/g, '$1 $2 ')}
+                      value={(() => {
+                        const groups = [
+                          callPhone.slice(0, 3),
+                          callPhone.slice(3, 6),
+                          callPhone.slice(6, 8),
+                          callPhone.slice(8, 10),
+                        ].filter(Boolean)
+                        return groups.join(' ')
+                      })()}
                       onChange={(event) => handleCallPhone(event.target.value)}
                       placeholder="(999) 123-45-67"
                       aria-label="Номер телефона, начинается с +7"
@@ -533,6 +575,10 @@ export default function Home() {
             )}
           </div>
         </div>
+      )}
+
+      {orderPart && (
+        <QuickOrderModal part={orderPart} onClose={() => setOrderPart(null)} />
       )}
     </div>
   )

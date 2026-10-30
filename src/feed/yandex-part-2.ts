@@ -1,8 +1,8 @@
 /** Автосгенерированный фрагмент YML-фида (файл 3/6). */
-export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-порог" available="true">
+export default (`      <offer id="nissan-cube-1-z10-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-cube-1-z10-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Cube</name>
@@ -13,7 +13,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-qashqai-1дорест-1рест-j10-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-qashqai-1дорест-1рест-j10-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Qashqai</name>
@@ -24,7 +24,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-qashqai-1дорест-1рест-j10-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-qashqai-1дорест-1рест-j10-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Qashqai</name>
@@ -35,7 +35,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-bluebird-sylphy-1-g10-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-bluebird-sylphy-1-g10-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Bluebird Sylphy</name>
@@ -46,7 +46,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-bluebird-sylphy-1-g10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-bluebird-sylphy-1-g10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Bluebird Sylphy</name>
@@ -57,7 +57,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-teana-1дорест-1рест-j31-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-teana-1дорест-1рест-j31-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Teana</name>
@@ -68,7 +68,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-teana-1дорест-1рест-j31-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-teana-1дорест-1рест-j31-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Teana</name>
@@ -79,7 +79,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-murano-1-z50-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-murano-1-z50-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Murano</name>
@@ -90,7 +90,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-murano-1-z50-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-murano-1-z50-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Murano</name>
@@ -101,7 +101,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-primera-1-p10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-primera-1-p10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Primera</name>
@@ -112,7 +112,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-primera-1-p10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-primera-1-p10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Primera</name>
@@ -123,7 +123,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-primera-1-p10-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-primera-1-p10-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Primera</name>
@@ -134,7 +134,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-murano-2дорест-2рест-2рест2-z51-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-murano-2дорест-2рест-2рест2-z51-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Murano</name>
@@ -145,7 +145,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-murano-2дорест-2рест-2рест2-z51-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-murano-2дорест-2рест-2рест2-z51-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Murano</name>
@@ -156,7 +156,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-pathfinder-3дорест-3рест-r51-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-pathfinder-3дорест-3рест-r51-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Pathfinder</name>
@@ -167,7 +167,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-pathfinder-3дорест-3рест-r51-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-pathfinder-3дорест-3рест-r51-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Pathfinder</name>
@@ -178,7 +178,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-quest-3-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-quest-3-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Quest</name>
@@ -189,7 +189,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-quest-3-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-quest-3-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Quest</name>
@@ -200,7 +200,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-navara-frontier-3дорест-3рест-d40-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-navara-frontier-3дорест-3рест-d40-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Navara (Frontier)</name>
@@ -211,7 +211,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-navara-frontier-3дорест-3рест-d40-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-navara-frontier-3дорест-3рест-d40-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Navara (Frontier)</name>
@@ -222,7 +222,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-240sx-1-s14-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-240sx-1-s14-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan 240SX</name>
@@ -233,7 +233,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-avenir-2-w11-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-avenir-2-w11-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Avenir</name>
@@ -244,7 +244,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-avenir-2-w11-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-avenir-2-w11-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Avenir</name>
@@ -255,7 +255,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-note-1-дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-note-1-дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Note</name>
@@ -266,7 +266,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-note-1-дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-note-1-дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Note</name>
@@ -277,7 +277,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-patrol-3-k160-k260-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-patrol-3-k160-k260-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Patrol</name>
@@ -288,7 +288,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-patrol-3-k160-k260-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-patrol-3-k160-k260-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Patrol</name>
@@ -299,7 +299,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-leaf-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-leaf-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Leaf</name>
@@ -310,7 +310,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-leaf-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-leaf-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Leaf</name>
@@ -321,7 +321,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-wingroad-3-y12-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-wingroad-3-y12-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Wingroad</name>
@@ -332,7 +332,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-wingroad-3-y12-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-wingroad-3-y12-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Wingroad</name>
@@ -343,7 +343,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-patrol-6дорест-6рест-y62-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-patrol-6дорест-6рест-y62-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Patrol</name>
@@ -354,7 +354,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vivaro-1-a-минивэн-арка" available="true">
         <url>https://porogi.pro/product/opel-vivaro-1-a-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Vivaro</name>
@@ -365,7 +365,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vivaro-1-a-минивэн-порог" available="true">
         <url>https://porogi.pro/product/opel-vivaro-1-a-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vivaro</name>
@@ -376,7 +376,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="vauxhall-vivaro-all-минивэн-арка" available="true">
         <url>https://porogi.pro/product/vauxhall-vivaro-all-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Vauxhall Vivaro</name>
@@ -387,7 +387,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="vauxhall-vivaro-all-минивэн-порог" available="true">
         <url>https://porogi.pro/product/vauxhall-vivaro-all-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Vauxhall Vivaro</name>
@@ -398,7 +398,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-primastar-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/nissan-primastar-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Primastar</name>
@@ -409,7 +409,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-primastar-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/nissan-primastar-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Primastar</name>
@@ -420,7 +420,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-skyline-11-v35-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-skyline-11-v35-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Skyline</name>
@@ -431,7 +431,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-skyline-11-v35-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-skyline-11-v35-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Skyline</name>
@@ -442,7 +442,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-laurel-7-с34-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-laurel-7-с34-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Laurel</name>
@@ -453,7 +453,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-laurel-7-с34-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-laurel-7-с34-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Laurel</name>
@@ -464,7 +464,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-sunny-b12-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-sunny-b12-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Sunny</name>
@@ -475,7 +475,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-sunny-b12-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-sunny-b12-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Sunny</name>
@@ -486,7 +486,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-teana-3-l33-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-teana-3-l33-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Teana</name>
@@ -497,7 +497,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-teana-3-l33-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-teana-3-l33-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Teana</name>
@@ -508,7 +508,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-wingroad-1-y10-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-wingroad-1-y10-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Wingroad</name>
@@ -519,7 +519,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-wingroad-1-y10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-wingroad-1-y10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Wingroad</name>
@@ -530,7 +530,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-tiida-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-tiida-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Tiida</name>
@@ -541,7 +541,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-tiida-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-tiida-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Tiida</name>
@@ -552,7 +552,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-tiida-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-tiida-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Nissan Tiida</name>
@@ -563,7 +563,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-tiida-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-tiida-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Tiida</name>
@@ -574,7 +574,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-qashqai-2-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-qashqai-2-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Qashqai</name>
@@ -585,7 +585,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-juke-1-дорест-1-рест-yf15-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-juke-1-дорест-1-рест-yf15-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Juke</name>
@@ -596,7 +596,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-laurel-5-c32-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-laurel-5-c32-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Laurel</name>
@@ -607,7 +607,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-laurel-5-c32-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-laurel-5-c32-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Laurel</name>
@@ -618,7 +618,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-180sx-all-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-180sx-all-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan 180SX</name>
@@ -629,7 +629,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-cefiro-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-cefiro-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Cefiro</name>
@@ -640,7 +640,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-presage-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/nissan-presage-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Presage</name>
@@ -651,7 +651,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-presage-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/nissan-presage-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Presage</name>
@@ -662,7 +662,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-elgrand-2-е51-минивэн-арка" available="true">
         <url>https://porogi.pro/product/nissan-elgrand-2-е51-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Nissan Elgrand</name>
@@ -673,7 +673,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="nissan-elgrand-2-е51-минивэн-порог" available="true">
         <url>https://porogi.pro/product/nissan-elgrand-2-е51-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Nissan Elgrand</name>
@@ -684,7 +684,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="bentley-continental-flying-spur-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bentley-continental-flying-spur-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Bentley Continental Flying Spur</name>
@@ -695,7 +695,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="byd-f3-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/byd-f3-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BYD F3</name>
@@ -706,7 +706,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="byd-f3-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/byd-f3-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BYD F3</name>
@@ -717,7 +717,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="byd-l3-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/byd-l3-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BYD L3</name>
@@ -728,7 +728,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="byd-l3-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/byd-l3-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BYD L3</name>
@@ -739,7 +739,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-1-f-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-1-f-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -750,7 +750,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-1-f-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-1-f-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -761,7 +761,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-caravan-1-f-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-caravan-1-f-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra (Caravan)</name>
@@ -772,7 +772,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-caravan-1-f-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-caravan-1-f-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra (Caravan)</name>
@@ -783,7 +783,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-1-f-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-1-f-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -794,7 +794,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-1-f-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-1-f-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -805,7 +805,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -816,7 +816,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -827,7 +827,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -838,7 +838,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -849,7 +849,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Astra</name>
@@ -860,7 +860,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -871,7 +871,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Astra</name>
@@ -882,7 +882,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-2-g-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-2-g-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -893,7 +893,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-antara-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-antara-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Antara</name>
@@ -904,7 +904,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-antara-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-antara-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Antara</name>
@@ -915,7 +915,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-gtc-3дорест-3рест-h-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-gtc-3дорест-3рест-h-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra GTC</name>
@@ -926,7 +926,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-gtc-3дорест-3рест-h-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-gtc-3дорест-3рест-h-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra GTC</name>
@@ -937,7 +937,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -948,7 +948,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -959,7 +959,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -970,7 +970,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -981,7 +981,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -992,7 +992,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1003,7 +1003,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Astra</name>
@@ -1014,7 +1014,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-3дорест-3рест-h-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-3дорест-3рест-h-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1025,7 +1025,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Vectra</name>
@@ -1036,7 +1036,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1047,7 +1047,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Vectra</name>
@@ -1058,7 +1058,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1069,7 +1069,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Vectra</name>
@@ -1080,7 +1080,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-2дорест-2рест-b-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-2дорест-2рест-b-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1091,7 +1091,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-zafira-3дорест-3-рест-c-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-zafira-3дорест-3-рест-c-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Zafira</name>
@@ -1102,7 +1102,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-zafira-2дорест-2рест-b-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-zafira-2дорест-2рест-b-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Zafira</name>
@@ -1113,7 +1113,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-zafira-2дорест-2рест-b-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-zafira-2дорест-2рест-b-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Zafira</name>
@@ -1124,7 +1124,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-calibra-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-calibra-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Calibra</name>
@@ -1135,7 +1135,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-calibra-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-calibra-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Calibra</name>
@@ -1146,7 +1146,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-4дорест-4-рест-d-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-corsa-4дорест-4-рест-d-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Corsa</name>
@@ -1157,7 +1157,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-4дорест-4-рест-d-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-4дорест-4-рест-d-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1168,7 +1168,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-4дорест-4-рест-d-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-corsa-4дорест-4-рест-d-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Corsa</name>
@@ -1179,7 +1179,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-4дорест-4-рест-d-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-4дорест-4-рест-d-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1190,7 +1190,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-2-b-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-corsa-2-b-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Corsa</name>
@@ -1201,7 +1201,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-2-b-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-2-b-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1212,7 +1212,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-2-b-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-2-b-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1223,7 +1223,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-3дорест-3-рест-c-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-corsa-3дорест-3-рест-c-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Corsa</name>
@@ -1234,7 +1234,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-3дорест-3-рест-c-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-3дорест-3-рест-c-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1245,7 +1245,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-3дорест-3-рест-c-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-corsa-3дорест-3-рест-c-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Corsa</name>
@@ -1256,7 +1256,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-corsa-3дорест-3-рест-c-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-corsa-3дорест-3-рест-c-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Corsa</name>
@@ -1267,7 +1267,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-meriva-1дорест-1рест-a-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-meriva-1дорест-1рест-a-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Meriva</name>
@@ -1278,7 +1278,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-meriva-1дорест-1рест-a-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-meriva-1дорест-1рест-a-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Meriva</name>
@@ -1289,7 +1289,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-sintra-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-sintra-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Sintra</name>
@@ -1300,7 +1300,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-tigra-1-a-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-tigra-1-a-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Tigra</name>
@@ -1311,7 +1311,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-tigra-1-a-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-tigra-1-a-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Tigra</name>
@@ -1322,7 +1322,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-1-a-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-frontera-1-a-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Frontera</name>
@@ -1333,7 +1333,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-1-a-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-frontera-1-a-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Frontera</name>
@@ -1344,7 +1344,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-1-a-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-frontera-1-a-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Frontera</name>
@@ -1355,7 +1355,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-1-a-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-frontera-1-a-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Frontera</name>
@@ -1366,7 +1366,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-2дорест-2рест-b-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-frontera-2дорест-2рест-b-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Frontera</name>
@@ -1377,7 +1377,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-2дорест-2рест-b-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-frontera-2дорест-2рест-b-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Frontera</name>
@@ -1388,7 +1388,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-frontera-2дорест-2рест-b-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-frontera-2дорест-2рест-b-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Frontera</name>
@@ -1399,7 +1399,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-zafira-1дорест-1рест-a-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-zafira-1дорест-1рест-a-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Zafira</name>
@@ -1410,7 +1410,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-zafira-1дорест-1рест-a-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-zafira-1дорест-1рест-a-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Zafira</name>
@@ -1421,7 +1421,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-omega-2дорест-2рест-b-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-omega-2дорест-2рест-b-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Omega</name>
@@ -1432,7 +1432,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-omega-2дорест-2рест-b-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-omega-2дорест-2рест-b-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Omega</name>
@@ -1443,7 +1443,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-omega-2дорест-2рест-b-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-omega-2дорест-2рест-b-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Omega</name>
@@ -1454,7 +1454,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-omega-2дорест-2рест-b-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-omega-2дорест-2рест-b-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Omega</name>
@@ -1465,7 +1465,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Astra</name>
@@ -1476,7 +1476,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1487,7 +1487,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Astra</name>
@@ -1498,7 +1498,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1509,7 +1509,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Astra</name>
@@ -1520,7 +1520,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1531,7 +1531,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-kadett-6дорест-6рест-e-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-kadett-6дорест-6рест-e-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Kadett</name>
@@ -1542,7 +1542,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-kadett-6дорест-6рест-e-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-kadett-6дорест-6рест-e-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Kadett</name>
@@ -1553,7 +1553,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-kadett-6дорест-6рест-e-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-kadett-6дорест-6рест-e-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Kadett</name>
@@ -1564,7 +1564,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-kadett-6дорест-6рест-e-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-kadett-6дорест-6рест-e-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Kadett</name>
@@ -1575,7 +1575,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-kadett-6дорест-6рест-e-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-kadett-6дорест-6рест-e-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Kadett</name>
@@ -1586,7 +1586,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-meriva-2дорест-2рест-b-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-meriva-2дорест-2рест-b-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Meriva</name>
@@ -1597,7 +1597,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-meriva-2дорест-2рест-b-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-meriva-2дорест-2рест-b-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Meriva</name>
@@ -1608,7 +1608,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-master-3-фургон-арка" available="true">
         <url>https://porogi.pro/product/renault-master-3-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Master</name>
@@ -1619,7 +1619,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-1-a-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-1-a-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1630,7 +1630,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-рест-дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-vectra-рест-дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Vectra</name>
@@ -1641,7 +1641,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-рест-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-рест-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1652,7 +1652,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-рест-дорест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-vectra-рест-дорест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Vectra</name>
@@ -1663,7 +1663,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-vectra-рест-дорест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-vectra-рест-дорест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Vectra</name>
@@ -1674,7 +1674,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-astra-4дорест-4-рест-j-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-astra-4дорест-4-рест-j-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Astra</name>
@@ -1685,7 +1685,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-movano-all-фургон-арка" available="true">
         <url>https://porogi.pro/product/opel-movano-all-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Opel Movano</name>
@@ -1696,7 +1696,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-movano-all-фургон-порог" available="true">
         <url>https://porogi.pro/product/opel-movano-all-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Movano</name>
@@ -1707,7 +1707,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-mokka-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-mokka-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Mokka</name>
@@ -1718,7 +1718,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-movano-1-фургон-арка" available="true">
         <url>https://porogi.pro/product/opel-movano-1-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Movano</name>
@@ -1729,7 +1729,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-movano-1-фургон-порог" available="true">
         <url>https://porogi.pro/product/opel-movano-1-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Movano</name>
@@ -1740,7 +1740,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-rekord-e-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-rekord-e-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Rekord</name>
@@ -1751,7 +1751,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-combo-3-с-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-combo-3-с-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Combo</name>
@@ -1762,7 +1762,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 206</name>
@@ -1773,7 +1773,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 206</name>
@@ -1784,7 +1784,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 206</name>
@@ -1795,7 +1795,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 206</name>
@@ -1806,7 +1806,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 206</name>
@@ -1817,7 +1817,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-206-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-206-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 206</name>
@@ -1828,7 +1828,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-207-1дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-207-1дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot 207</name>
@@ -1839,7 +1839,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-207-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-207-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 207</name>
@@ -1850,7 +1850,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-207-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-207-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot 207</name>
@@ -1861,7 +1861,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-207-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-207-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 207</name>
@@ -1872,7 +1872,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 307</name>
@@ -1883,7 +1883,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 307</name>
@@ -1894,7 +1894,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 307</name>
@@ -1905,7 +1905,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 307</name>
@@ -1916,7 +1916,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 307</name>
@@ -1927,7 +1927,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-307-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-307-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 307</name>
@@ -1938,7 +1938,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-308-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 308</name>
@@ -1949,7 +1949,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-308-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 308</name>
@@ -1960,7 +1960,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-308-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 308</name>
@@ -1971,7 +1971,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-308-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 308</name>
@@ -1982,7 +1982,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-308-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 308</name>
@@ -1993,7 +1993,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-2-поколение-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-308-2-поколение-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 308</name>
@@ -2004,7 +2004,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-2-поколение-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-308-2-поколение-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 308</name>
@@ -2015,7 +2015,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-605-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-605-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 605</name>
@@ -2026,7 +2026,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-expert-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/peugeot-expert-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Peugeot Expert</name>
@@ -2037,7 +2037,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-107-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-107-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 107</name>
@@ -2048,7 +2048,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-107-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-107-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 107</name>
@@ -2059,7 +2059,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-407-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-407-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 407</name>
@@ -2070,7 +2070,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-407-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-407-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 407</name>
@@ -2081,7 +2081,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-607-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-607-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 607</name>
@@ -2092,7 +2092,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-406-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-406-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 406</name>
@@ -2103,7 +2103,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-406-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-406-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 406</name>
@@ -2114,7 +2114,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-boxer-3-фургон-арка" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-3-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot Boxer</name>
@@ -2125,7 +2125,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-boxer-3-фургон-порог" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-3-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -2136,7 +2136,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-boxer-3-фургон-арка-21-22фл" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-3-фургон-арка-21-22фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot Boxer</name>
@@ -2147,7 +2147,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-boxer-3-фургон-порог-21-22фл" available="true">
         <url>https://porogi.pro/product/peugeot-boxer-3-фургон-порог-21-22фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Boxer</name>
@@ -2158,7 +2158,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-407-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-407-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 407</name>
@@ -2169,7 +2169,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-106-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-106-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 106</name>
@@ -2180,7 +2180,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-106-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-106-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 106</name>
@@ -2191,7 +2191,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-806-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-806-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot 806</name>
@@ -2202,7 +2202,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-806-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-806-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 806</name>
@@ -2213,7 +2213,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-expert-2-дорест-2-рест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/peugeot-expert-2-дорест-2-рест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Expert</name>
@@ -2224,7 +2224,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-expert-2-дорест-2-рест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/peugeot-expert-2-дорест-2-рест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Expert</name>
@@ -2235,7 +2235,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-3008-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-3008-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 3008</name>
@@ -2246,7 +2246,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-3008-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-3008-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 3008</name>
@@ -2257,7 +2257,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-407-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-407-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 407</name>
@@ -2268,7 +2268,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-208-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-208-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 208</name>
@@ -2279,7 +2279,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-508-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-508-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 508</name>
@@ -2290,7 +2290,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-508-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-508-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 508</name>
@@ -2301,7 +2301,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-308-2-поколение-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-308-2-поколение-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 308</name>
@@ -2312,7 +2312,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-408-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-408-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 408</name>
@@ -2323,7 +2323,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-301-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-301-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot 301</name>
@@ -2334,7 +2334,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-1007-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-1007-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 1007</name>
@@ -2345,7 +2345,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-306-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-306-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 306</name>
@@ -2356,7 +2356,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-traveller-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-traveller-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Traveller</name>
@@ -2367,7 +2367,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-2-дорест-2-1й-рест-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-partner-2-дорест-2-1й-рест-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Peugeot Partner</name>
@@ -2378,7 +2378,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-2-дорест-2-1й-рест-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-partner-2-дорест-2-1й-рест-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Partner</name>
@@ -2389,7 +2389,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-2-дорест-2-1й-рест-фургон-2-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-partner-2-дорест-2-1й-рест-фургон-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Partner</name>
@@ -2400,7 +2400,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Partner</name>
@@ -2411,7 +2411,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Partner</name>
@@ -2422,7 +2422,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-фургон-2-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-фургон-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Partner</name>
@@ -2433,7 +2433,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-фургон-2-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-фургон-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Partner</name>
@@ -2444,7 +2444,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-фургон-3-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-фургон-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot Partner</name>
@@ -2455,7 +2455,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-partner-1-рест-фургон-3-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-partner-1-рест-фургон-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Partner</name>
@@ -2466,7 +2466,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-expert-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-expert-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Expert</name>
@@ -2477,7 +2477,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-807-1-дорест-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-807-1-дорест-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 807</name>
@@ -2488,7 +2488,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-4007-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/peugeot-4007-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Peugeot 4007</name>
@@ -2499,7 +2499,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-4007-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-4007-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 4007</name>
@@ -2510,7 +2510,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-4008-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-4008-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot 4008</name>
@@ -2521,7 +2521,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="peugeot-expert-1-фургон-5-дв-порог" available="true">
         <url>https://porogi.pro/product/peugeot-expert-1-фургон-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Peugeot Expert</name>
@@ -2532,7 +2532,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-laguna-3дорест-3рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-laguna-3дорест-3рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Laguna</name>
@@ -2543,7 +2543,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-laguna-3дорест-3рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-laguna-3дорест-3рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Laguna</name>
@@ -2554,7 +2554,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-1дорест-1рест-минивэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-kangoo-1дорест-1рест-минивэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Renault Kangoo</name>
@@ -2565,7 +2565,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-1дорест-1рест-минивэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-kangoo-1дорест-1рест-минивэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Kangoo</name>
@@ -2576,7 +2576,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-kangoo-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Renault Kangoo</name>
@@ -2587,7 +2587,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-kangoo-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Kangoo</name>
@@ -2598,7 +2598,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-laguna-1-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-laguna-1-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Laguna</name>
@@ -2609,7 +2609,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-laguna-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-laguna-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Laguna</name>
@@ -2620,7 +2620,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-laguna-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-laguna-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Laguna</name>
@@ -2631,7 +2631,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-sandero-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-sandero-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Sandero</name>
@@ -2642,7 +2642,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-sandero-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-sandero-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Sandero</name>
@@ -2653,7 +2653,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-master-1-фургон-порог" available="true">
         <url>https://porogi.pro/product/renault-master-1-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Master</name>
@@ -2664,7 +2664,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-master-2-фургон-арка" available="true">
         <url>https://porogi.pro/product/renault-master-2-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Renault Master</name>
@@ -2675,7 +2675,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-master-2-фургон-порог" available="true">
         <url>https://porogi.pro/product/renault-master-2-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Master</name>
@@ -2686,7 +2686,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-3дорест-3рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-megane-3дорест-3рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Megane</name>
@@ -2697,7 +2697,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-3дорест-3рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-3дорест-3рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2708,7 +2708,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-3дорест-3рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-megane-3дорест-3рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Megane</name>
@@ -2719,7 +2719,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2730,7 +2730,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Megane</name>
@@ -2741,7 +2741,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2752,7 +2752,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Megane</name>
@@ -2763,7 +2763,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2774,7 +2774,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2785,7 +2785,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -2796,7 +2796,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-twingo-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-twingo-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Twingo</name>
@@ -2807,7 +2807,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-fluence-1дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-fluence-1дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Fluence</name>
@@ -2818,7 +2818,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-espace-4-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-espace-4-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Espace</name>
@@ -2829,7 +2829,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-scenic-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Scenic</name>
@@ -2840,7 +2840,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-scenic-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Scenic</name>
@@ -2851,7 +2851,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-2дорест-2рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-scenic-2дорест-2рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Scenic</name>
@@ -2862,7 +2862,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-2дорест-2рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-scenic-2дорест-2рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Scenic</name>
@@ -2873,7 +2873,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-latitude-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-latitude-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Latitude</name>
@@ -2884,7 +2884,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-sandero-stapway-1-пок-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-sandero-stapway-1-пок-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Sandero Stapway</name>
@@ -2895,7 +2895,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-sandero-stapway-1-пок-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-sandero-stapway-1-пок-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Sandero Stapway</name>
@@ -2906,7 +2906,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-19-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-19-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault 19</name>
@@ -2917,7 +2917,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-2дорест-2рест-минивэн-2-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-kangoo-2дорест-2рест-минивэн-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Kangoo</name>
@@ -2928,7 +2928,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-2дорест-2рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-kangoo-2дорест-2рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Kangoo</name>
@@ -2939,7 +2939,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kangoo-2дорест-2рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-kangoo-2дорест-2рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Kangoo</name>
@@ -2950,7 +2950,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-logan-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-logan-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Logan</name>
@@ -2961,7 +2961,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-logan-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-logan-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Logan</name>
@@ -2972,7 +2972,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-3дорест-3рест-3рест2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-scenic-3дорест-3рест-3рест2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Scenic</name>
@@ -2983,7 +2983,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-scenic-3дорест-3рест-3рест2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-scenic-3дорест-3рест-3рест2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Scenic</name>
@@ -2994,7 +2994,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-19-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-19-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault 19</name>
@@ -3005,7 +3005,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-symbol-1дорест-1-1й-рест-1-2й-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-symbol-1дорест-1-1й-рест-1-2й-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Symbol</name>
@@ -3016,7 +3016,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-symbol-1дорест-1-1й-рест-1-2й-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-symbol-1дорест-1-1й-рест-1-2й-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Symbol</name>
@@ -3027,7 +3027,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-duster-1-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-duster-1-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Duster</name>
@@ -3038,7 +3038,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-duster-1-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-duster-1-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Duster</name>
@@ -3049,7 +3049,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-trafic-2-минивэн-арка" available="true">
         <url>https://porogi.pro/product/renault-trafic-2-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Renault Trafic</name>
@@ -3060,7 +3060,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-trafic-2-минивэн-порог" available="true">
         <url>https://porogi.pro/product/renault-trafic-2-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Trafic</name>
@@ -3071,7 +3071,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-duster-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-duster-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Duster</name>
@@ -3082,7 +3082,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-kaptur-1дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-kaptur-1дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Kaptur</name>
@@ -3093,7 +3093,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-1-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-1-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -3104,7 +3104,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-megane-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Megane</name>
@@ -3115,7 +3115,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -3126,7 +3126,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-koleos-1-дорест-и-все-ресты-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-koleos-1-дорест-и-все-ресты-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Koleos</name>
@@ -3137,7 +3137,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-koleos-1-дорест-и-все-ресты-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-koleos-1-дорест-и-все-ресты-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Koleos</name>
@@ -3148,7 +3148,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-logan-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-logan-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Logan</name>
@@ -3159,7 +3159,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-logan-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-logan-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Logan</name>
@@ -3170,7 +3170,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-clio-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-clio-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Clio</name>
@@ -3181,7 +3181,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-clio-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/renault-clio-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Renault Clio</name>
@@ -3192,7 +3192,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-clio-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-clio-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Clio</name>
@@ -3203,7 +3203,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-symbol-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-symbol-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Symbol</name>
@@ -3214,7 +3214,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-megane-3дорест-3рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-megane-3дорест-3рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault Megane</name>
@@ -3225,7 +3225,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="renault-21-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/renault-21-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Renault 21</name>
@@ -3236,7 +3236,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-arosa-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-arosa-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Arosa</name>
@@ -3247,7 +3247,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-ibiza-3дорест-3рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-ibiza-3дорест-3рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Ibiza</name>
@@ -3258,7 +3258,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-ibiza-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-ibiza-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Ibiza</name>
@@ -3269,7 +3269,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-leon-2дорест-2рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/seat-leon-2дорест-2рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SEAT Leon</name>
@@ -3280,7 +3280,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-leon-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-leon-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Leon</name>
@@ -3291,7 +3291,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-leon-1-поколение-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/seat-leon-1-поколение-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SEAT Leon</name>
@@ -3302,7 +3302,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-leon-1-поколение-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-leon-1-поколение-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Leon</name>
@@ -3313,7 +3313,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-cordoba-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-cordoba-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Cordoba</name>
@@ -3324,7 +3324,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-alhambra-1-дорест-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/seat-alhambra-1-дорест-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SEAT Alhambra</name>
@@ -3335,7 +3335,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-alhambra-1-дорест-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-alhambra-1-дорест-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Alhambra</name>
@@ -3346,7 +3346,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-ibiza-4-дорест-рест1-рест2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-ibiza-4-дорест-рест1-рест2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Ibiza</name>
@@ -3357,7 +3357,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-ibiza-4-дорест-рест1-рест2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-ibiza-4-дорест-рест1-рест2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Ibiza</name>
@@ -3368,7 +3368,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-ibiza-4-дорест-рест1-рест2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-ibiza-4-дорест-рест1-рест2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Ibiza</name>
@@ -3379,7 +3379,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-toledo-1-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-toledo-1-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Toledo</name>
@@ -3390,7 +3390,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-toledo-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/seat-toledo-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SEAT Toledo</name>
@@ -3401,7 +3401,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="seat-cordoba-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/seat-cordoba-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SEAT Cordoba</name>
@@ -3412,7 +3412,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-2-дорест-2-1й-рест-компактвэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-2-дорест-2-1й-рест-компактвэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen Berlingo</name>
@@ -3423,7 +3423,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-2-дорест-2-1й-рест-компактвэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-2-дорест-2-1й-рест-компактвэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3434,7 +3434,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-2-дорест-2-1й-рест-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-2-дорест-2-1й-рест-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen Berlingo</name>
@@ -3445,7 +3445,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-2-дорест-2-1й-рест-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-2-дорест-2-1й-рест-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3456,7 +3456,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-2-дорест-2-1й-рест-фургон-2-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-2-дорест-2-1й-рест-фургон-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3467,7 +3467,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c2-1-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c2-1-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C2</name>
@@ -3478,7 +3478,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c2-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c2-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C2</name>
@@ -3489,7 +3489,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xantia-1-дорест-1-рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xantia-1-дорест-1-рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xantia</name>
@@ -3500,7 +3500,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xantia-1-дорест-1-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xantia-1-дорест-1-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xantia</name>
@@ -3511,7 +3511,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Berlingo</name>
@@ -3522,7 +3522,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3533,7 +3533,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-2-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Berlingo</name>
@@ -3544,7 +3544,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-2-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3555,7 +3555,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Berlingo</name>
@@ -3566,7 +3566,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-berlingo-1-дорест-рест-м49-m59-компактвэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Berlingo</name>
@@ -3577,7 +3577,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumper-1-рест-фургон-порог" available="true">
         <url>https://porogi.pro/product/citroen-jumper-1-рест-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumper</name>
@@ -3588,7 +3588,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-хм-2-2-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-хм-2-2-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen ХМ 2</name>
@@ -3599,7 +3599,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-хм-2-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-хм-2-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen ХМ 2</name>
@@ -3610,7 +3610,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xsara-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xsara-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xsara</name>
@@ -3621,7 +3621,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xsara-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xsara-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xsara</name>
@@ -3632,7 +3632,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xsara-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xsara-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xsara</name>
@@ -3643,7 +3643,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-xsara-picasso-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-xsara-picasso-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Xsara Picasso</name>
@@ -3654,7 +3654,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c3-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c3-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C3</name>
@@ -3665,7 +3665,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c3-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c3-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C3</name>
@@ -3676,7 +3676,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c4-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C4</name>
@@ -3687,7 +3687,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4</name>
@@ -3698,7 +3698,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-grand-picasso-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c4-grand-picasso-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C4 Grand Picasso</name>
@@ -3709,7 +3709,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-grand-picasso-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-grand-picasso-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4 Grand Picasso</name>
@@ -3720,7 +3720,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-picasso-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c4-picasso-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C4 Picasso</name>
@@ -3731,7 +3731,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-picasso-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-picasso-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4 Picasso</name>
@@ -3742,7 +3742,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-1-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c4-1-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C4</name>
@@ -3753,7 +3753,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4</name>
@@ -3764,7 +3764,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c5-1-дорест-1-рест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c5-1-дорест-1-рест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C5</name>
@@ -3775,7 +3775,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c5-1-дорест-1-рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c5-1-дорест-1-рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C5</name>
@@ -3786,7 +3786,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c5-1-дорест-1-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c5-1-дорест-1-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C5</name>
@@ -3797,7 +3797,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c8-1-дорест-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c8-1-дорест-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C8</name>
@@ -3808,7 +3808,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-2-дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-2-дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4</name>
@@ -3819,7 +3819,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-ds3-all-хэтчбек-3-двери-порог" available="true">
         <url>https://porogi.pro/product/citroen-ds3-all-хэтчбек-3-двери-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen DS3</name>
@@ -3830,7 +3830,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-space-tourer-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-space-tourer-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Space Tourer</name>
@@ -3841,7 +3841,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c3-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c3-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C3</name>
@@ -3852,7 +3852,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c5-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c5-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C5</name>
@@ -3863,7 +3863,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c5-2-универсал-порог" available="true">
         <url>https://porogi.pro/product/citroen-c5-2-универсал-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C5</name>
@@ -3874,7 +3874,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4</name>
@@ -3885,7 +3885,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c-crosser-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-c-crosser-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen C-crosser</name>
@@ -3896,7 +3896,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c-crosser-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c-crosser-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C-crosser</name>
@@ -3907,7 +3907,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c3-picasso-1дорест-1рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c3-picasso-1дорест-1рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C3 Picasso</name>
@@ -3918,7 +3918,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c4-2-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c4-2-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C4</name>
@@ -3929,7 +3929,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-saxo-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-saxo-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Saxo</name>
@@ -3940,7 +3940,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-saxo-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-saxo-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Saxo</name>
@@ -3951,7 +3951,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumpy-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-jumpy-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumpy</name>
@@ -3962,7 +3962,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumpy-2-минивэн-арка" available="true">
         <url>https://porogi.pro/product/citroen-jumpy-2-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Citroen Jumpy</name>
@@ -3973,7 +3973,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumpy-2-минивэн-порог" available="true">
         <url>https://porogi.pro/product/citroen-jumpy-2-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumpy</name>
@@ -3984,7 +3984,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumper-3-фургон-арка" available="true">
         <url>https://porogi.pro/product/citroen-jumper-3-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen Jumper</name>
@@ -3995,7 +3995,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumper-3-фургон-порог" available="true">
         <url>https://porogi.pro/product/citroen-jumper-3-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumper</name>
@@ -4006,7 +4006,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumper-3-фургон-арка-24-39фл" available="true">
         <url>https://porogi.pro/product/citroen-jumper-3-фургон-арка-24-39фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen Jumper</name>
@@ -4017,7 +4017,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-jumper-3-фургон-порог-24-39фл" available="true">
         <url>https://porogi.pro/product/citroen-jumper-3-фургон-порог-24-39фл</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Jumper</name>
@@ -4028,7 +4028,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c1-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c1-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C1</name>
@@ -4039,7 +4039,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-c1-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-c1-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen C1</name>
@@ -4050,7 +4050,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-ds4-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-ds4-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen DS4</name>
@@ -4061,7 +4061,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-ds4-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-ds4-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen DS4</name>
@@ -4072,7 +4072,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-nemo-1-компактвэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/citroen-nemo-1-компактвэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Citroen Nemo</name>
@@ -4083,7 +4083,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="citroen-nemo-1-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/citroen-nemo-1-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Citroen Nemo</name>
@@ -4094,7 +4094,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-2дорест-2рест-2рест2-g11-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-2дорест-2рест-2рест2-g11-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4105,7 +4105,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-2дорест-2рест-2рест2-g11-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-2дорест-2рест-2рест2-g11-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4116,7 +4116,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-2дорест-2рест-2рест2-g11-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-2дорест-2рест-2рест2-g11-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4127,7 +4127,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-2дорест-2рест-2рест2-g11-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-2дорест-2рест-2рест2-g11-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4138,7 +4138,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-3дорест-3рест-br-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-outback-3дорест-3рест-br-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Outback</name>
@@ -4149,7 +4149,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-3дорест-3рест-br-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-outback-3дорест-3рест-br-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Outback</name>
@@ -4160,7 +4160,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-3дорест-3рест-br-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-outback-3дорест-3рест-br-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Outback</name>
@@ -4171,7 +4171,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-3дорест-3рест-br-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-outback-3дорест-3рест-br-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Outback</name>
@@ -4182,7 +4182,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-2-bd-bk-bg-b11-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-2-bd-bk-bg-b11-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4193,7 +4193,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-2-bd-bk-bg-b11-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-2-bd-bk-bg-b11-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4204,7 +4204,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-2-bd-bk-bg-b11-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-2-bd-bk-bg-b11-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4215,7 +4215,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-2-bd-bk-bg-b11-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-2-bd-bk-bg-b11-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4226,7 +4226,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-2дорест-2рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-forester-2дорест-2рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Forester</name>
@@ -4237,7 +4237,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-forester-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Forester</name>
@@ -4248,7 +4248,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-forester-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Forester</name>
@@ -4259,7 +4259,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-forester-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Forester</name>
@@ -4270,7 +4270,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4281,7 +4281,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4292,7 +4292,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4303,7 +4303,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4314,7 +4314,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-1-g10-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-1-g10-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4325,7 +4325,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-1-g10-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-1-g10-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4336,7 +4336,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-1-g10-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-impreza-1-g10-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Impreza</name>
@@ -4347,7 +4347,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-impreza-1-g10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-impreza-1-g10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Impreza</name>
@@ -4358,7 +4358,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-3-be-bh-bt-b12-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-3-be-bh-bt-b12-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4369,7 +4369,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-3-be-bh-bt-b12-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-3-be-bh-bt-b12-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4380,7 +4380,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-3-be-bh-bt-b12-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-3-be-bh-bt-b12-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4391,7 +4391,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-3-be-bh-bt-b12-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-3-be-bh-bt-b12-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4402,7 +4402,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-4дорест-4рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-4дорест-4рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4413,7 +4413,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-4дорест-4рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-4дорест-4рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4424,7 +4424,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-4дорест-4рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-4дорест-4рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4435,7 +4435,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-4дорест-4рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-4дорест-4рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4446,7 +4446,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-3дорест-3рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-forester-3дорест-3рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Forester</name>
@@ -4457,7 +4457,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-forester-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Forester</name>
@@ -4468,7 +4468,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-2-b12-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-outback-2-b12-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Outback</name>
@@ -4479,7 +4479,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-2-b12-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-outback-2-b12-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Outback</name>
@@ -4490,7 +4490,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-outback-2-b12-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-outback-2-b12-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Outback</name>
@@ -4501,7 +4501,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4512,7 +4512,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4523,7 +4523,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-legacy-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Legacy</name>
@@ -4534,7 +4534,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4545,7 +4545,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-g10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-g10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4556,7 +4556,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-legacy-b9-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-legacy-b9-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Legacy</name>
@@ -4567,7 +4567,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-forester-4дорест-4-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-forester-4дорест-4-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Forester</name>
@@ -4578,7 +4578,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-tribeca-1рест-b9-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-tribeca-1рест-b9-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Tribeca</name>
@@ -4589,7 +4589,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-tribeca-1рест-b9-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-tribeca-1рест-b9-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Tribeca</name>
@@ -4600,7 +4600,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-traviq-1-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-traviq-1-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Traviq</name>
@@ -4611,7 +4611,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-traviq-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-traviq-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Traviq</name>
@@ -4622,7 +4622,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-justy-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-justy-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru Justy</name>
@@ -4633,7 +4633,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-justy-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-justy-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru Justy</name>
@@ -4644,7 +4644,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-brz-1дорест-1рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-brz-1дорест-1рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru BRZ</name>
@@ -4655,7 +4655,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-r2-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/subaru-r2-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Subaru R2</name>
@@ -4666,7 +4666,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="subaru-r2-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/subaru-r2-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Subaru R2</name>
@@ -4677,7 +4677,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-baleno-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-baleno-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Baleno</name>
@@ -4688,7 +4688,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-baleno-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-baleno-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Baleno</name>
@@ -4699,7 +4699,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-baleno-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-baleno-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Baleno</name>
@@ -4710,7 +4710,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-baleno-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-baleno-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Baleno</name>
@@ -4721,7 +4721,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-baleno-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-baleno-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Baleno</name>
@@ -4732,7 +4732,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-wagon-r-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-wagon-r-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Wagon R</name>
@@ -4743,7 +4743,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Escudo</name>
@@ -4754,7 +4754,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4765,7 +4765,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-2дорест-2рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-2дорест-2рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Escudo</name>
@@ -4776,7 +4776,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-2дорест-2рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-2дорест-2рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4787,7 +4787,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-wagon-r-plus-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-wagon-r-plus-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Wagon R Plus</name>
@@ -4798,7 +4798,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Escudo</name>
@@ -4809,7 +4809,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4820,7 +4820,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Escudo</name>
@@ -4831,7 +4831,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4842,7 +4842,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-3дорест-3рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-3дорест-3рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Escudo</name>
@@ -4853,7 +4853,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-3дорест-3рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-3дорест-3рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4864,7 +4864,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-3дорест-3рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-3дорест-3рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Escudo</name>
@@ -4875,7 +4875,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-escudo-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-escudo-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Escudo</name>
@@ -4886,7 +4886,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-kei-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-kei-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Kei</name>
@@ -4897,7 +4897,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-monterey-1дорест-1рест-a-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-monterey-1дорест-1рест-a-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Monterey</name>
@@ -4908,7 +4908,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-monterey-1дорест-1рест-a-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-monterey-1дорест-1рест-a-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Monterey</name>
@@ -4919,7 +4919,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-monterey-1дорест-1рест-a-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-monterey-1дорест-1рест-a-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Monterey</name>
@@ -4930,7 +4930,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-trooper-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-trooper-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Isuzu Trooper</name>
@@ -4941,7 +4941,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-trooper-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-trooper-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Trooper</name>
@@ -4952,7 +4952,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-insignia-1дорест-1рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-insignia-1дорест-1рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Insignia</name>
@@ -4963,7 +4963,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-insignia-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-insignia-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Insignia</name>
@@ -4974,7 +4974,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-insignia-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/opel-insignia-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Opel Insignia</name>
@@ -4985,7 +4985,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-insignia-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-insignia-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Insignia</name>
@@ -4996,7 +4996,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-aerio-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-aerio-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Aerio</name>
@@ -5007,7 +5007,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-aerio-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-aerio-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Aerio</name>
@@ -5018,7 +5018,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-aerio-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-aerio-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Aerio</name>
@@ -5029,7 +5029,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-aerio-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-aerio-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Aerio</name>
@@ -5040,7 +5040,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-liana-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-liana-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Liana</name>
@@ -5051,7 +5051,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-liana-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-liana-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Liana</name>
@@ -5062,7 +5062,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-liana-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-liana-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Liana</name>
@@ -5073,7 +5073,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-liana-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-liana-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Liana</name>
@@ -5084,7 +5084,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-ignis-2-hr-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-ignis-2-hr-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Ignis</name>
@@ -5095,7 +5095,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-ignis-2-hr-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-ignis-2-hr-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Ignis</name>
@@ -5106,7 +5106,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-alto-5-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-alto-5-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Alto</name>
@@ -5117,7 +5117,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-alto-5-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-alto-5-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Alto</name>
@@ -5128,7 +5128,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="opel-omega-1-a-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/opel-omega-1-a-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Opel Omega</name>
@@ -5139,7 +5139,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-swift-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Swift</name>
@@ -5150,7 +5150,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-swift-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Swift</name>
@@ -5161,7 +5161,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-jimny-3-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-jimny-3-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Jimny</name>
@@ -5172,7 +5172,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Grand Vitara</name>
@@ -5183,7 +5183,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-4-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-swift-4-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Swift</name>
@@ -5194,7 +5194,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-swift-4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Swift</name>
@@ -5205,7 +5205,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sx4-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-sx4-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki SX4</name>
@@ -5216,7 +5216,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sx4-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-sx4-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki SX4</name>
@@ -5227,7 +5227,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sx4-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-sx4-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki SX4</name>
@@ -5238,7 +5238,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sx4-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-sx4-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki SX4</name>
@@ -5249,7 +5249,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-ignis-1-ht-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-ignis-1-ht-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Ignis</name>
@@ -5260,7 +5260,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Bighorn</name>
@@ -5271,7 +5271,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Bighorn</name>
@@ -5282,7 +5282,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-swift-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Swift</name>
@@ -5293,7 +5293,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-verona-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-verona-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Verona</name>
@@ -5304,7 +5304,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-swift-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Swift</name>
@@ -5315,7 +5315,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-swift-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-swift-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Swift</name>
@@ -5326,7 +5326,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sidekick-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-sidekick-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Sidekick</name>
@@ -5337,7 +5337,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sidekick-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-sidekick-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Sidekick</name>
@@ -5348,7 +5348,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sidekick-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-sidekick-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Sidekick</name>
@@ -5359,7 +5359,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-sidekick-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-sidekick-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Sidekick</name>
@@ -5370,7 +5370,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-isuzu-nkr55-6-грузовик-2-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-isuzu-nkr55-6-грузовик-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Isuzu Isuzu NKR55</name>
@@ -5381,7 +5381,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-isuzu-nkr55-6-грузовик-2-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-isuzu-nkr55-6-грузовик-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Isuzu NKR55</name>
@@ -5392,7 +5392,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-reno-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-reno-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Reno</name>
@@ -5403,7 +5403,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-reno-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-reno-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Reno</name>
@@ -5414,7 +5414,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-jimny-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-jimny-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Jimny</name>
@@ -5425,7 +5425,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="chevrolet-tracker-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tracker</name>
@@ -5436,7 +5436,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="chevrolet-tracker-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tracker</name>
@@ -5447,7 +5447,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="chevrolet-tracker-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tracker</name>
@@ -5458,7 +5458,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="chevrolet-tracker-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tracker</name>
@@ -5469,7 +5469,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-forenza-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-forenza-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Forenza</name>
@@ -5480,7 +5480,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-forenza-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-forenza-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Forenza</name>
@@ -5491,7 +5491,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-forenza-1-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-forenza-1-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Forenza</name>
@@ -5502,7 +5502,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-forenza-1-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-forenza-1-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Forenza</name>
@@ -5513,7 +5513,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-vitara-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-vitara-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Vitara</name>
@@ -5524,7 +5524,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-vitara-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-vitara-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Vitara</name>
@@ -5535,7 +5535,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-vitara-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-vitara-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Vitara</name>
@@ -5546,7 +5546,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-vitara-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-vitara-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Vitara</name>
@@ -5557,7 +5557,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-3дорест-3рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-3дорест-3рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Grand Vitara</name>
@@ -5568,7 +5568,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-3дорест-3рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-3дорест-3рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Grand Vitara</name>
@@ -5579,7 +5579,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-3дорест-3рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-3дорест-3рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Grand Vitara</name>
@@ -5590,7 +5590,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Grand Vitara</name>
@@ -5601,7 +5601,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-2дорест-2рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-2дорест-2рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Grand Vitara</name>
@@ -5612,7 +5612,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-2дорест-2рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-2дорест-2рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Grand Vitara</name>
@@ -5623,7 +5623,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Grand Vitara</name>
@@ -5634,7 +5634,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-grand-vitara-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-grand-vitara-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Grand Vitara</name>
@@ -5645,7 +5645,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-equator-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-equator-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Equator</name>
@@ -5656,7 +5656,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-equator-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-equator-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Equator</name>
@@ -5667,7 +5667,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5678,7 +5678,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5689,7 +5689,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5700,7 +5700,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5711,7 +5711,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5722,7 +5722,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-cultus-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-cultus-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Cultus</name>
@@ -5733,7 +5733,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-alto-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-alto-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Alto</name>
@@ -5744,7 +5744,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-alto-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-alto-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Alto</name>
@@ -5755,7 +5755,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-wizard-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-wizard-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Isuzu Wizard</name>
@@ -5766,7 +5766,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-wizard-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-wizard-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Wizard</name>
@@ -5777,7 +5777,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-wizard-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-wizard-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Wizard</name>
@@ -5788,7 +5788,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-wizard-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-wizard-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Wizard</name>
@@ -5799,7 +5799,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-trooper-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-trooper-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Trooper</name>
@@ -5810,7 +5810,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-trooper-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-trooper-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Trooper</name>
@@ -5821,7 +5821,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-rodeo-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-rodeo-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Isuzu Rodeo</name>
@@ -5832,7 +5832,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-rodeo-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-rodeo-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Rodeo</name>
@@ -5843,7 +5843,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-rodeo-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-rodeo-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Rodeo</name>
@@ -5854,7 +5854,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-rodeo-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-rodeo-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Rodeo</name>
@@ -5865,7 +5865,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-mu-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-mu-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Isuzu MU</name>
@@ -5876,7 +5876,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-mu-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-mu-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu MU</name>
@@ -5887,7 +5887,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-mu-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-mu-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu MU</name>
@@ -5898,7 +5898,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-mu-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-mu-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu MU</name>
@@ -5909,7 +5909,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-hombre-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-hombre-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Isuzu Hombre</name>
@@ -5920,7 +5920,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-hombre-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-hombre-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Hombre</name>
@@ -5931,7 +5931,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Isuzu Bighorn</name>
@@ -5942,7 +5942,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Bighorn</name>
@@ -5953,7 +5953,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Isuzu Bighorn</name>
@@ -5964,7 +5964,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-bighorn-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-bighorn-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Bighorn</name>
@@ -5975,7 +5975,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-axiom-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-axiom-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Isuzu Axiom</name>
@@ -5986,7 +5986,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-axiom-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-axiom-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Axiom</name>
@@ -5997,7 +5997,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-asca-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Asca</name>
@@ -6008,7 +6008,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-asca-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Asca</name>
@@ -6019,7 +6019,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-asca-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Asca</name>
@@ -6030,7 +6030,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-asca-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Asca</name>
@@ -6041,7 +6041,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-asca-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Asca</name>
@@ -6052,7 +6052,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-asca-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-asca-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Asca</name>
@@ -6063,7 +6063,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-amigo-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-amigo-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Isuzu Amigo</name>
@@ -6074,7 +6074,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-amigo-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-amigo-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Amigo</name>
@@ -6085,7 +6085,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-amigo-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/isuzu-amigo-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Isuzu Amigo</name>
@@ -6096,7 +6096,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="isuzu-amigo-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-amigo-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu Amigo</name>
@@ -6107,7 +6107,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-landy-1дорест-1рест-минивэн-арка" available="true">
         <url>https://porogi.pro/product/suzuki-landy-1дорест-1рест-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Suzuki Landy</name>
@@ -6118,7 +6118,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-splash-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/suzuki-splash-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Suzuki Splash</name>
@@ -6129,7 +6129,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="suzuki-splash-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/suzuki-splash-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Suzuki Splash</name>
@@ -6140,7 +6140,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-mark-ii-8-x100-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-8-x100-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Mark II</name>
@@ -6151,7 +6151,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-mark-ii-8-x100-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-8-x100-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -6162,7 +6162,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-mark-ii-8-x100-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/toyota-mark-ii-8-x100-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Mark II</name>
@@ -6173,7 +6173,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-town-ace-noah-4-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-town-ace-noah-4-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Town Ace Noah</name>
@@ -6184,7 +6184,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-town-ace-noah-4-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-town-ace-noah-4-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Town Ace Noah</name>
@@ -6195,7 +6195,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-town-ace-4-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/toyota-town-ace-4-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Town Ace</name>
@@ -6206,7 +6206,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-town-ace-4-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/toyota-town-ace-4-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Toyota Town Ace</name>
@@ -6217,7 +6217,7 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
       <offer id="toyota-prius-4-wx50-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/toyota-prius-4-wx50-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Toyota Prius</name>
@@ -6225,4 +6225,4 @@ export default `      <offer id="nissan-cube-1-z10-минивэн-5-дв-пор�
         <vendor>Toyota</vendor>
         <model>Prius</model>
       </offer>
-`
+`.replace(/<price>1799<\/price>/g, '<price>1790</price>').replace(/<price>1999<\/price>/g, '<price>1950</price>'))

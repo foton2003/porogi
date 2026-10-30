@@ -1,8 +1,8 @@
 /** Автосгенерированный фрагмент YML-фида (файл 1/6). */
-export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арка" available="true">
+export default (`      <offer id="bmw-5-серия-2-e28-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-2-e28-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 5 серия</name>
@@ -13,7 +13,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-2-e28-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-2-e28-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -24,7 +24,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-кабриолет-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-кабриолет-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -35,7 +35,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -46,7 +46,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 3 серия</name>
@@ -57,7 +57,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -68,7 +68,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -79,7 +79,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-3-e36-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-3-e36-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -90,7 +90,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-4-дорест-4-рест-e39-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-4-дорест-4-рест-e39-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 5 серия</name>
@@ -101,7 +101,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-4-дорест-4-рест-e39-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-4-дорест-4-рест-e39-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -112,7 +112,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-4-дорест-4-рест-e39-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-4-дорест-4-рест-e39-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -123,7 +123,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-3-e34-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-3-e34-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 5 серия</name>
@@ -134,7 +134,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-3-e34-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-3-e34-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -145,7 +145,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-3-e34-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-3-e34-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -156,7 +156,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-2-e32-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-2-e32-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 7 серия</name>
@@ -167,7 +167,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-2-e32-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-2-e32-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -178,7 +178,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-3-дорест-e38-седан-4-дв-арка-1-19-1с4" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-3-дорест-e38-седан-4-дв-арка-1-19-1с4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 7 серия</name>
@@ -189,7 +189,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-3-дорест-e38-седан-4-дв-порог-1-19-1с4" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-3-дорест-e38-седан-4-дв-порог-1-19-1с4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -200,7 +200,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-3-дорест-e38-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-3-дорест-e38-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 7 серия</name>
@@ -211,7 +211,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-3-дорест-e38-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-3-дорест-e38-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -222,7 +222,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-2-e30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-2-e30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -233,7 +233,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-кабриолет-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-кабриолет-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -244,7 +244,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -255,7 +255,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 3 серия</name>
@@ -266,7 +266,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -277,7 +277,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -288,7 +288,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-4-дорест-4-рест-e46-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-4-дорест-4-рест-e46-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -299,7 +299,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x3-1-дорест-1-рест-e83-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x3-1-дорест-1-рест-e83-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X3</name>
@@ -310,7 +310,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x3-2-дорест-f25-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x3-2-дорест-f25-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X3</name>
@@ -321,7 +321,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 7 серия</name>
@@ -332,7 +332,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -343,7 +343,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x5-1-дорест-1-рест-e53-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-x5-1-дорест-1-рест-e53-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW X5</name>
@@ -354,7 +354,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x5-1-дорест-1-рест-e53-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x5-1-дорест-1-рест-e53-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X5</name>
@@ -365,7 +365,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 3 серия</name>
@@ -376,7 +376,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-5-дорест-5-рест-e90-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-5-дорест-5-рест-e90-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 3 серия</name>
@@ -387,7 +387,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-арка-1-26к2" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-арка-1-26к2</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 3 серия</name>
@@ -398,7 +398,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-5-дорест-5-рест-e92-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -409,7 +409,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-5-дорест-5-рест-e90-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-5-дорест-5-рест-e90-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -420,7 +420,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-4-дорест-4-рест-e65-e66-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-4-дорест-4-рест-e65-e66-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 7 серия</name>
@@ -431,7 +431,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-4-дорест-4-рест-e65-e66-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-4-дорест-4-рест-e65-e66-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -442,7 +442,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-3-серия-2-e30-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-3-серия-2-e30-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 3 серия</name>
@@ -453,7 +453,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x1-1-дорест-e84-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x1-1-дорест-e84-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X1</name>
@@ -464,7 +464,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-1-серия-1-дорест-1-рест-e87-e88-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-1-серия-1-дорест-1-рест-e87-e88-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 1 серия</name>
@@ -475,7 +475,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-1-серия-1-дорест-1-рест-e87-e88-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-1-серия-1-дорест-1-рест-e87-e88-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 1 серия</name>
@@ -486,7 +486,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-6-серия-2-дорест-2-рест-e63-e64-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-6-серия-2-дорест-2-рест-e63-e64-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 6 серия</name>
@@ -497,7 +497,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x6-1-дорест-1-рест-e71-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x6-1-дорест-1-рест-e71-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X6</name>
@@ -508,7 +508,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-7-серия-5-дорест-5-рест-f01-f02-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-7-серия-5-дорест-5-рест-f01-f02-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 7 серия</name>
@@ -519,7 +519,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-5-дорест-5-рест-e60-e61-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-5-дорест-5-рест-e60-e61-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW 5 серия</name>
@@ -530,7 +530,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-5-дорест-5-рест-e60-e61-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-5-дорест-5-рест-e60-e61-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -541,7 +541,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-5-серия-5-дорест-5-рест-e60-e61-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-5-серия-5-дорест-5-рест-e60-e61-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 5 серия</name>
@@ -552,7 +552,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-1-серия-1-f20-f21-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-1-серия-1-f20-f21-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для BMW 1 серия</name>
@@ -563,7 +563,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-1-серия-1-f20-f21-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-1-серия-1-f20-f21-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 1 серия</name>
@@ -574,7 +574,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-x5-2-дорест-2-рест-e70-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-x5-2-дорест-2-рест-e70-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW X5</name>
@@ -585,7 +585,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-z4-e85-1-дорест-1-рест-e85-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/bmw-z4-e85-1-дорест-1-рест-e85-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для BMW Z4(E85)</name>
@@ -596,7 +596,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="bmw-1-серия-1-дорест-1-рест-e81-e82-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/bmw-1-серия-1-дорест-1-рест-e81-e82-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для BMW 1 серия</name>
@@ -607,7 +607,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stratus-2-дорест-2-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-stratus-2-дорест-2-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dodge Stratus</name>
@@ -618,7 +618,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stratus-2-дорест-2-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-stratus-2-дорест-2-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Stratus</name>
@@ -629,7 +629,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-avenger-2-дорест-2-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-avenger-2-дорест-2-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dodge Avenger</name>
@@ -640,7 +640,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-avenger-2-дорест-2-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-avenger-2-дорест-2-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Avenger</name>
@@ -651,7 +651,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-durango-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-durango-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Durango</name>
@@ -662,7 +662,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-durango-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-durango-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Durango</name>
@@ -673,7 +673,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caliber-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-caliber-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Caliber</name>
@@ -684,7 +684,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caliber-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caliber-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caliber</name>
@@ -695,7 +695,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stratus-2-рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-stratus-2-рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Stratus</name>
@@ -706,7 +706,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-арка-10-15-1м3" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-арка-10-15-1м3</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Voyager</name>
@@ -717,7 +717,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-порог-10-15-1м3" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-порог-10-15-1м3</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -728,7 +728,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-3-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-caravan-3-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Caravan</name>
@@ -739,7 +739,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caravan-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caravan</name>
@@ -750,7 +750,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-4-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-4-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Voyager</name>
@@ -761,7 +761,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-4-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-4-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -772,7 +772,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Voyager</name>
@@ -783,7 +783,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -794,7 +794,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-3-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-caravan-3-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Caravan</name>
@@ -805,7 +805,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-3-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caravan-3-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caravan</name>
@@ -816,7 +816,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-4-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-caravan-4-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Caravan</name>
@@ -827,7 +827,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-4-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caravan-4-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caravan</name>
@@ -838,7 +838,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-neon-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-neon-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Neon</name>
@@ -849,7 +849,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-2-br-be-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-ram-2-br-be-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Dodge RAM</name>
@@ -860,7 +860,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-2-br-be-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-ram-2-br-be-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge RAM</name>
@@ -871,7 +871,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-3-dr-dh-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-ram-3-dr-dh-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Dodge RAM</name>
@@ -882,7 +882,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-3-dr-dh-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-ram-3-dr-dh-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge RAM</name>
@@ -893,7 +893,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-3-dr-dh-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-ram-3-dr-dh-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge RAM</name>
@@ -904,7 +904,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-3-dr-dh-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-ram-3-dr-dh-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge RAM</name>
@@ -915,7 +915,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stealth-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-stealth-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dodge Stealth</name>
@@ -926,7 +926,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stealth-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-stealth-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Stealth</name>
@@ -937,7 +937,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-stratus-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-stratus-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Stratus</name>
@@ -948,7 +948,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-journey-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-journey-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Journey</name>
@@ -959,7 +959,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-journey-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-journey-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Journey</name>
@@ -970,7 +970,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caravan-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caravan</name>
@@ -981,7 +981,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -992,7 +992,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-300c-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-300c-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler 300C</name>
@@ -1003,7 +1003,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-300c-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-300c-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler 300C</name>
@@ -1014,7 +1014,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-4-ds-dj-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-ram-4-ds-dj-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge RAM</name>
@@ -1025,7 +1025,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-ram-4-ds-dj-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-ram-4-ds-dj-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge RAM</name>
@@ -1036,7 +1036,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-dakota-2-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-dakota-2-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dodge Dakota</name>
@@ -1047,7 +1047,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-dakota-2-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-dakota-2-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Dakota</name>
@@ -1058,7 +1058,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-dakota-3-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-dakota-3-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Dakota</name>
@@ -1069,7 +1069,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-nitro-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-nitro-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Nitro</name>
@@ -1080,7 +1080,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-5-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-caravan-5-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dodge Caravan</name>
@@ -1091,7 +1091,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-caravan-5-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-caravan-5-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Caravan</name>
@@ -1102,7 +1102,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-neon-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-neon-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Neon</name>
@@ -1113,7 +1113,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-spirit-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-spirit-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Spirit</name>
@@ -1124,7 +1124,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-interpid-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dodge-interpid-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dodge Interpid</name>
@@ -1135,7 +1135,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-interpid-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-interpid-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Interpid</name>
@@ -1146,7 +1146,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-interpid-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-interpid-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Interpid</name>
@@ -1157,7 +1157,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="dodge-magnum-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dodge-magnum-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dodge Magnum</name>
@@ -1168,7 +1168,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="газ-69-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/газ-69-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для ГАЗ 69</name>
@@ -1179,7 +1179,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="газ-69-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/газ-69-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для ГАЗ 69</name>
@@ -1190,7 +1190,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="foton-ollin-all-грузовик-арка" available="true">
         <url>https://porogi.pro/product/foton-ollin-all-грузовик-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Foton Ollin</name>
@@ -1201,7 +1201,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="foton-ollin-all-грузовик-порог" available="true">
         <url>https://porogi.pro/product/foton-ollin-all-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Foton Ollin</name>
@@ -1212,7 +1212,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-granta-1-дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-granta-1-дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Granta</name>
@@ -1223,7 +1223,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-granta-1-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-granta-1-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Granta</name>
@@ -1234,7 +1234,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-400-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-400-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич 400</name>
@@ -1245,7 +1245,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="datsun-on-do-1-дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/datsun-on-do-1-дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Datsun on-DO</name>
@@ -1256,7 +1256,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="datsun-mi-do-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/datsun-mi-do-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Datsun mi-DO</name>
@@ -1267,7 +1267,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="datsun-mi-do-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/datsun-mi-do-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Datsun mi-DO</name>
@@ -1278,7 +1278,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-terrain-1-дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-terrain-1-дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Terrain</name>
@@ -1289,7 +1289,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-князь-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-князь-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич Князь</name>
@@ -1300,7 +1300,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="iveco-daily-all-грузовик-порог" available="true">
         <url>https://porogi.pro/product/iveco-daily-all-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для IVECO Daily</name>
@@ -1311,7 +1311,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2115-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-2115-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 2115</name>
@@ -1322,7 +1322,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2110-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-2110-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 2110</name>
@@ -1333,7 +1333,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2112-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ваз-2112-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ваз 2112</name>
@@ -1344,7 +1344,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2112-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-2112-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 2112</name>
@@ -1355,7 +1355,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2112-1-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ваз-2112-1-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ваз 2112</name>
@@ -1366,7 +1366,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-святогор-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-святогор-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич Святогор</name>
@@ -1377,7 +1377,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="iveco-daily-4-фургон-порог" available="true">
         <url>https://porogi.pro/product/iveco-daily-4-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для IVECO Daily</name>
@@ -1388,7 +1388,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-largus-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-largus-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Largus</name>
@@ -1399,7 +1399,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-largus-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-largus-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Largus</name>
@@ -1410,7 +1410,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-rsx-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-rsx-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Acura RSX</name>
@@ -1421,7 +1421,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-rsx-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-rsx-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura RSX</name>
@@ -1432,7 +1432,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-kalina-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lada Kalina</name>
@@ -1443,7 +1443,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-kalina-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Kalina</name>
@@ -1454,7 +1454,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-kalina-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lada Kalina</name>
@@ -1465,7 +1465,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-kalina-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Kalina</name>
@@ -1476,7 +1476,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="победа-газ-м-20-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/победа-газ-м-20-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Победа ГАЗ М-20</name>
@@ -1487,7 +1487,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="заз-968-all-седан-2-дв-порог" available="true">
         <url>https://porogi.pro/product/заз-968-all-седан-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Заз 968</name>
@@ -1498,7 +1498,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="datsun-240z-all-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/datsun-240z-all-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Datsun 240z</name>
@@ -1509,7 +1509,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-savana-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/gmc-savana-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Savana</name>
@@ -1520,7 +1520,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="iveco-daily-3-грузовик-арка" available="true">
         <url>https://porogi.pro/product/iveco-daily-3-грузовик-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для IVECO Daily</name>
@@ -1531,7 +1531,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="iveco-daily-3-грузовик-порог" available="true">
         <url>https://porogi.pro/product/iveco-daily-3-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для IVECO Daily</name>
@@ -1542,7 +1542,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="smart-fortwo-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/smart-fortwo-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Smart Fortwo</name>
@@ -1553,7 +1553,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-x-ray-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-x-ray-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada X-RAY</name>
@@ -1564,7 +1564,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Priora</name>
@@ -1575,7 +1575,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Priora</name>
@@ -1586,7 +1586,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Priora</name>
@@ -1597,7 +1597,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Priora</name>
@@ -1608,7 +1608,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Priora</name>
@@ -1619,7 +1619,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Priora</name>
@@ -1630,7 +1630,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Priora</name>
@@ -1641,7 +1641,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-priora-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-priora-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Priora</name>
@@ -1652,7 +1652,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-412-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-412-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич 412</name>
@@ -1663,7 +1663,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2106-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-2106-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 2106</name>
@@ -1674,7 +1674,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="smart-forfour-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/smart-forfour-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Smart ForFour</name>
@@ -1685,7 +1685,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lancia-musa-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lancia-musa-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lancia Musa</name>
@@ -1696,7 +1696,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-407-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-407-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич 407</name>
@@ -1707,7 +1707,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-mdx-2-дорест-2-рест-yd2-внедорожник-5-дв-порог-101-37в5" available="true">
         <url>https://porogi.pro/product/acura-mdx-2-дорест-2-рест-yd2-внедорожник-5-дв-порог-101-37в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura MDX</name>
@@ -1718,7 +1718,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-vesta-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-vesta-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Vesta</name>
@@ -1729,7 +1729,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-rdx-1-дорест-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-rdx-1-дорест-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Acura RDX</name>
@@ -1740,7 +1740,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-rdx-1-дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-rdx-1-дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura RDX</name>
@@ -1751,7 +1751,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/gmc-yukon-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для GMC Yukon</name>
@@ -1762,7 +1762,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-yukon-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Yukon</name>
@@ -1773,7 +1773,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/gmc-yukon-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для GMC Yukon</name>
@@ -1784,7 +1784,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-yukon-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Yukon</name>
@@ -1795,7 +1795,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/gmc-yukon-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для GMC Yukon</name>
@@ -1806,7 +1806,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-yukon-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Yukon</name>
@@ -1817,7 +1817,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-mdx-2-дорест-2-рест-yd2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-mdx-2-дорест-2-рест-yd2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura MDX</name>
@@ -1828,7 +1828,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="москвич-401-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/москвич-401-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Москвич 401</name>
@@ -1839,7 +1839,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-21099-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-21099-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 21099</name>
@@ -1850,7 +1850,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-2-седан-арка" available="true">
         <url>https://porogi.pro/product/lada-kalina-2-седан-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lada Kalina</name>
@@ -1861,7 +1861,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-2-седан-порог" available="true">
         <url>https://porogi.pro/product/lada-kalina-2-седан-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Kalina</name>
@@ -1872,7 +1872,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-kalina-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Kalina</name>
@@ -1883,7 +1883,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lada-kalina-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lada Kalina</name>
@@ -1894,7 +1894,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lada-kalina-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lada-kalina-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lada Kalina</name>
@@ -1905,7 +1905,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-integra-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-integra-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Acura Integra</name>
@@ -1916,7 +1916,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-integra-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-integra-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura Integra</name>
@@ -1927,7 +1927,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tl-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-tl-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Acura TL</name>
@@ -1938,7 +1938,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tl-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-tl-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura TL</name>
@@ -1949,7 +1949,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tsx-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-tsx-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Acura TSX</name>
@@ -1960,7 +1960,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tsx-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-tsx-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura TSX</name>
@@ -1971,7 +1971,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-estina-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vortex-estina-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Vortex Estina</name>
@@ -1982,7 +1982,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-estina-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vortex-estina-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Vortex Estina</name>
@@ -1993,7 +1993,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="иж-2717-2-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/иж-2717-2-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для иж 2717</name>
@@ -2004,7 +2004,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="иж-2717-2-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/иж-2717-2-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для иж 2717</name>
@@ -2015,7 +2015,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="иж-2126-1-хэтчбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/иж-2126-1-хэтчбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для иж 2126</name>
@@ -2026,7 +2026,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="иж-2126-1-хэтчбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/иж-2126-1-хэтчбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для иж 2126</name>
@@ -2037,7 +2037,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lancia-lybra-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lancia-lybra-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lancia Lybra</name>
@@ -2048,7 +2048,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tsx-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/acura-tsx-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Acura TSX</name>
@@ -2059,7 +2059,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="acura-tsx-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/acura-tsx-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Acura TSX</name>
@@ -2070,7 +2070,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-vida-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/zaz-vida-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Zaz Vida</name>
@@ -2081,7 +2081,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-vida-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-vida-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Vida</name>
@@ -2092,7 +2092,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-vida-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-vida-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Vida</name>
@@ -2103,7 +2103,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-forza-all-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/zaz-forza-all-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Zaz Forza</name>
@@ -2114,7 +2114,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-forza-all-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-forza-all-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Forza</name>
@@ -2125,7 +2125,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-forza-all-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/zaz-forza-all-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Zaz Forza</name>
@@ -2136,7 +2136,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-forza-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-forza-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Forza</name>
@@ -2147,7 +2147,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-tingo-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vortex-tingo-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Vortex Tingo</name>
@@ -2158,7 +2158,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-tingo-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vortex-tingo-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Vortex Tingo</name>
@@ -2169,7 +2169,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-corda-1-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vortex-corda-1-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Vortex Corda</name>
@@ -2180,7 +2180,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="vortex-corda-1-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vortex-corda-1-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Vortex Corda</name>
@@ -2191,7 +2191,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lancia-thema-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lancia-thema-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lancia Thema</name>
@@ -2202,7 +2202,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lancia-thema-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lancia-thema-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lancia Thema</name>
@@ -2213,7 +2213,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lancia-phedra-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lancia-phedra-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lancia Phedra</name>
@@ -2224,7 +2224,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/gmc-yukon-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для GMC Yukon</name>
@@ -2235,7 +2235,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-yukon-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-yukon-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Yukon</name>
@@ -2246,7 +2246,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-sierra-1-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/gmc-sierra-1-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для GMC Sierra</name>
@@ -2257,7 +2257,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-sierra-1-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-sierra-1-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Sierra</name>
@@ -2268,7 +2268,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="gmc-sierra-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/gmc-sierra-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для GMC Sierra</name>
@@ -2279,7 +2279,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-sens-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/zaz-sens-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Zaz Sens</name>
@@ -2290,7 +2290,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-sens-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-sens-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Sens</name>
@@ -2301,7 +2301,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-sens-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/zaz-sens-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Zaz Sens</name>
@@ -2312,7 +2312,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="zaz-sens-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/zaz-sens-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Zaz Sens</name>
@@ -2323,7 +2323,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ваз-2114-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ваз-2114-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ваз 2114</name>
@@ -2334,7 +2334,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="заз-965-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/заз-965-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Заз 965</name>
@@ -2345,7 +2345,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="заз-lanos-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/заз-lanos-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Заз Lanos</name>
@@ -2356,7 +2356,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="заз-lanos-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/заз-lanos-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Заз Lanos</name>
@@ -2367,7 +2367,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-orion-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/doninvest-orion-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Doninvest Orion</name>
@@ -2378,7 +2378,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-kondor-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/doninvest-kondor-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Doninvest Kondor</name>
@@ -2389,7 +2389,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-kondor-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/doninvest-kondor-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Doninvest Kondor</name>
@@ -2400,7 +2400,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/doninvest-assol-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Doninvest Assol</name>
@@ -2411,7 +2411,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/doninvest-assol-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Doninvest Assol</name>
@@ -2422,7 +2422,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-all-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/doninvest-assol-all-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Doninvest Assol</name>
@@ -2433,7 +2433,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/doninvest-assol-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Doninvest Assol</name>
@@ -2444,7 +2444,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-all-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/doninvest-assol-all-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Doninvest Assol</name>
@@ -2455,7 +2455,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="doninvest-assol-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/doninvest-assol-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Doninvest Assol</name>
@@ -2466,7 +2466,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-leganza-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-leganza-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Leganza</name>
@@ -2477,7 +2477,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-leganza-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-leganza-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Leganza</name>
@@ -2488,7 +2488,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nubira-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nubira-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nubira</name>
@@ -2499,7 +2499,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nubira-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nubira-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nubira</name>
@@ -2510,7 +2510,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nubira-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nubira-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nubira</name>
@@ -2521,7 +2521,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-espero-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-espero-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Espero</name>
@@ -2532,7 +2532,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-espero-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-espero-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Espero</name>
@@ -2543,7 +2543,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-matiz-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-matiz-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Matiz</name>
@@ -2554,7 +2554,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-matiz-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-matiz-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Matiz</name>
@@ -2565,7 +2565,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nexia-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-nexia-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Nexia</name>
@@ -2576,7 +2576,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nexia-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nexia-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nexia</name>
@@ -2587,7 +2587,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nubira-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nubira-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nubira</name>
@@ -2598,7 +2598,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nubira-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nubira-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nubira</name>
@@ -2609,7 +2609,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-tico-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-tico-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Tico</name>
@@ -2620,7 +2620,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nexia-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-nexia-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Nexia</name>
@@ -2631,7 +2631,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-nexia-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-nexia-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Nexia</name>
@@ -2642,7 +2642,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-winstorm-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-winstorm-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Winstorm</name>
@@ -2653,7 +2653,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-rezzo-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/daewoo-rezzo-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Rezzo</name>
@@ -2664,7 +2664,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-rezzo-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/daewoo-rezzo-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Rezzo</name>
@@ -2675,7 +2675,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-racer-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-racer-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Racer</name>
@@ -2686,7 +2686,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-racer-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-racer-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Racer</name>
@@ -2697,7 +2697,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-racer-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-racer-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Racer</name>
@@ -2708,7 +2708,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-racer-all-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-racer-all-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Racer</name>
@@ -2719,7 +2719,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-racer-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-racer-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Racer</name>
@@ -2730,7 +2730,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-magnus-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-magnus-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Magnus</name>
@@ -2741,7 +2741,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lemans-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-lemans-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Lemans</name>
@@ -2752,7 +2752,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lemans-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-lemans-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Lemans</name>
@@ -2763,7 +2763,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Lanos</name>
@@ -2774,7 +2774,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Lanos</name>
@@ -2785,7 +2785,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Daewoo Lanos</name>
@@ -2796,7 +2796,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Lanos</name>
@@ -2807,7 +2807,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daewoo Lanos</name>
@@ -2818,7 +2818,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lanos-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-lanos-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Lanos</name>
@@ -2829,7 +2829,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lacetti-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-lacetti-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Lacetti</name>
@@ -2840,7 +2840,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-lacetti-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-lacetti-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Lacetti</name>
@@ -2851,7 +2851,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-gentra-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-gentra-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Gentra</name>
@@ -2862,7 +2862,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-gentra-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-gentra-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Gentra</name>
@@ -2873,7 +2873,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-gentra-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daewoo-gentra-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daewoo Gentra</name>
@@ -2884,7 +2884,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-gentra-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-gentra-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Gentra</name>
@@ -2895,7 +2895,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-gentra-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-gentra-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Gentra</name>
@@ -2906,7 +2906,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-evanda-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-evanda-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Evanda</name>
@@ -2917,7 +2917,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="daewoo-arcadia-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daewoo-arcadia-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daewoo Arcadia</name>
@@ -2928,7 +2928,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-spectra-1дорест-1рест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-spectra-1дорест-1рест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Spectra</name>
@@ -2939,7 +2939,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-spectra-1дорест-1рест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-spectra-1дорест-1рест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Spectra</name>
@@ -2950,7 +2950,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-venga-1дорест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-venga-1дорест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Venga</name>
@@ -2961,7 +2961,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-venga-1дорест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-venga-1дорест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Venga</name>
@@ -2972,7 +2972,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carens-1дорест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-carens-1дорест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Carens</name>
@@ -2983,7 +2983,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carnival-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-carnival-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Carnival</name>
@@ -2994,7 +2994,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carnival-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-carnival-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Carnival</name>
@@ -3005,7 +3005,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carnival-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-carnival-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Carnival</name>
@@ -3016,7 +3016,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carnival-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-carnival-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Carnival</name>
@@ -3027,7 +3027,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-picanto-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-picanto-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Picanto</name>
@@ -3038,7 +3038,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-picanto-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-picanto-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Picanto</name>
@@ -3049,7 +3049,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-picanto-2дорест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-picanto-2дорест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Picanto</name>
@@ -3060,7 +3060,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-1дорест-1рест-dc-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-1дорест-1рест-dc-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Rio</name>
@@ -3071,7 +3071,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-1дорест-1рест-dc-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-1дорест-1рест-dc-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3082,7 +3082,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-1дорест-1рест-dc-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-1дорест-1рест-dc-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Rio</name>
@@ -3093,7 +3093,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-1дорест-1рест-dc-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-1дорест-1рест-dc-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3104,7 +3104,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-3дорест-3рест-qb-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-3дорест-3рест-qb-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Rio</name>
@@ -3115,7 +3115,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-3дорест-3рест-qb-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-3дорест-3рест-qb-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3126,7 +3126,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-3дорест-3рест-qb-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-3дорест-3рест-qb-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Rio</name>
@@ -3137,7 +3137,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-3дорест-3рест-qb-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-3дорест-3рест-qb-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3148,7 +3148,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-picanto-2-ta-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-picanto-2-ta-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Picanto</name>
@@ -3159,7 +3159,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3170,7 +3170,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-1дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-ceed-1дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Ceed</name>
@@ -3181,7 +3181,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3192,7 +3192,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-ceed-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Ceed</name>
@@ -3203,7 +3203,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3214,7 +3214,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-1дорест-1рест-внедорожник-5-дв-арка-12-21-1в5" available="true">
         <url>https://porogi.pro/product/kia-sorento-1дорест-1рест-внедорожник-5-дв-арка-12-21-1в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Sorento</name>
@@ -3225,7 +3225,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-1дорест-1рест-внедорожник-5-дв-порог-12-21-1в5" available="true">
         <url>https://porogi.pro/product/kia-sorento-1дорест-1рест-внедорожник-5-дв-порог-12-21-1в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sorento</name>
@@ -3236,7 +3236,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-sorento-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Sorento</name>
@@ -3247,7 +3247,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sorento-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sorento</name>
@@ -3258,7 +3258,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-2-дорест-2-рест-xm-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-sorento-2-дорест-2-рест-xm-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Sorento</name>
@@ -3269,7 +3269,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sorento-2-дорест-2-рест-xm-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sorento-2-дорест-2-рест-xm-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sorento</name>
@@ -3280,7 +3280,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-1-внедорожник-5-дв-арка-12-23-1в5" available="true">
         <url>https://porogi.pro/product/kia-sportage-1-внедорожник-5-дв-арка-12-23-1в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Sportage</name>
@@ -3291,7 +3291,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-1-внедорожник-5-дв-порог-12-23-1в5" available="true">
         <url>https://porogi.pro/product/kia-sportage-1-внедорожник-5-дв-порог-12-23-1в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sportage</name>
@@ -3302,7 +3302,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-sportage-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Sportage</name>
@@ -3313,7 +3313,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sportage-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sportage</name>
@@ -3324,7 +3324,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-sportage-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Sportage</name>
@@ -3335,7 +3335,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sportage-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sportage</name>
@@ -3346,7 +3346,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-cerato-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Cerato</name>
@@ -3357,7 +3357,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3368,7 +3368,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-1дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-cerato-1дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Cerato</name>
@@ -3379,7 +3379,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-1дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-1дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3390,7 +3390,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-2-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-cerato-2-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Cerato</name>
@@ -3401,7 +3401,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-2-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-2-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3412,7 +3412,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-cerato-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Cerato</name>
@@ -3423,7 +3423,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3434,7 +3434,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3445,7 +3445,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-shuma-2-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-shuma-2-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Shuma</name>
@@ -3456,7 +3456,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-shuma-2-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-shuma-2-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Shuma</name>
@@ -3467,7 +3467,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-magentis-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-magentis-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Magentis</name>
@@ -3478,7 +3478,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-magentis-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-magentis-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Magentis</name>
@@ -3489,7 +3489,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-3дорест-3рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-3дорест-3рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3500,7 +3500,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-3дорест-3рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-3дорест-3рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3511,7 +3511,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -3522,7 +3522,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-2дорест-2рест-jd-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-ceed-2дорест-2рест-jd-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Ceed</name>
@@ -3533,7 +3533,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-2дорест-2рест-jd-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-2дорест-2рест-jd-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3544,7 +3544,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-2дорест-2рест-jd-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-2дорест-2рест-jd-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3555,7 +3555,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-2дорест-2рест-jd-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-ceed-2дорест-2рест-jd-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Ceed</name>
@@ -3566,7 +3566,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-2дорест-2рест-jd-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-2дорест-2рест-jd-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3577,7 +3577,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-clarus-1-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-clarus-1-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Clarus</name>
@@ -3588,7 +3588,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-clarus-1-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-clarus-1-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Clarus</name>
@@ -3599,7 +3599,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-2дорест-2рест-jb-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-2дорест-2рест-jb-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Rio</name>
@@ -3610,7 +3610,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-2дорест-2рест-jb-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-2дорест-2рест-jb-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3621,7 +3621,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-2дорест-2рест-jb-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-2дорест-2рест-jb-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Rio</name>
@@ -3632,7 +3632,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-2дорест-2рест-jb-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-2дорест-2рест-jb-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3643,7 +3643,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-pregio-1дорест-1рест-минивэн-порог" available="true">
         <url>https://porogi.pro/product/kia-pregio-1дорест-1рест-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Pregio</name>
@@ -3654,7 +3654,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-4-fb-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-4-fb-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Rio</name>
@@ -3665,7 +3665,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-4-fb-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-4-fb-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3676,7 +3676,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-4-fb-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-rio-4-fb-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Kia Rio</name>
@@ -3687,7 +3687,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-rio-4-fb-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-rio-4-fb-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Rio</name>
@@ -3698,7 +3698,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-avella-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-avella-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Avella</name>
@@ -3709,7 +3709,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-avella-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-avella-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Avella</name>
@@ -3720,7 +3720,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-joice-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-joice-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Joice</name>
@@ -3731,7 +3731,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-joice-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-joice-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Joice</name>
@@ -3742,7 +3742,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carens-2-un-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-carens-2-un-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Carens</name>
@@ -3753,7 +3753,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carens-2-un-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-carens-2-un-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Carens</name>
@@ -3764,7 +3764,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-soul-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-soul-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Soul</name>
@@ -3775,7 +3775,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-soul-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-soul-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Soul</name>
@@ -3786,7 +3786,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sportage-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sportage-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sportage</name>
@@ -3797,7 +3797,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carens-1рест-rs-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-carens-1рест-rs-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Carens</name>
@@ -3808,7 +3808,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-carens-1рест-rs-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-carens-1рест-rs-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Carens</name>
@@ -3819,7 +3819,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sephia-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sephia-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sephia</name>
@@ -3830,7 +3830,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-opirus-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-opirus-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Opirus</name>
@@ -3841,7 +3841,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-opirus-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-opirus-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Opirus</name>
@@ -3852,7 +3852,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-picanto-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-picanto-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Picanto</name>
@@ -3863,7 +3863,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-3-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-ceed-3-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Ceed</name>
@@ -3874,7 +3874,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3885,7 +3885,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-ceed-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-ceed-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Ceed</name>
@@ -3896,7 +3896,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-spectra-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-spectra-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Spectra</name>
@@ -3907,7 +3907,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-spectra-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-spectra-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Spectra</name>
@@ -3918,7 +3918,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-spectra-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-spectra-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Spectra</name>
@@ -3929,7 +3929,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sephia-2-дорест-2-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-sephia-2-дорест-2-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia Sephia</name>
@@ -3940,7 +3940,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-sephia-2-дорест-2-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-sephia-2-дорест-2-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Sephia</name>
@@ -3951,7 +3951,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-magentis-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-magentis-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Magentis</name>
@@ -3962,7 +3962,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-magentis-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-magentis-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Magentis</name>
@@ -3973,7 +3973,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-optima-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-optima-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Optima</name>
@@ -3984,7 +3984,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-optima-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-optima-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Optima</name>
@@ -3995,7 +3995,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-optima-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-optima-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Optima</name>
@@ -4006,7 +4006,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-optima-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-optima-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Optima</name>
@@ -4017,7 +4017,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-shuma-1-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-shuma-1-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Shuma</name>
@@ -4028,7 +4028,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-shuma-1-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-shuma-1-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Shuma</name>
@@ -4039,7 +4039,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-morning-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-morning-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Morning</name>
@@ -4050,7 +4050,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-morning-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-morning-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Morning</name>
@@ -4061,7 +4061,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-2-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-2-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4072,7 +4072,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4083,7 +4083,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4094,7 +4094,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-forte-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Forte</name>
@@ -4105,7 +4105,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4116,7 +4116,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-forte-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Forte</name>
@@ -4127,7 +4127,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4138,7 +4138,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-forte-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-forte-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Forte</name>
@@ -4149,7 +4149,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-mohave-1дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-mohave-1дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Mohave</name>
@@ -4160,7 +4160,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-cerato-4дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-cerato-4дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia Cerato</name>
@@ -4171,7 +4171,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-soul-3дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-soul-3дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Kia Soul</name>
@@ -4182,7 +4182,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-к5-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-к5-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Kia К5</name>
@@ -4193,7 +4193,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-к5-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/kia-к5-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Kia К5</name>
@@ -4204,7 +4204,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="kia-bongo-3-4-pu-грузовик-2-дв-арка" available="true">
         <url>https://porogi.pro/product/kia-bongo-3-4-pu-грузовик-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Kia Bongo 3</name>
@@ -4215,7 +4215,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-300m-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-300m-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler 300M</name>
@@ -4226,7 +4226,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-300m-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-300m-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler 300M</name>
@@ -4237,7 +4237,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-pacifica-1-cs-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-pacifica-1-cs-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler Pacifica</name>
@@ -4248,7 +4248,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-pacifica-1-cs-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-pacifica-1-cs-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Pacifica</name>
@@ -4259,7 +4259,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-saratoga-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-saratoga-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler Saratoga</name>
@@ -4270,7 +4270,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-saratoga-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-saratoga-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Saratoga</name>
@@ -4281,7 +4281,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-pt-cruiser-сша-1-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-pt-cruiser-сша-1-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler PT Cruiser (США)</name>
@@ -4292,7 +4292,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-pt-cruiser-сша-1-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-pt-cruiser-сша-1-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler PT Cruiser (США)</name>
@@ -4303,7 +4303,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Sebring</name>
@@ -4314,7 +4314,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Sebring</name>
@@ -4325,7 +4325,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-vision-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-vision-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Vision</name>
@@ -4336,7 +4336,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-lebaron-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-lebaron-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler LeBaron</name>
@@ -4347,7 +4347,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-lebaron-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-lebaron-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler LeBaron</name>
@@ -4358,7 +4358,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-concord-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-concord-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Concord</name>
@@ -4369,7 +4369,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler Sebring</name>
@@ -4380,7 +4380,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Sebring</name>
@@ -4391,7 +4391,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-2-jr-кабриолет-2-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-2-jr-кабриолет-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler Sebring</name>
@@ -4402,7 +4402,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-5-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-5-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Voyager</name>
@@ -4413,7 +4413,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-5-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-5-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -4424,7 +4424,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-5-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-5-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Town Country</name>
@@ -4435,7 +4435,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-5-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-5-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Town Country</name>
@@ -4446,7 +4446,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-4-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-4-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Town Country</name>
@@ -4457,7 +4457,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-4-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-4-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Town Country</name>
@@ -4468,7 +4468,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-арка-13-24-1м4" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-арка-13-24-1м4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Voyager</name>
@@ -4479,7 +4479,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-3-минивэн-4-дв-порог-13-24-1м4" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-3-минивэн-4-дв-порог-13-24-1м4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -4490,7 +4490,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-3-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-3-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chrysler Town Country</name>
@@ -4501,7 +4501,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-town-country-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-town-country-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Town Country</name>
@@ -4512,7 +4512,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-voyager-2-минивэн-4-дв-порог-13-25м4" available="true">
         <url>https://porogi.pro/product/chrysler-voyager-2-минивэн-4-дв-порог-13-25м4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Voyager</name>
@@ -4523,7 +4523,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-stratus-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-stratus-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Stratus</name>
@@ -4534,7 +4534,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-neon-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-neon-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Neon</name>
@@ -4545,7 +4545,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-lebaron-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-lebaron-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler LeBaron</name>
@@ -4556,7 +4556,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-lebaron-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-lebaron-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler LeBaron</name>
@@ -4567,7 +4567,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-cirrus-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-cirrus-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Cirrus</name>
@@ -4578,7 +4578,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-2-дорест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-2-дорест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chrysler Sebring</name>
@@ -4589,7 +4589,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-sebring-2-рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-sebring-2-рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler Sebring</name>
@@ -4600,7 +4600,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="chrysler-300c-touring-1-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chrysler-300c-touring-1-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chrysler 300C Touring</name>
@@ -4611,7 +4611,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-300-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gs-300-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GS (300)</name>
@@ -4622,7 +4622,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-rx-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus RX</name>
@@ -4633,7 +4633,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-rx-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus RX</name>
@@ -4644,7 +4644,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для lincoln Navigator</name>
@@ -4655,7 +4655,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Navigator</name>
@@ -4666,7 +4666,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-town-car-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-town-car-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для lincoln Town Car</name>
@@ -4677,7 +4677,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-town-car-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-town-car-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Town Car</name>
@@ -4688,7 +4688,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls400-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-ls400-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LS400</name>
@@ -4699,7 +4699,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is300-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-is300-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus IS300</name>
@@ -4710,7 +4710,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is250-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-is250-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus IS250</name>
@@ -4721,7 +4721,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is250-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-is250-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus IS250</name>
@@ -4732,7 +4732,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is200-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-is200-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus IS200</name>
@@ -4743,7 +4743,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is200-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-is200-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus IS200</name>
@@ -4754,7 +4754,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-rx-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus RX</name>
@@ -4765,7 +4765,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-rx-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus RX</name>
@@ -4776,7 +4776,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-300-4дорест-4рест-xv30-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-es-300-4дорест-4рест-xv30-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus ES 300</name>
@@ -4787,7 +4787,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-300-4дорест-4рест-xv30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-es-300-4дорест-4рест-xv30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus ES 300</name>
@@ -4798,7 +4798,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для lincoln Navigator</name>
@@ -4809,7 +4809,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Navigator</name>
@@ -4820,7 +4820,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-300-2-дорест-2-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-gs-300-2-дорест-2-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus GS (300)</name>
@@ -4831,7 +4831,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-300-2-дорест-2-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gs-300-2-дорест-2-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GS (300)</name>
@@ -4842,7 +4842,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-lx470-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-lx470-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus LX470</name>
@@ -4853,7 +4853,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-lx470-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-lx470-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LX470</name>
@@ -4864,7 +4864,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-gs-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus GS</name>
@@ -4875,7 +4875,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gs-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GS</name>
@@ -4886,7 +4886,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-300-3-поколение-дорест-3-поколение-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-gs-300-3-поколение-дорест-3-поколение-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus GS (300)</name>
@@ -4897,7 +4897,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gs-300-3-поколение-дорест-3-поколение-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gs-300-3-поколение-дорест-3-поколение-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GS (300)</name>
@@ -4908,7 +4908,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls3-3дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-ls3-3дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LS3</name>
@@ -4919,7 +4919,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-3дорест-3рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-3дорест-3рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для lincoln Navigator</name>
@@ -4930,7 +4930,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-navigator-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-navigator-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Navigator</name>
@@ -4941,7 +4941,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls400-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-ls400-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus LS400</name>
@@ -4952,7 +4952,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls400-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-ls400-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LS400</name>
@@ -4963,7 +4963,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls-4-дорест-4-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-ls-4-дорест-4-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus LS</name>
@@ -4974,7 +4974,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-ls-4-дорест-4-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-ls-4-дорест-4-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LS</name>
@@ -4985,7 +4985,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-5-дорест-5-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-es-5-дорест-5-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus ES</name>
@@ -4996,7 +4996,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-aviator-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-aviator-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для lincoln Aviator</name>
@@ -5007,7 +5007,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-aviator-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-aviator-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Aviator</name>
@@ -5018,7 +5018,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-lx450-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-lx450-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus LX450</name>
@@ -5029,7 +5029,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-lx450-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-lx450-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus LX450</name>
@@ -5040,7 +5040,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gx-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gx-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GX</name>
@@ -5051,7 +5051,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-es-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus ES</name>
@@ -5062,7 +5062,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-es-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus ES</name>
@@ -5073,7 +5073,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-es-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus ES</name>
@@ -5084,7 +5084,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-es-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-es-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus ES</name>
@@ -5095,7 +5095,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-3-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-rx-3-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Lexus RX</name>
@@ -5106,7 +5106,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-rx-3-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-rx-3-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus RX</name>
@@ -5117,7 +5117,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-mkt-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-mkt-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln MKT</name>
@@ -5128,7 +5128,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-town-car-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lincoln-town-car-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для lincoln Town Car</name>
@@ -5139,7 +5139,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lincoln-town-car-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lincoln-town-car-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для lincoln Town Car</name>
@@ -5150,7 +5150,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gx470-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-gx470-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus GX470</name>
@@ -5161,7 +5161,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-gx470-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lexus-gx470-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lexus GX470</name>
@@ -5172,7 +5172,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is300-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-is300-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lexus IS300</name>
@@ -5183,7 +5183,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="lexus-is250-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lexus-is250-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lexus IS250</name>
@@ -5194,7 +5194,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-premacy-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-premacy-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Premacy</name>
@@ -5205,7 +5205,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-premacy-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-premacy-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Premacy</name>
@@ -5216,7 +5216,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-millenia-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-millenia-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Millenia</name>
@@ -5227,7 +5227,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-9-y11-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-familia-9-y11-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda Familia</name>
@@ -5238,7 +5238,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-9-y11-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-9-y11-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5249,7 +5249,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bj-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-familia-bj-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda Familia</name>
@@ -5260,7 +5260,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bj-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bj-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5271,7 +5271,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bj-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-familia-bj-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda Familia</name>
@@ -5282,7 +5282,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bj-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bj-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5293,7 +5293,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bh-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bh-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5304,7 +5304,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bh-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bh-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5315,7 +5315,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bh-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bh-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5326,7 +5326,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-y10-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-familia-y10-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Familia</name>
@@ -5337,7 +5337,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-y10-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-y10-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5348,7 +5348,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bg-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bg-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5359,7 +5359,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bg-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bg-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5370,7 +5370,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bg-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bg-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5381,7 +5381,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-familia-bg-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-familia-bg-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Familia</name>
@@ -5392,7 +5392,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-eunos-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-eunos-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Eunos</name>
@@ -5403,7 +5403,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-rx-8-1дорест-1рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-rx-8-1дорест-1рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda RX-8</name>
@@ -5414,7 +5414,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-rx-8-1дорест-1рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-rx-8-1дорест-1рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda RX-8</name>
@@ -5425,7 +5425,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-carol-4-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-carol-4-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Carol</name>
@@ -5436,7 +5436,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-carol-4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-carol-4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Carol</name>
@@ -5447,7 +5447,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-capella-6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Capella</name>
@@ -5458,7 +5458,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5469,7 +5469,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-6-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-capella-6-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Capella</name>
@@ -5480,7 +5480,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-6-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-6-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5491,7 +5491,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-capella-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Capella</name>
@@ -5502,7 +5502,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5513,7 +5513,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-4-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-4-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5524,7 +5524,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5535,7 +5535,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5546,7 +5546,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-3-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-3-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5557,7 +5557,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-capella-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Capella</name>
@@ -5568,7 +5568,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5579,7 +5579,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-capella-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Capella</name>
@@ -5590,7 +5590,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-capella-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-capella-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Capella</name>
@@ -5601,7 +5601,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-bt-50-2-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-bt-50-2-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda BT-50</name>
@@ -5612,7 +5612,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-az-wagon-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-az-wagon-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda AZ-Wagon</name>
@@ -5623,7 +5623,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5634,7 +5634,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5645,7 +5645,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5656,7 +5656,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5667,7 +5667,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-axela-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda Axela</name>
@@ -5678,7 +5678,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5689,7 +5689,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-axela-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda Axela</name>
@@ -5700,7 +5700,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-axela-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-axela-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Axela</name>
@@ -5711,7 +5711,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5722,7 +5722,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5733,7 +5733,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-2-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-atenza-2-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Atenza</name>
@@ -5744,7 +5744,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-2-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-2-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5755,7 +5755,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-atenza-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Atenza</name>
@@ -5766,7 +5766,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5777,7 +5777,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5788,7 +5788,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Atenza</name>
@@ -5799,7 +5799,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5810,7 +5810,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Atenza</name>
@@ -5821,7 +5821,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5832,7 +5832,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Atenza</name>
@@ -5843,7 +5843,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-atenza-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-atenza-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Atenza</name>
@@ -5854,7 +5854,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-2-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-2-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 2</name>
@@ -5865,7 +5865,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-2-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-2-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 2</name>
@@ -5876,7 +5876,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-2-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-2-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 2</name>
@@ -5887,7 +5887,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-2-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-2-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 2</name>
@@ -5898,7 +5898,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-121-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-121-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 121</name>
@@ -5909,7 +5909,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-121-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-121-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 121</name>
@@ -5920,7 +5920,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-121-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-121-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 121</name>
@@ -5931,7 +5931,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-3-1дорест-1рест-bk-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-3-1дорест-1рест-bk-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda 3</name>
@@ -5942,7 +5942,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-3-1дорест-1рест-bk-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-3-1дорест-1рест-bk-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 3</name>
@@ -5953,7 +5953,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-3-1дорест-1рест-bk-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-3-1дорест-1рест-bk-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda 3</name>
@@ -5964,7 +5964,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-3-1дорест-1рест-bk-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-3-1дорест-1рест-bk-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 3</name>
@@ -5975,7 +5975,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-5-1дорест-1рест-cr-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-5-1дорест-1рест-cr-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 5</name>
@@ -5986,7 +5986,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-5-1дорест-1рест-cr-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-5-1дорест-1рест-cr-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 5</name>
@@ -5997,7 +5997,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda 6</name>
@@ -6008,7 +6008,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 6</name>
@@ -6019,7 +6019,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 6</name>
@@ -6030,7 +6030,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 6</name>
@@ -6041,7 +6041,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 6</name>
@@ -6052,7 +6052,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-6-1дорест-1рест-gg-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-6-1дорест-1рест-gg-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 6</name>
@@ -6063,7 +6063,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-323-6-bj-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-323-6-bj-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda 323</name>
@@ -6074,7 +6074,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-323-6-bj-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-323-6-bj-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 323</name>
@@ -6085,7 +6085,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-323-6-bj-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-323-6-bj-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 323</name>
@@ -6096,7 +6096,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-323-6-bj-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-323-6-bj-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 323</name>
@@ -6107,7 +6107,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-323-6-bj-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-323-6-bj-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 323</name>
@@ -6118,7 +6118,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-626-4-ge-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-626-4-ge-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 626</name>
@@ -6129,7 +6129,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-626-4-ge-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-626-4-ge-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 626</name>
@@ -6140,7 +6140,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-626-4-ge-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-626-4-ge-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda 626</name>
@@ -6151,7 +6151,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-626-4-ge-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-626-4-ge-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda 626</name>
@@ -6162,7 +6162,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-mx-3-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-mx-3-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda MX-3</name>
@@ -6173,7 +6173,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-b-series-5-b2500-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-b-series-5-b2500-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Mazda B-series</name>
@@ -6184,7 +6184,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-b-series-5-b2500-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-b-series-5-b2500-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda B-series</name>
@@ -6195,7 +6195,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-bt-50-1дорест-1рест-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-bt-50-1дорест-1рест-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda BT-50</name>
@@ -6206,7 +6206,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-b-series-5-b2500-un-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-b-series-5-b2500-un-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Mazda B-series</name>
@@ -6217,7 +6217,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-b-series-5-b2500-un-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-b-series-5-b2500-un-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda B-series</name>
@@ -6228,7 +6228,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-bt-50-1дорест-1рест-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-bt-50-1дорест-1рест-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda BT-50</name>
@@ -6239,7 +6239,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-bt-50-1дорест-1рест-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-bt-50-1дорест-1рест-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda BT-50</name>
@@ -6250,7 +6250,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ford-ranger-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-ranger-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Ranger</name>
@@ -6261,7 +6261,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="ford-ranger-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-ranger-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Ranger</name>
@@ -6272,7 +6272,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-demio-2-dy-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-demio-2-dy-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Demio</name>
@@ -6283,7 +6283,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-demio-2-dy-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-demio-2-dy-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Demio</name>
@@ -6294,7 +6294,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-demio-1-dw-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-demio-1-dw-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Demio</name>
@@ -6305,7 +6305,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-demio-1-dw-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-demio-1-dw-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Demio</name>
@@ -6316,7 +6316,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-xedos-6-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-xedos-6-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Xedos 6</name>
@@ -6327,7 +6327,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-xedos-6-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-xedos-6-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Xedos 6</name>
@@ -6338,7 +6338,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-mpv-1-lv-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-mpv-1-lv-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda MPV</name>
@@ -6349,7 +6349,7 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
       <offer id="mazda-mpv-1-lv-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-mpv-1-lv-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda MPV</name>
@@ -6357,4 +6357,4 @@ export default `      <offer id="bmw-5-серия-2-e28-седан-4-дв-арк
         <vendor>Mazda</vendor>
         <model>MPV</model>
       </offer>
-`
+`.replace(/<price>1799<\/price>/g, '<price>1790</price>').replace(/<price>1999<\/price>/g, '<price>1950</price>'))

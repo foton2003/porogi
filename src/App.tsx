@@ -2,6 +2,7 @@ import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 import { CartProvider, useCart } from '@/store/cart'
 import CallbackScript from '@/components/CallbackScript'
+import MobileVehicleMenu from '@/components/MobileVehicleMenu'
 import { markPhoneClick } from '@/lib/callbackScript'
 
 const links = [
@@ -74,6 +75,14 @@ function ScrollToTop() {
 }
 
 export default function App() {
+  const location = useLocation()
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
+  /* Меню каталога закрывается при любой смене маршрута. */
+  useEffect(() => {
+    setMobileMenuOpen(false)
+  }, [location.pathname])
+
   return (
     <CartProvider>
       <ScrollToTop />
@@ -129,19 +138,30 @@ export default function App() {
 
           <nav className="flex items-center justify-between gap-1 border-t border-border px-4 py-2 sm:hidden">
             <div className="flex items-center gap-1">
-              {links.map((link) => (
-                <NavLink
-                  key={link.to}
-                  to={link.to}
-                  className={({ isActive }) =>
-                    `rounded-md px-3 py-1.5 text-sm ${
-                      isActive ? 'bg-secondary font-medium text-foreground' : 'text-muted-foreground'
-                    }`
-                  }
-                >
-                  {link.label}
-                </NavLink>
-              ))}
+              <button
+                type="button"
+                onClick={() => setMobileMenuOpen(true)}
+                aria-expanded={mobileMenuOpen}
+                aria-haspopup="dialog"
+                className="rounded-md px-3 py-1.5 text-sm text-muted-foreground"
+              >
+                Каталог
+              </button>
+              {links
+                .filter((link) => link.to !== '/catalog')
+                .map((link) => (
+                  <NavLink
+                    key={link.to}
+                    to={link.to}
+                    className={({ isActive }) =>
+                      `rounded-md px-3 py-1.5 text-sm ${
+                        isActive ? 'bg-secondary font-medium text-foreground' : 'text-muted-foreground'
+                      }`
+                    }
+                  >
+                    {link.label}
+                  </NavLink>
+                ))}
             </div>
             <Link
               to="/cart"
@@ -157,6 +177,8 @@ export default function App() {
             </Link>
           </nav>
         </header>
+
+        <MobileVehicleMenu open={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />
 
         <main className="flex-1">
           <Outlet />
@@ -200,9 +222,14 @@ export default function App() {
                 Как купить
               </div>
               <ul className="mt-3 space-y-2 text-sm text-muted-foreground">
-                <li>Выберите марку, модель и поколение в каталоге.</li>
-                <li>Соберите заказ в корзине.</li>
+                <li>Выберите марку, модель и год выпуска в каталоге.</li>
                 <li>Оформите заказ — мы свяжемся с вами для подтверждения.</li>
+                <li>
+                  Или проще позвонить{' '}
+                  <a href="tel:+78003501624" onClick={() => markPhoneClick()} className="text-accent hover:underline">
+                    +7 (800) 350-16-24
+                  </a>
+                </li>
               </ul>
             </div>
           </div>

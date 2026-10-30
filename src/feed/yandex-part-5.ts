@@ -1,8 +1,8 @@
 /** Автосгенерированный фрагмент YML-фида (файл 6/6). */
-export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-седан-4-дв-арка" available="true">
+export default (`      <offer id="chevrolet-cruze-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Cruze</name>
@@ -13,7 +13,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cruze-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cruze</name>
@@ -24,7 +24,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cruze-1-дорест-1-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-1-дорест-1-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cruze</name>
@@ -35,7 +35,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cruze-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Cruze</name>
@@ -46,7 +46,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cruze-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cruze</name>
@@ -57,7 +57,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lanos-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-lanos-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Lanos</name>
@@ -68,7 +68,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lanos-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lanos-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lanos</name>
@@ -79,7 +79,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lanos-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lanos-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lanos</name>
@@ -90,7 +90,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lanos-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lanos-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lanos</name>
@@ -101,7 +101,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Lacetti / Klan</name>
@@ -112,7 +112,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lacetti / Klan</name>
@@ -123,7 +123,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Lacetti / Klan</name>
@@ -134,7 +134,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lacetti / Klan</name>
@@ -145,7 +145,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Lacetti / Klan</name>
@@ -156,7 +156,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lacetti-klan-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lacetti-klan-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lacetti / Klan</name>
@@ -167,7 +167,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-niva-1-дорест-1-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-niva-1-дорест-1-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Niva</name>
@@ -178,7 +178,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-niva-1-дорест-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-niva-1-дорест-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Niva</name>
@@ -189,7 +189,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-rezzo-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-rezzo-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Rezzo</name>
@@ -200,7 +200,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-rezzo-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-rezzo-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Rezzo</name>
@@ -211,7 +211,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-hhr-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-hhr-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet HHR</name>
@@ -222,7 +222,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-hhr-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-hhr-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet HHR</name>
@@ -233,7 +233,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-malibu-9-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-malibu-9-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Malibu</name>
@@ -244,7 +244,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-spark-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-spark-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Spark</name>
@@ -255,7 +255,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-spark-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-spark-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Spark</name>
@@ -266,7 +266,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-express-уточнить-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-express-уточнить-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Express</name>
@@ -277,7 +277,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-evanda-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-evanda-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Evanda</name>
@@ -288,7 +288,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-evanda-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-evanda-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Evanda</name>
@@ -299,7 +299,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-aveo-2-t300-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-2-t300-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -310,7 +310,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-aveo-2-t300-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-2-t300-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -321,7 +321,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-silverado-1-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-silverado-1-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Silverado</name>
@@ -332,7 +332,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-silverado-1-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-silverado-1-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Silverado</name>
@@ -343,7 +343,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-silverado-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-silverado-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Silverado</name>
@@ -354,7 +354,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-trailblazer-1-дорест-1-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-trailblazer-1-дорест-1-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet TrailBlazer</name>
@@ -365,7 +365,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-trailblazer-1-дорест-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-trailblazer-1-дорест-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet TrailBlazer</name>
@@ -376,7 +376,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cobalt-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-cobalt-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Cobalt</name>
@@ -387,7 +387,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cobalt-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cobalt-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cobalt</name>
@@ -398,7 +398,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tahoe</name>
@@ -409,7 +409,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tahoe</name>
@@ -420,7 +420,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tahoe</name>
@@ -431,7 +431,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tahoe</name>
@@ -442,7 +442,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-3-дорест-3-1-йрест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-3-дорест-3-1-йрест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Range Rover</name>
@@ -453,7 +453,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-3-дорест-3-1-йрест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-3-дорест-3-1-йрест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Range Rover</name>
@@ -464,7 +464,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-бразилия-2-дорест-2-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-бразилия-2-дорест-2-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Blazer (Бразилия)</name>
@@ -475,7 +475,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-бразилия-2-дорест-2-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-бразилия-2-дорест-2-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Blazer (Бразилия)</name>
@@ -486,7 +486,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Tahoe</name>
@@ -497,7 +497,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tahoe</name>
@@ -508,7 +508,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-s10-2-дорест-2-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-s10-2-дорест-2-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Chevrolet Blazer</name>
@@ -519,7 +519,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-s10-2-дорест-2-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-s10-2-дорест-2-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Blazer</name>
@@ -530,7 +530,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-epica-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-epica-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Epica</name>
@@ -541,7 +541,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-epica-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-epica-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Epica</name>
@@ -552,7 +552,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-caprise-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-caprise-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Caprise</name>
@@ -563,7 +563,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-caprise-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-caprise-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Caprise</name>
@@ -574,7 +574,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-captiva-1-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-captiva-1-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Captiva</name>
@@ -585,7 +585,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cruze-2-j300-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cruze-2-j300-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cruze</name>
@@ -596,7 +596,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tahoe</name>
@@ -607,7 +607,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tahoe-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tahoe-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tahoe</name>
@@ -618,7 +618,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-orlando-1-компактвэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-orlando-1-компактвэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Orlando</name>
@@ -629,7 +629,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-saburban-all-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-saburban-all-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Saburban</name>
@@ -640,7 +640,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-saburban-ix-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-saburban-ix-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Saburban</name>
@@ -651,7 +651,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-spark-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-spark-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Spark</name>
@@ -662,7 +662,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-spark-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-spark-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Spark</name>
@@ -673,7 +673,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Blazer</name>
@@ -684,7 +684,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-viva-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-viva-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Viva</name>
@@ -695,7 +695,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-viva-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-viva-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Viva</name>
@@ -706,7 +706,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-venture-all-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-venture-all-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Venture</name>
@@ -717,7 +717,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tracker-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tracker</name>
@@ -728,7 +728,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tracker-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tracker</name>
@@ -739,7 +739,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tracker-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tracker</name>
@@ -750,7 +750,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tracker-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tracker</name>
@@ -761,7 +761,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tracker-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tracker-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tracker</name>
@@ -772,7 +772,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tacuma-1-минивэн-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-tacuma-1-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Tacuma</name>
@@ -783,7 +783,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-tacuma-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-tacuma-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Tacuma</name>
@@ -794,7 +794,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-suburban-11-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-suburban-11-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Suburban</name>
@@ -805,7 +805,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-suburban-10-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-suburban-10-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Suburban</name>
@@ -816,7 +816,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-suburban-10-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-suburban-10-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Suburban</name>
@@ -827,7 +827,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-sonic-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-sonic-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Sonic</name>
@@ -838,7 +838,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-sonic-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-sonic-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Sonic</name>
@@ -849,7 +849,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-nexia-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-nexia-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Nexia</name>
@@ -860,7 +860,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-nexia-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-nexia-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Nexia</name>
@@ -871,7 +871,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-metro-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-metro-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Metro</name>
@@ -882,7 +882,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-lumina-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-lumina-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Lumina</name>
@@ -893,7 +893,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-kalos-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-kalos-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Kalos</name>
@@ -904,7 +904,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-kalos-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-kalos-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Kalos</name>
@@ -915,7 +915,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-kalos-all-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-kalos-all-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Kalos</name>
@@ -926,7 +926,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-kalos-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-kalos-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Kalos</name>
@@ -937,7 +937,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-epica-v200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-epica-v200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Epica</name>
@@ -948,7 +948,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-k5-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-k5-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Blazer</name>
@@ -959,7 +959,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-blazer-k5-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-blazer-k5-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Blazer</name>
@@ -970,7 +970,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-cavalier-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cavalier-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cavalier</name>
@@ -981,7 +981,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-silverado-2-пикап-2дв-4дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-silverado-2-пикап-2дв-4дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Silverado</name>
@@ -992,7 +992,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-discovery-4-дорест-4-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-discovery-4-дорест-4-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Discovery</name>
@@ -1003,7 +1003,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-discovery-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-discovery-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Discovery</name>
@@ -1014,7 +1014,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-discovery-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-discovery-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Discovery</name>
@@ -1025,7 +1025,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-freelander-1дорест-1рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-freelander-1дорест-1рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Freelander</name>
@@ -1036,7 +1036,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-freelander-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-freelander-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Freelander</name>
@@ -1047,7 +1047,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-freelander-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-freelander-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Freelander</name>
@@ -1058,7 +1058,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-200-2-r8-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/rover-200-2-r8-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Rover 200</name>
@@ -1069,7 +1069,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-200-2-r8-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-200-2-r8-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 200</name>
@@ -1080,7 +1080,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-200-2-r8-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-200-2-r8-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 200</name>
@@ -1091,7 +1091,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-1-дорест-1-рест-tur-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-octavia-1-дорест-1-рест-tur-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Skoda Octavia</name>
@@ -1102,7 +1102,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-1-дорест-1-рест-tur-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-1-дорест-1-рест-tur-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1113,7 +1113,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-rapid-1дорест-1рест-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-rapid-1дорест-1рест-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Rapid</name>
@@ -1124,7 +1124,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-rapid-1дорест-1рест-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-rapid-1дорест-1рест-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Rapid</name>
@@ -1135,7 +1135,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-rapid-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-rapid-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Rapid</name>
@@ -1146,7 +1146,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-roomster-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-roomster-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Roomster</name>
@@ -1157,7 +1157,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-roomster-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-roomster-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Roomster</name>
@@ -1168,7 +1168,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-2дорест-2рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-fabia-2дорест-2рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Skoda Fabia</name>
@@ -1179,7 +1179,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1190,7 +1190,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-2дорест-2рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-fabia-2дорест-2рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Fabia</name>
@@ -1201,7 +1201,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1212,7 +1212,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-2дорест-2рест-a5-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-octavia-2дорест-2рест-a5-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Octavia</name>
@@ -1223,7 +1223,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-2дорест-2рест-a5-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-2дорест-2рест-a5-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1234,7 +1234,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-2дорест-2рест-a5-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-2дорест-2рест-a5-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1245,7 +1245,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Fabia</name>
@@ -1256,7 +1256,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1267,7 +1267,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Fabia</name>
@@ -1278,7 +1278,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1289,7 +1289,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Fabia</name>
@@ -1300,7 +1300,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1311,7 +1311,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-superb-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-superb-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Superb</name>
@@ -1322,7 +1322,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-superb-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-superb-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Superb</name>
@@ -1333,7 +1333,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-3дорест-3рест-a7-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-octavia-3дорест-3рест-a7-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Skoda Octavia</name>
@@ -1344,7 +1344,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-3дорест-3рест-a7-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-3дорест-3рест-a7-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1355,7 +1355,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-3дорест-3рест-a7-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-3дорест-3рест-a7-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1366,7 +1366,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-4-а8-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-octavia-4-а8-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Octavia</name>
@@ -1377,7 +1377,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-octavia-4-а8-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-octavia-4-а8-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Octavia</name>
@@ -1388,7 +1388,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-fabia-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-fabia-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Fabia</name>
@@ -1399,7 +1399,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-sport-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-sport-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Range Rover Sport</name>
@@ -1410,7 +1410,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-sport-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-sport-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Range Rover Sport</name>
@@ -1421,7 +1421,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-superb-2-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-superb-2-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Superb</name>
@@ -1432,7 +1432,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-felicia-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-felicia-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Skoda Felicia</name>
@@ -1443,7 +1443,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-felicia-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-felicia-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Felicia</name>
@@ -1454,7 +1454,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-vogue-3-2й-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-vogue-3-2й-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Range Rover (Vogue)</name>
@@ -1465,7 +1465,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-vogue-3-2й-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-vogue-3-2й-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Range Rover (Vogue)</name>
@@ -1476,7 +1476,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-discovery-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-discovery-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Discovery</name>
@@ -1487,7 +1487,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-discovery-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-discovery-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Discovery</name>
@@ -1498,7 +1498,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Land Rover Range Rover</name>
@@ -1509,7 +1509,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-range-rover-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-range-rover-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Range Rover</name>
@@ -1520,7 +1520,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-rapid-2-лифтбек-4-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-rapid-2-лифтбек-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Skoda Rapid</name>
@@ -1531,7 +1531,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-rapid-2-лифтбек-4-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-rapid-2-лифтбек-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Rapid</name>
@@ -1542,7 +1542,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-freelander-2дорест-2рест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/land-rover-freelander-2дорест-2рест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Land Rover Freelander</name>
@@ -1553,7 +1553,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="land-rover-freelander-2дорест-2рест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/land-rover-freelander-2дорест-2рест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Land Rover Freelander</name>
@@ -1564,7 +1564,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-yeti-1-дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/skoda-yeti-1-дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Skoda Yeti</name>
@@ -1575,7 +1575,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="skoda-yeti-1-дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/skoda-yeti-1-дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Skoda Yeti</name>
@@ -1586,7 +1586,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-200-3-r3-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/rover-200-3-r3-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Rover 200</name>
@@ -1597,7 +1597,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-200-3-r3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-200-3-r3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 200</name>
@@ -1608,7 +1608,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-equinox-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-equinox-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Equinox</name>
@@ -1619,7 +1619,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="chevrolet-equinox-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-equinox-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Equinox</name>
@@ -1630,7 +1630,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ldv-maxus-1-фургон-арка-35-10-1ф" available="true">
         <url>https://porogi.pro/product/ldv-maxus-1-фургон-арка-35-10-1ф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для LDV Maxus</name>
@@ -1641,7 +1641,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ldv-maxus-1-фургон-порог-35-10-1ф" available="true">
         <url>https://porogi.pro/product/ldv-maxus-1-фургон-порог-35-10-1ф</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для LDV Maxus</name>
@@ -1652,7 +1652,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-torrent-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-torrent-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac Torrent</name>
@@ -1663,7 +1663,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-torrent-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-torrent-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Torrent</name>
@@ -1674,7 +1674,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-gt-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-emgrand-gt-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Geely Emgrand GT</name>
@@ -1685,7 +1685,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-gt-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-emgrand-gt-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely Emgrand GT</name>
@@ -1696,7 +1696,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx50-1дорест-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-qx50-1дорест-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti QX50</name>
@@ -1707,7 +1707,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx50-1дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-qx50-1дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti QX50</name>
@@ -1718,7 +1718,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx4-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-qx4-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Infiniti QX4</name>
@@ -1729,7 +1729,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx4-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-qx4-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti QX4</name>
@@ -1740,7 +1740,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-l-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-l-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti L</name>
@@ -1751,7 +1751,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-l-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-l-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti L</name>
@@ -1762,7 +1762,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-l-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-l-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti L</name>
@@ -1773,7 +1773,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-l-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-l-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti L</name>
@@ -1784,7 +1784,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-g-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti G</name>
@@ -1795,7 +1795,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-g-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti G</name>
@@ -1806,7 +1806,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-materia-all-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-materia-all-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Materia</name>
@@ -1817,7 +1817,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ldv-maxus-1-фургон-арка" available="true">
         <url>https://porogi.pro/product/ldv-maxus-1-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для LDV Maxus</name>
@@ -1828,7 +1828,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ldv-maxus-1-фургон-порог" available="true">
         <url>https://porogi.pro/product/ldv-maxus-1-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для LDV Maxus</name>
@@ -1839,7 +1839,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-gran-move-all-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-gran-move-all-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Gran Move</name>
@@ -1850,7 +1850,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-coo-all-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-coo-all-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Coo</name>
@@ -1861,7 +1861,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-boon-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-boon-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Boon</name>
@@ -1872,7 +1872,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-be-go-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-be-go-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Be-go</name>
@@ -1883,7 +1883,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-be-go-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-be-go-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Be-go</name>
@@ -1894,7 +1894,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv40-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv40-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Altis</name>
@@ -1905,7 +1905,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv40-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv40-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Altis</name>
@@ -1916,7 +1916,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv30-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv30-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Altis</name>
@@ -1927,7 +1927,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv30-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv30-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Altis</name>
@@ -1938,7 +1938,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv20-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv20-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Altis</name>
@@ -1949,7 +1949,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv20-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv20-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Altis</name>
@@ -1960,7 +1960,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv20-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv20-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Altis</name>
@@ -1971,7 +1971,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-altis-sxv20-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-altis-sxv20-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Altis</name>
@@ -1982,7 +1982,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-xj-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/jaguar-xj-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jaguar XJ</name>
@@ -1993,7 +1993,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-sirion-1-м1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-sirion-1-м1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Sirion</name>
@@ -2004,7 +2004,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-sirion-1-м1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-sirion-1-м1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Sirion</name>
@@ -2015,7 +2015,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="derways-plutus-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/derways-plutus-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Derways Plutus</name>
@@ -2026,7 +2026,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-storia-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-storia-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Storia</name>
@@ -2037,7 +2037,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hafei-brio-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hafei-brio-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hafei Brio</name>
@@ -2048,7 +2048,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hafei-simbo-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hafei-simbo-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hafei Simbo</name>
@@ -2059,7 +2059,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hafei-sigma-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hafei-sigma-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hafei Sigma</name>
@@ -2070,7 +2070,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hafei-saima-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hafei-saima-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hafei Saima</name>
@@ -2081,7 +2081,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-mira-5-дорес-рест-компактвэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-mira-5-дорес-рест-компактвэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Daihatsu Mira</name>
@@ -2092,7 +2092,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-mira-5-дорес-рест-компактвэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-mira-5-дорес-рест-компактвэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Mira</name>
@@ -2103,7 +2103,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-xk-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/jaguar-xk-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jaguar XK</name>
@@ -2114,7 +2114,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-mk-1-дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-mk-1-дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Geely MK</name>
@@ -2125,7 +2125,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-mk-1-дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-mk-1-дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely MK</name>
@@ -2136,7 +2136,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-fc-vision-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-fc-vision-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Geely FC Vision</name>
@@ -2147,7 +2147,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-fc-vision-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-fc-vision-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely FC Vision</name>
@@ -2158,7 +2158,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="iran-khodro-samand-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/iran-khodro-samand-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Iran Khodro Samand</name>
@@ -2169,7 +2169,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-breez-520-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-breez-520-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Breez (520)</name>
@@ -2180,7 +2180,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-breez-520-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-breez-520-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Breez (520)</name>
@@ -2191,7 +2191,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-216-2-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/rover-216-2-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Rover 216</name>
@@ -2202,7 +2202,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-216-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-216-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 216</name>
@@ -2213,7 +2213,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-vibe-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-vibe-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Vibe</name>
@@ -2224,7 +2224,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-75-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/rover-75-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Rover 75</name>
@@ -2235,7 +2235,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-75-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-75-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 75</name>
@@ -2246,7 +2246,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-75-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-75-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 75</name>
@@ -2257,7 +2257,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-900-2-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-900-2-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 900</name>
@@ -2268,7 +2268,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-900-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-900-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 900</name>
@@ -2279,7 +2279,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9000-1дорест-1рест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/saab-9000-1дорест-1рест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Saab 9000</name>
@@ -2290,7 +2290,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9000-1дорест-1рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-9000-1дорест-1рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 9000</name>
@@ -2301,7 +2301,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9000-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-9000-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 9000</name>
@@ -2312,7 +2312,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="tagaz-road-partner-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/tagaz-road-partner-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для TagAZ Road Partner</name>
@@ -2323,7 +2323,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-musso-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-musso-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SsangYong Musso</name>
@@ -2334,7 +2334,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="tagaz-road-partner-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/tagaz-road-partner-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для TagAZ Road Partner</name>
@@ -2345,7 +2345,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-musso-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-musso-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Musso</name>
@@ -2356,7 +2356,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-musso-1дорест-1рест-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-musso-1дорест-1рест-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Musso</name>
@@ -2367,7 +2367,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx70-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-qx70-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti QX70</name>
@@ -2378,7 +2378,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx70-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-qx70-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti QX70</name>
@@ -2389,7 +2389,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-fx-2дорест-2рест-s51-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-fx-2дорест-2рест-s51-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti FX</name>
@@ -2400,7 +2400,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-fx-2дорест-2рест-s51-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-fx-2дорест-2рест-s51-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti FX</name>
@@ -2411,7 +2411,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="derways-antelope-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/derways-antelope-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Derways Antelope</name>
@@ -2422,7 +2422,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-new-actyon-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-new-actyon-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SsangYong new Actyon</name>
@@ -2433,7 +2433,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="faw-vita-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/faw-vita-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для FAW Vita</name>
@@ -2444,7 +2444,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="faw-vita-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/faw-vita-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для FAW Vita</name>
@@ -2455,7 +2455,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haima-3-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/haima-3-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Haima 3</name>
@@ -2466,7 +2466,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haima-3-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/haima-3-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Haima 3</name>
@@ -2477,7 +2477,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haima-3-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/haima-3-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Haima 3</name>
@@ -2488,7 +2488,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-s-type-1дорест-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/jaguar-s-type-1дорест-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jaguar S-Type</name>
@@ -2499,7 +2499,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-s-type-1дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/jaguar-s-type-1дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jaguar S-Type</name>
@@ -2510,7 +2510,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="faw-besturn-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/faw-besturn-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для FAW Besturn</name>
@@ -2521,7 +2521,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-x-type-1дорест-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/jaguar-x-type-1дорест-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Jaguar X-Type</name>
@@ -2532,7 +2532,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-x-type-1дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/jaguar-x-type-1дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jaguar X-Type</name>
@@ -2543,7 +2543,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hummer-h2-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hummer-h2-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hummer H2</name>
@@ -2554,7 +2554,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hummer-h2-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hummer-h2-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hummer H2</name>
@@ -2565,7 +2565,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Cadillac Escalade</name>
@@ -2576,7 +2576,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac Escalade</name>
@@ -2587,7 +2587,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Cadillac Escalade</name>
@@ -2598,7 +2598,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac Escalade</name>
@@ -2609,7 +2609,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-ext-2-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-ext-2-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac Escalade EXT</name>
@@ -2620,7 +2620,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hummer-h3-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hummer-h3-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hummer H3</name>
@@ -2631,7 +2631,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-fx-1дорест-рест-s50-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-fx-1дорест-рест-s50-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Infiniti FX</name>
@@ -2642,7 +2642,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-fx-1дорест-рест-s50-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-fx-1дорест-рест-s50-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti FX</name>
@@ -2653,7 +2653,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9-5-1дорест-1рест-1рест2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/saab-9-5-1дорест-1рест-1рест2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Saab 9-5</name>
@@ -2664,7 +2664,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9-5-1дорест-1рест-1рест2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-9-5-1дорест-1рест-1рест2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 9-5</name>
@@ -2675,7 +2675,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9-5-1дорест-1рест-1рест2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/saab-9-5-1дорест-1рест-1рест2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saab 9-5</name>
@@ -2686,7 +2686,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-8-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-8-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 8</name>
@@ -2697,7 +2697,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-25-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-25-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 25</name>
@@ -2708,7 +2708,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-25-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-25-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 25</name>
@@ -2719,7 +2719,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-move-1-компактвэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-move-1-компактвэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Move</name>
@@ -2730,7 +2730,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="isuzu-vehicross-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/isuzu-vehicross-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Isuzu VehiCross</name>
@@ -2741,7 +2741,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-xf-1дорест-рест-x250-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/jaguar-xf-1дорест-рест-x250-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jaguar XF</name>
@@ -2752,7 +2752,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jaguar-xf-1дорест-рест-x250-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/jaguar-xf-1дорест-рест-x250-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jaguar XF</name>
@@ -2763,7 +2763,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haima-7-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/haima-7-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Haima 7</name>
@@ -2774,7 +2774,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-copen-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-copen-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Copen</name>
@@ -2785,7 +2785,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Cadillac Escalade</name>
@@ -2796,7 +2796,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-escalade-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-escalade-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac Escalade</name>
@@ -2807,7 +2807,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-srx-2-дорест-2-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-srx-2-дорест-2-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Cadillac SRX</name>
@@ -2818,7 +2818,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-srx-2-дорест-2-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-srx-2-дорест-2-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac SRX</name>
@@ -2829,7 +2829,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-bls-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-bls-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Cadillac BLS</name>
@@ -2840,7 +2840,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-bls-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-bls-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac BLS</name>
@@ -2851,7 +2851,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-cts-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-cts-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Cadillac CTS</name>
@@ -2862,7 +2862,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-cts-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-cts-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac CTS</name>
@@ -2873,7 +2873,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-cts-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-cts-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Cadillac CTS</name>
@@ -2884,7 +2884,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="brilliance-m2-bs4-1-дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/brilliance-m2-bs4-1-дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Brilliance M2 (BS4)</name>
@@ -2895,7 +2895,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="brilliance-m2-bs4-1-дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/brilliance-m2-bs4-1-дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Brilliance M2 (BS4)</name>
@@ -2906,7 +2906,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-move-5-la100s-дорест-рест-компактвэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-move-5-la100s-дорест-рест-компактвэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daihatsu Move</name>
@@ -2917,7 +2917,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-move-5-la100s-дорест-рест-компактвэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-move-5-la100s-дорест-рест-компактвэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Move</name>
@@ -2928,7 +2928,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-kyron-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-kyron-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SsangYong Kyron</name>
@@ -2939,7 +2939,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-kyron-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-kyron-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Kyron</name>
@@ -2950,7 +2950,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-solano-1-620-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/lifan-solano-1-620-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lifan Solano</name>
@@ -2961,7 +2961,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-solano-1-620-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-solano-1-620-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Solano</name>
@@ -2972,7 +2972,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-istana-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-istana-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Istana</name>
@@ -2983,7 +2983,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-actyon-sports-1-qj-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-actyon-sports-1-qj-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SsangYong Actyon Sports</name>
@@ -2994,7 +2994,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-actyon-sports-1-qj-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-actyon-sports-1-qj-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Actyon Sports</name>
@@ -3005,7 +3005,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-seville-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-seville-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac Seville</name>
@@ -3016,7 +3016,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-rexton-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-rexton-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Rexton</name>
@@ -3027,7 +3027,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-actyon-sports-2-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-actyon-sports-2-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SsangYong Actyon Sports</name>
@@ -3038,7 +3038,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-actyon-sports-2-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-actyon-sports-2-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Actyon Sports</name>
@@ -3049,7 +3049,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-rodius-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-rodius-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Rodius</name>
@@ -3060,7 +3060,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-rodius-1дорест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-rodius-1дорест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SsangYong Rodius</name>
@@ -3071,7 +3071,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-rodius-1дорест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-rodius-1дорест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Rodius</name>
@@ -3082,7 +3082,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-mg-zt-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-mg-zt-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover MG ZT</name>
@@ -3093,7 +3093,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-ck-otaka-1-дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-ck-otaka-1-дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Geely CK Otaka</name>
@@ -3104,7 +3104,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-ck-otaka-1-дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-ck-otaka-1-дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely CK Otaka</name>
@@ -3115,7 +3115,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="faw-v5-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/faw-v5-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для FAW V5</name>
@@ -3126,7 +3126,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="hafei-princip-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hafei-princip-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hafei Princip</name>
@@ -3137,7 +3137,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-sirion-2-m3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-sirion-2-m3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Sirion</name>
@@ -3148,7 +3148,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для SsangYong Korando</name>
@@ -3159,7 +3159,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Korando</name>
@@ -3170,7 +3170,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-4-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-g-4-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti G</name>
@@ -3181,7 +3181,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-smily-1-дорест-1рест-320-330-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lifan-smily-1-дорест-1рест-320-330-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Lifan Smily</name>
@@ -3192,7 +3192,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-smily-1-дорест-1рест-320-330-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-smily-1-дорест-1рест-320-330-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Smily</name>
@@ -3203,7 +3203,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-srx-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/cadillac-srx-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Cadillac SRX</name>
@@ -3214,7 +3214,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="cadillac-srx-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/cadillac-srx-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Cadillac SRX</name>
@@ -3225,7 +3225,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-х60-1дорест-1рест-1рест2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lifan-х60-1дорест-1рест-1рест2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Lifan Х60</name>
@@ -3236,7 +3236,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-х60-1дорест-1рест-1рест2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-х60-1дорест-1рест-1рест2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Х60</name>
@@ -3247,7 +3247,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-х50-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/lifan-х50-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>колёсная арка для Lifan Х50</name>
@@ -3258,7 +3258,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-celliya-1-530-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-celliya-1-530-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Celliya</name>
@@ -3269,7 +3269,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx56-1дорест-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-qx56-1дорест-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Infiniti QX56</name>
@@ -3280,7 +3280,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx56-1дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-qx56-1дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti QX56</name>
@@ -3291,7 +3291,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-g-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti G</name>
@@ -3302,7 +3302,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-g-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti G</name>
@@ -3313,7 +3313,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-ec7-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-emgrand-ec7-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Geely Emgrand EC7</name>
@@ -3324,7 +3324,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-ec7-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-emgrand-ec7-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely Emgrand EC7</name>
@@ -3335,7 +3335,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-pyzar-1дорест-1-рест-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-pyzar-1дорест-1-рест-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu Pyzar</name>
@@ -3346,7 +3346,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-yrv-1дорест-1-рест-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/daihatsu-yrv-1дорест-1-рест-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Daihatsu YRV</name>
@@ -3357,7 +3357,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="daihatsu-yrv-1дорест-1-рест-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/daihatsu-yrv-1дорест-1-рест-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Daihatsu YRV</name>
@@ -3368,7 +3368,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-800-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-800-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 800</name>
@@ -3379,7 +3379,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="lifan-solano-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/lifan-solano-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Lifan Solano</name>
@@ -3390,7 +3390,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-qx80-1дорест-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-qx80-1дорест-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti QX80</name>
@@ -3401,7 +3401,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-ex-1-j50-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-ex-1-j50-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti EX</name>
@@ -3412,7 +3412,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-ex-1-j50-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-ex-1-j50-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti EX</name>
@@ -3423,7 +3423,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-м-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-м-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti М</name>
@@ -3434,7 +3434,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-м-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-м-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti М</name>
@@ -3445,7 +3445,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-stavic-1-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-stavic-1-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Stavic</name>
@@ -3456,7 +3456,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-family-1дорест-1рест-a-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-family-1дорест-1рест-a-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SsangYong Korando Family</name>
@@ -3467,7 +3467,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-family-1дорест-1рест-a-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-family-1дорест-1рест-a-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Korando Family</name>
@@ -3478,7 +3478,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="тагаз-tager-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/тагаз-tager-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для ТагАЗ Tager</name>
@@ -3489,7 +3489,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="тагаз-tager-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/тагаз-tager-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для ТагАЗ Tager</name>
@@ -3500,7 +3500,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="тагаз-tager-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/тагаз-tager-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для ТагАЗ Tager</name>
@@ -3511,7 +3511,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-actyon-1-qj-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-actyon-1-qj-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Actyon</name>
@@ -3522,7 +3522,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-600-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/rover-600-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Rover 600</name>
@@ -3533,7 +3533,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="rover-600-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/rover-600-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Rover 600</name>
@@ -3544,7 +3544,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-t250-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-wave-t250-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac Wave</name>
@@ -3555,7 +3555,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-t250-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-wave-t250-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Wave</name>
@@ -3566,7 +3566,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-t250-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-wave-t250-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac Wave</name>
@@ -3577,7 +3577,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-t250-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-wave-t250-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Wave</name>
@@ -3588,7 +3588,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-1-дорест-t200-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-wave-1-дорест-t200-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac Wave</name>
@@ -3599,7 +3599,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-1-дорест-t200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-wave-1-дорест-t200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Wave</name>
@@ -3610,7 +3610,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-1-дорест-t200-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-wave-1-дорест-t200-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Pontiac Wave</name>
@@ -3621,7 +3621,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-wave-1-дорест-t200-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-wave-1-дорест-t200-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac Wave</name>
@@ -3632,7 +3632,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9-3-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/saab-9-3-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Saab 9-3</name>
@@ -3643,7 +3643,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saab-9-3-2дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/saab-9-3-2дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Saab 9-3</name>
@@ -3654,7 +3654,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/infiniti-g-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Infiniti G</name>
@@ -3665,7 +3665,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="infiniti-g-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/infiniti-g-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Infiniti G</name>
@@ -3676,7 +3676,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="тагаз-с10-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/тагаз-с10-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для ТагАЗ С10</name>
@@ -3687,7 +3687,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-g4-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-g4-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac G4</name>
@@ -3698,7 +3698,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-g4-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-g4-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac G4</name>
@@ -3709,7 +3709,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-g5-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/pontiac-g5-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Pontiac G5</name>
@@ -3720,7 +3720,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="pontiac-g5-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/pontiac-g5-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Pontiac G5</name>
@@ -3731,7 +3731,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-stavic-2-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-stavic-2-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SsangYong Stavic</name>
@@ -3742,7 +3742,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-stavic-2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-stavic-2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Stavic</name>
@@ -3753,7 +3753,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-x7-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/geely-emgrand-x7-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Geely Emgrand X7</name>
@@ -3764,7 +3764,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geely-emgrand-x7-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/geely-emgrand-x7-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geely Emgrand X7</name>
@@ -3775,7 +3775,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-sports-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-sports-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для SsangYong Korando Sports</name>
@@ -3786,7 +3786,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ssangyong-korando-sports-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ssangyong-korando-sports-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для SsangYong Korando Sports</name>
@@ -3797,7 +3797,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-tracker-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/geo-tracker-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Geo Tracker</name>
@@ -3808,7 +3808,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-tracker-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/geo-tracker-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geo Tracker</name>
@@ -3819,7 +3819,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-tracker-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/geo-tracker-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Geo Tracker</name>
@@ -3830,7 +3830,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-tracker-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/geo-tracker-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geo Tracker</name>
@@ -3841,7 +3841,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="scion-xd-all-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/scion-xd-all-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Scion XD</name>
@@ -3852,7 +3852,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="scion-xd-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/scion-xd-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Scion XD</name>
@@ -3863,7 +3863,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-prizm-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/geo-prizm-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Geo Prizm</name>
@@ -3874,7 +3874,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-prizm-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geo-prizm-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geo Prizm</name>
@@ -3885,7 +3885,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="scion-xb-all-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/scion-xb-all-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Scion XB</name>
@@ -3896,7 +3896,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="scion-xb-all-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/scion-xb-all-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Scion XB</name>
@@ -3907,7 +3907,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="geo-prizm-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/geo-prizm-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Geo Prizm</name>
@@ -3918,7 +3918,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="scion-xa-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/scion-xa-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Scion XA</name>
@@ -3929,7 +3929,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="porsche-944-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/porsche-944-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Porsche 944</name>
@@ -3940,7 +3940,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-sandero-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-sandero-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dacia Sandero</name>
@@ -3951,7 +3951,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-sandero-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-sandero-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Sandero</name>
@@ -3962,7 +3962,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-sandero-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-sandero-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dacia Sandero</name>
@@ -3973,7 +3973,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-sandero-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-sandero-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Sandero</name>
@@ -3984,7 +3984,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-r4-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ravon-r4-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ravon R4</name>
@@ -3995,7 +3995,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-logan-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-logan-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Dacia Logan</name>
@@ -4006,7 +4006,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-logan-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-logan-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Logan</name>
@@ -4017,7 +4017,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-matiz-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ravon-matiz-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ravon Matiz</name>
@@ -4028,7 +4028,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-matiz-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ravon-matiz-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ravon Matiz</name>
@@ -4039,7 +4039,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-duster-1-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-duster-1-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dacia Duster</name>
@@ -4050,7 +4050,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-duster-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-duster-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Duster</name>
@@ -4061,7 +4061,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-gentra-all-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ravon-gentra-all-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ravon Gentra</name>
@@ -4072,7 +4072,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-gentra-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ravon-gentra-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ravon Gentra</name>
@@ -4083,7 +4083,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-duster-1-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-duster-1-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dacia Duster</name>
@@ -4094,7 +4094,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-duster-1-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-duster-1-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Duster</name>
@@ -4105,7 +4105,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-logan-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/dacia-logan-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Dacia Logan</name>
@@ -4116,7 +4116,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="dacia-logan-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/dacia-logan-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Dacia Logan</name>
@@ -4127,7 +4127,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-nexia-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ravon-nexia-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ravon Nexia</name>
@@ -4138,7 +4138,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="ravon-nexia-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ravon-nexia-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ravon Nexia</name>
@@ -4149,7 +4149,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-voyager-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/plymouth-voyager-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Plymouth Voyager</name>
@@ -4160,7 +4160,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-voyager-3-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/plymouth-voyager-3-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Plymouth Voyager</name>
@@ -4171,7 +4171,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-voyager-3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/plymouth-voyager-3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Plymouth Voyager</name>
@@ -4182,7 +4182,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-voyager-3-минивэн-3-дв-арка" available="true">
         <url>https://porogi.pro/product/plymouth-voyager-3-минивэн-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Plymouth Voyager</name>
@@ -4193,7 +4193,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-voyager-3-минивэн-3-дв-порог" available="true">
         <url>https://porogi.pro/product/plymouth-voyager-3-минивэн-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Plymouth Voyager</name>
@@ -4204,7 +4204,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-breeze-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/plymouth-breeze-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Plymouth Breeze</name>
@@ -4215,7 +4215,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-acclaim-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/plymouth-acclaim-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Plymouth Acclaim</name>
@@ -4226,7 +4226,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="plymouth-acclaim-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/plymouth-acclaim-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Plymouth Acclaim</name>
@@ -4237,7 +4237,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-166-1-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-166-1-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 166</name>
@@ -4248,7 +4248,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-147-1-дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/alfa-romeo-147-1-дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Alfa Romeo 147</name>
@@ -4259,7 +4259,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-147-1-дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-147-1-дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 147</name>
@@ -4270,7 +4270,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-147-1-дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/alfa-romeo-147-1-дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Alfa Romeo 147</name>
@@ -4281,7 +4281,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-147-1-дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-147-1-дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 147</name>
@@ -4292,7 +4292,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-корса-1-дорест-1-1й-рест-1-2й-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/alfa-romeo-корса-1-дорест-1-1й-рест-1-2й-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Alfa Romeo корса</name>
@@ -4303,7 +4303,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-корса-1-дорест-1-1й-рест-1-2й-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-корса-1-дорест-1-1й-рест-1-2й-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo корса</name>
@@ -4314,7 +4314,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-159-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-159-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 159</name>
@@ -4325,7 +4325,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-159-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-159-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 159</name>
@@ -4336,7 +4336,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-166-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-166-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo 166</name>
@@ -4347,7 +4347,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-brera-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-brera-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo Brera</name>
@@ -4358,7 +4358,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="alfa-romeo-mito-1дорест-1рест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/alfa-romeo-mito-1дорест-1рест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Alfa Romeo Mito</name>
@@ -4369,7 +4369,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="saturn-vue-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/saturn-vue-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Saturn VUE</name>
@@ -4380,7 +4380,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-5-b4-купе-3-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-5-b4-купе-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4391,7 +4391,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-5-b4-кабриолет-2-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-5-b4-кабриолет-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4402,7 +4402,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-5-b4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-80-5-b4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi 80</name>
@@ -4413,7 +4413,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-5-b4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-5-b4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4424,7 +4424,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-5-b4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-5-b4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4435,7 +4435,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-сигара-3-c3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-100-сигара-3-c3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi 100 (сигара)</name>
@@ -4446,7 +4446,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-сигара-3-c3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-100-сигара-3-c3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 100 (сигара)</name>
@@ -4457,7 +4457,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-сигара-3-c3-универсал-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-100-сигара-3-c3-универсал-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi 100 (сигара)</name>
@@ -4468,7 +4468,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-сигара-3-c3-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-100-сигара-3-c3-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 100 (сигара)</name>
@@ -4479,7 +4479,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-1-с4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a6-1-с4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A6</name>
@@ -4490,7 +4490,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-1-с4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-1-с4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4501,7 +4501,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-1-с4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-1-с4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4512,7 +4512,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-4-b3-купе-3-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-4-b3-купе-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4523,7 +4523,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-4-b3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-80-4-b3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi 80</name>
@@ -4534,7 +4534,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-4-b3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-4-b3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4545,7 +4545,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A3</name>
@@ -4556,7 +4556,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A3</name>
@@ -4567,7 +4567,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a3-2-дорест-2-1й-рест-8p-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A3</name>
@@ -4578,7 +4578,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a5-1-дорест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a5-1-дорест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A5</name>
@@ -4589,7 +4589,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-1-дорест-1-рест-b5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a4-1-дорест-1-рест-b5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A4</name>
@@ -4600,7 +4600,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-1-дорест-1-рест-b5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-1-дорест-1-рест-b5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4611,7 +4611,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-4-дорест-b8-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a4-4-дорест-b8-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A4</name>
@@ -4622,7 +4622,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-4-дорест-b8-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-4-дорест-b8-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4633,7 +4633,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-4-дорест-b8-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-4-дорест-b8-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4644,7 +4644,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-1-дорест-1-рест-8l-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a3-1-дорест-1-рест-8l-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A3</name>
@@ -4655,7 +4655,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-1-дорест-1-рест-8l-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a3-1-дорест-1-рест-8l-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A3</name>
@@ -4666,7 +4666,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-1-дорест-1-рест-8l-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a3-1-дорест-1-рест-8l-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A3</name>
@@ -4677,7 +4677,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-90-2-b3-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-90-2-b3-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 90</name>
@@ -4688,7 +4688,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-90-2-b3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-90-2-b3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 90</name>
@@ -4699,7 +4699,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-3-дорест-3-рест-c6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a6-3-дорест-3-рест-c6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A6</name>
@@ -4710,7 +4710,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-3-дорест-3-рест-c6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-3-дорест-3-рест-c6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4721,7 +4721,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-allroad-all-универсал-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-allroad-all-универсал-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6 Allroad</name>
@@ -4732,7 +4732,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-3-дорест-3-рест-c6-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-3-дорест-3-рест-c6-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4743,7 +4743,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-3-b7-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-3-b7-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4754,7 +4754,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-3-b7-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-3-b7-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4765,7 +4765,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-3-b7-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-3-b7-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4776,7 +4776,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-2-дорест-2-рест-c5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a6-2-дорест-2-рест-c5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A6</name>
@@ -4787,7 +4787,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-2-дорест-2-рест-c5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-2-дорест-2-рест-c5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4798,7 +4798,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-2-b6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a4-2-b6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A4</name>
@@ -4809,7 +4809,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-2-b6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a4-2-b6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A4</name>
@@ -4820,7 +4820,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-4-с4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-100-4-с4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Audi 100</name>
@@ -4831,7 +4831,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-100-4-с4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-100-4-с4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 100</name>
@@ -4842,7 +4842,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a4-4-дорест-рест-b8-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a4-4-дорест-рест-b8-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A4</name>
@@ -4853,7 +4853,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-80-b2-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-80-b2-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi 80</name>
@@ -4864,7 +4864,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-4-дорест-4-рест-c7-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a6-4-дорест-4-рест-c7-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A6</name>
@@ -4875,7 +4875,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a6-4-дорест-4-рест-c7-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a6-4-дорест-4-рест-c7-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A6</name>
@@ -4886,7 +4886,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-q5-1-дорест-1-рест-8r-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-q5-1-дорест-1-рест-8r-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi Q5</name>
@@ -4897,7 +4897,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a8-2-дорест-и-все-ресты-d3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a8-2-дорест-и-все-ресты-d3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A8</name>
@@ -4908,7 +4908,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a3-3-дорест-8v-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a3-3-дорест-8v-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A3</name>
@@ -4919,7 +4919,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-q7-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-q7-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi Q7</name>
@@ -4930,7 +4930,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a5-1-дорест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/audi-a5-1-дорест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Audi A5</name>
@@ -4941,7 +4941,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="audi-a5-1-дорест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/audi-a5-1-дорест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Audi A5</name>
@@ -4952,7 +4952,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-3102-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-3102-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 3102</name>
@@ -4963,7 +4963,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-3110-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-3110-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 3110</name>
@@ -4974,7 +4974,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-3111-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-3111-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 3111</name>
@@ -4985,7 +4985,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-21-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-21-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 21</name>
@@ -4996,7 +4996,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-31029-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-31029-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 31029</name>
@@ -5007,7 +5007,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="грузовик-3307-1-грузовик-порог" available="true">
         <url>https://porogi.pro/product/грузовик-3307-1-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для грузовик 3307</name>
@@ -5018,7 +5018,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="грузовик-3309-1-грузовик-порог" available="true">
         <url>https://porogi.pro/product/грузовик-3309-1-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для грузовик 3309</name>
@@ -5029,7 +5029,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-31105-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/волга-31105-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Волга 31105</name>
@@ -5040,7 +5040,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-31105-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-31105-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 31105</name>
@@ -5051,7 +5051,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="волга-24-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/волга-24-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Волга 24</name>
@@ -5062,7 +5062,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jetta-va3-китай-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/jetta-va3-китай-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jetta va3 (китай)</name>
@@ -5073,7 +5073,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haval-jolion-all-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/haval-jolion-all-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Haval Jolion</name>
@@ -5084,7 +5084,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="haval-jolion-all-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/haval-jolion-all-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Haval Jolion</name>
@@ -5095,7 +5095,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="baw-fenix-33462-1-грузовик-2-дв-арка" available="true">
         <url>https://porogi.pro/product/baw-fenix-33462-1-грузовик-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для BAW fenix 33462</name>
@@ -5106,7 +5106,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-740-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-740-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo 740</name>
@@ -5117,7 +5117,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-740-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-740-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 740</name>
@@ -5128,7 +5128,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-740-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-740-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 740</name>
@@ -5139,7 +5139,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-850-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-850-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo 850</name>
@@ -5150,7 +5150,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-850-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-850-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 850</name>
@@ -5161,7 +5161,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-850-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-850-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 850</name>
@@ -5172,7 +5172,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-940-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-940-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo 940</name>
@@ -5183,7 +5183,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-940-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-940-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 940</name>
@@ -5194,7 +5194,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-940-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-940-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo 940</name>
@@ -5205,7 +5205,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-940-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-940-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 940</name>
@@ -5216,7 +5216,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v70-3-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-v70-3-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo V70</name>
@@ -5227,7 +5227,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v70-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-v70-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo V70</name>
@@ -5238,7 +5238,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s60-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s60-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo S60</name>
@@ -5249,7 +5249,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s60-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s60-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S60</name>
@@ -5260,7 +5260,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s40-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s40-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo S40</name>
@@ -5271,7 +5271,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s40-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s40-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S40</name>
@@ -5282,7 +5282,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v40-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-v40-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo V40</name>
@@ -5293,7 +5293,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v40-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-v40-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo V40</name>
@@ -5304,7 +5304,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-960-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-960-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 960</name>
@@ -5315,7 +5315,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-960-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-960-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 960</name>
@@ -5326,7 +5326,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s80-2дорест-2-оба-реста-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s80-2дорест-2-оба-реста-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Volvo S80</name>
@@ -5337,7 +5337,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s80-2дорест-2-оба-реста-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s80-2дорест-2-оба-реста-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S80</name>
@@ -5348,7 +5348,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s80-1дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s80-1дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo S80</name>
@@ -5359,7 +5359,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s80-1дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s80-1дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S80</name>
@@ -5370,7 +5370,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s60-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s60-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo S60</name>
@@ -5381,7 +5381,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v70-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-v70-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo V70</name>
@@ -5392,7 +5392,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s70-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s70-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo S70</name>
@@ -5403,7 +5403,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s70-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s70-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S70</name>
@@ -5414,7 +5414,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc90-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-xc90-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo XC90</name>
@@ -5425,7 +5425,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc90-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-xc90-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo XC90</name>
@@ -5436,7 +5436,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-c70-1-дорест-рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-c70-1-дорест-рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo C70</name>
@@ -5447,7 +5447,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s90-1-поколение-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s90-1-поколение-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S90</name>
@@ -5458,7 +5458,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc70-1-дорест-рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-xc70-1-дорест-рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo XC70</name>
@@ -5469,7 +5469,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc70-1-дорест-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-xc70-1-дорест-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo XC70</name>
@@ -5480,7 +5480,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc70-2-дорест-рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-xc70-2-дорест-рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo XC70</name>
@@ -5491,7 +5491,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc70-2-дорест-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-xc70-2-дорест-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo XC70</name>
@@ -5502,7 +5502,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v40-2-дорест-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-v40-2-дорест-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo V40</name>
@@ -5513,7 +5513,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc60-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-xc60-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Volvo XC60</name>
@@ -5524,7 +5524,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-xc60-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-xc60-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo XC60</name>
@@ -5535,7 +5535,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v50-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-v50-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo V50</name>
@@ -5546,7 +5546,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-440-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-440-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 440</name>
@@ -5557,7 +5557,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-460-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-460-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 460</name>
@@ -5568,7 +5568,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s40-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-s40-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Volvo S40</name>
@@ -5579,7 +5579,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-s40-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-s40-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo S40</name>
@@ -5590,7 +5590,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-240-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-240-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 240</name>
@@ -5601,7 +5601,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-v70-2-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/volvo-v70-2-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Volvo V70</name>
@@ -5612,7 +5612,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="volvo-480-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/volvo-480-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volvo 480</name>
@@ -5623,7 +5623,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-wingle-3-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-wingle-3-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Wingle 3</name>
@@ -5634,7 +5634,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-wingle-3-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-wingle-3-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Wingle 3</name>
@@ -5645,7 +5645,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-sailor-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-sailor-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Sailor</name>
@@ -5656,7 +5656,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-порог-8-13-1вп4" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-порог-8-13-1вп4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5667,7 +5667,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-арка-8-13-1п4" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-арка-8-13-1п4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Deer</name>
@@ -5678,7 +5678,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-порог-8-13-1п4" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-порог-8-13-1п4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5689,7 +5689,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-safe-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-safe-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Great Wall Safe</name>
@@ -5700,7 +5700,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-safe-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-safe-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Safe</name>
@@ -5711,7 +5711,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-2-дв-порог-8-13вп2" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-2-дв-порог-8-13вп2</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5722,7 +5722,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-порог-8-13вп4" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-порог-8-13вп4</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5733,7 +5733,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5744,7 +5744,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Deer</name>
@@ -5755,7 +5755,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5766,7 +5766,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-deer-1-пикап-2-дв-порог-8-14п1-5" available="true">
         <url>https://porogi.pro/product/great-wall-deer-1-пикап-2-дв-порог-8-14п1-5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Deer</name>
@@ -5777,7 +5777,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-wingle-5-2-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-wingle-5-2-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Wingle 5</name>
@@ -5788,7 +5788,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-hover-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-hover-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Great Wall Hover</name>
@@ -5799,7 +5799,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-hover-1-внедорожник-5-дв-порог-8-15в5" available="true">
         <url>https://porogi.pro/product/great-wall-hover-1-внедорожник-5-дв-порог-8-15в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Hover</name>
@@ -5810,7 +5810,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-socool-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-socool-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Socool</name>
@@ -5821,7 +5821,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-wingle-7-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-wingle-7-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Wingle 7</name>
@@ -5832,7 +5832,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-peri-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-peri-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Peri</name>
@@ -5843,7 +5843,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-peri-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-peri-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Peri</name>
@@ -5854,7 +5854,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-coolbear-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-coolbear-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Coolbear</name>
@@ -5865,7 +5865,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-sing-1-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-sing-1-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Sing</name>
@@ -5876,7 +5876,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-sing-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-sing-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Sing</name>
@@ -5887,7 +5887,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-sing-ruv-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-sing-ruv-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Sing Ruv</name>
@@ -5898,7 +5898,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-h3-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-h3-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Great Wall H3</name>
@@ -5909,7 +5909,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-h3-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-h3-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall H3</name>
@@ -5920,7 +5920,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-h5-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-h5-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Great Wall H5</name>
@@ -5931,7 +5931,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-h5-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-h5-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall H5</name>
@@ -5942,7 +5942,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-н6-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/great-wall-н6-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Н6</name>
@@ -5953,7 +5953,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-cowry-v80-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/great-wall-cowry-v80-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Great Wall Cowry</name>
@@ -5964,7 +5964,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-cowry-v80-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/great-wall-cowry-v80-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Cowry</name>
@@ -5975,7 +5975,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="great-wall-hover-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/great-wall-hover-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Great Wall Hover</name>
@@ -5986,7 +5986,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="газель-bussines-1-фургон-4-дв-порог" available="true">
         <url>https://porogi.pro/product/газель-bussines-1-фургон-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Газель Bussines</name>
@@ -5997,7 +5997,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="газель-next-1-фургон-4-дв-арка" available="true">
         <url>https://porogi.pro/product/газель-next-1-фургон-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Газель Next</name>
@@ -6008,7 +6008,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="газель-next-1-фургон-4-дв-порог" available="true">
         <url>https://porogi.pro/product/газель-next-1-фургон-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Газель Next</name>
@@ -6019,7 +6019,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="газ-соболь-1-рест-фургон-4-дв-арка" available="true">
         <url>https://porogi.pro/product/газ-соболь-1-рест-фургон-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Газ Соболь</name>
@@ -6030,7 +6030,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="газ-соболь-1-рест-фургон-4-дв-порог" available="true">
         <url>https://porogi.pro/product/газ-соболь-1-рест-фургон-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Газ Соболь</name>
@@ -6041,7 +6041,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-1дорест-рест-zj-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-1дорест-рест-zj-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jeep Grand Cherokee</name>
@@ -6052,7 +6052,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-1дорест-рест-zj-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-1дорест-рест-zj-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Grand Cherokee</name>
@@ -6063,7 +6063,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-2-wj-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-2-wj-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Jeep Grand Cherokee</name>
@@ -6074,7 +6074,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-2-wj-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-2-wj-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Grand Cherokee</name>
@@ -6085,7 +6085,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-cherokee-3дорест-рест-kj-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-cherokee-3дорест-рест-kj-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jeep Cherokee</name>
@@ -6096,7 +6096,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-cherokee-3дорест-рест-kj-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-cherokee-3дорест-рест-kj-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Cherokee</name>
@@ -6107,7 +6107,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-liberty-north-america-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-liberty-north-america-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jeep Liberty North America</name>
@@ -6118,7 +6118,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-liberty-north-america-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-liberty-north-america-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Liberty North America</name>
@@ -6129,7 +6129,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-liberty-patriot-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-liberty-patriot-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jeep Liberty (Patriot)</name>
@@ -6140,7 +6140,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-liberty-patriot-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-liberty-patriot-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Liberty (Patriot)</name>
@@ -6151,7 +6151,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-cherokee-2-xj-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-cherokee-2-xj-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Jeep Cherokee</name>
@@ -6162,7 +6162,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-cherokee-2-xj-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-cherokee-2-xj-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Cherokee</name>
@@ -6173,7 +6173,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-3-wk-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-3-wk-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Grand Cherokee</name>
@@ -6184,7 +6184,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-compass-1-дорест-2-рест-2рест2-mk49-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/jeep-compass-1-дорест-2-рест-2рест2-mk49-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Jeep Compass</name>
@@ -6195,7 +6195,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-compass-1-дорест-2-рест-2рест2-mk49-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-compass-1-дорест-2-рест-2рест2-mk49-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Compass</name>
@@ -6206,7 +6206,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-grand-cherokee-4-wk2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-grand-cherokee-4-wk2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Grand Cherokee</name>
@@ -6217,7 +6217,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-commander-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-commander-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Commander</name>
@@ -6228,7 +6228,7 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
       <offer id="jeep-cherokee-4-kk-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/jeep-cherokee-4-kk-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Jeep Cherokee</name>
@@ -6236,4 +6236,4 @@ export default `      <offer id="chevrolet-cruze-1-дорест-1-рест-се�
         <vendor>Jeep</vendor>
         <model>Cherokee</model>
       </offer>
-`
+`.replace(/<price>1799<\/price>/g, '<price>1790</price>').replace(/<price>1999<\/price>/g, '<price>1950</price>'))

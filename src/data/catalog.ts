@@ -1,5 +1,8 @@
 export type PartType = 'порог' | 'арка'
 
+/** Виды пенок: отдельное поле у Part, тип «порог»/«арка» для них не используется. */
+export type FoamKind = 'foam-rear-door' | 'foam-front-door' | 'foam-tailgate'
+
 export interface Vehicle {
   brand: string
   model: string
@@ -43,14 +46,42 @@ export interface Part {
   basePrice: number
   images: string[]
   description: string
+  /** Вид пенки; задан только у товаров «Пенка …». type остаётся «порог»/«арка». */
+  foamKind?: FoamKind
 }
 
 /** Фото из задания: пороги. */
 export const POROG_IMAGE =
   'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg'
+/** Схема зоны установки порога (вложение porog_zona.png) — второе фото порогов. */
+export const POROG_SCHEME_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_9bdfeaae0f77d99d44e9d80e16919d3b/porog_zona.png'
+
+/** Схема — широкий чертёж с подписями, поэтому показываем её целиком, без обрезки. */
+export function isSchemeImage(src: string): boolean {
+  return src === POROG_SCHEME_IMAGE
+}
 /** Фото из задания: арки. */
 export const ARKA_IMAGE =
   'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg'
+/** Фото из вложения zad1.jpg: пенка задней двери. */
+export const FOAM_REAR_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_dbc3b77fd798aeab617ab5990f3a28c6/zad1.jpg'
+/** Фото из вложения pered1.jpg: пенка передней двери. */
+export const FOAM_FRONT_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_6d8265d0b4ffa2039eec4b84dcd9cc8e/pered1.jpg'
+/** Фото из вложения bagaj1.jpg: пенка двери багажника. */
+export const FOAM_TAILGATE_IMAGE =
+  'https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_a1c2e61d84213224242b5847629707f5/bagaj1.jpg'
+
+/** Фиксированные цены пенок (без выбора материала, направления и комплектации). */
+export const FOAM_PRICES: Record<FoamKind, number> = {
+  'foam-rear-door': 2090,
+  'foam-front-door': 2090,
+  'foam-tailgate': 2090,
+}
+/** Старая цена пенки багажника — показывается зачёркнутой рядом с новой. */
+export const FOAM_TAILGATE_OLD_PRICE = 2500
 
 export const MATERIALS: MaterialOption[] = [
   {
@@ -63,9 +94,9 @@ export const MATERIALS: MaterialOption[] = [
   {
     id: 'galvanized',
     label: 'Оцинкованная сталь',
-    note: 'Доплата к базовой цене',
+    note: 'Базовая цена детали',
     basePrices: { порог: 2090, арка: 2300 },
-    pairExtra: { порог: 600, арка: 700 },
+    pairExtra: {},
   },
 ]
 
@@ -79,10 +110,9 @@ export const KITS: KitOption[] = [
   {
     id: 'two-sides',
     label: 'Две стороны',
-    note: 'Базовая цена + 1950 ₽ за вторую сторону',
+    note: 'Базовая цена + 1790 ₽ за вторую сторону',
     priceDelta: 0,
     doublesBase: true,
-    galvanizedExtra: 600,
   },
 ]
 
@@ -104,9 +134,10 @@ const KITS_ARCH: KitOption[] = [
     label: 'Две стороны',
     note: 'Базовая цена + 1950 ₽ за вторую сторону',
     priceDelta: 0,
-    pricingMode: 'base-plus',
-    sideExtra: 1950,
-    materialExtra: { galvanized: 700 },
+    doublesBase: true,
+  /**   pricingMode: 'base-plus',*/
+ /**    sideExtra: 1950,*/
+ /**   materialExtra: { galvanized: 700 },*/
   },
 ]
 
@@ -2243,6 +2274,40 @@ export function producedKinds(produced: string[]): PartType[] {
   return kinds
 }
 
+/** Виды пенок по полю «Что производим» (без учёта регистра). */
+const FOAM_SPECS: { kind: FoamKind; marker: string }[] = [
+  { kind: 'foam-rear-door', marker: 'Ремкомплекты задних дверей' },
+  { kind: 'foam-front-door', marker: 'Ремкомплекты передних дверей' },
+  { kind: 'foam-tailgate', marker: 'Ремкомплект двери багажника' },
+]
+
+export function foamKinds(produced: string[]): FoamKind[] {
+  const lowered = produced.map((item) => item.toLowerCase())
+  return FOAM_SPECS.filter((spec) =>
+    lowered.some((item) => item.includes(spec.marker.toLowerCase())),
+  ).map((spec) => spec.kind)
+}
+
+const FOAM_TITLES: Record<FoamKind, string> = {
+  'foam-rear-door': 'Пенка задней двери',
+  'foam-front-door': 'Пенка передней двери',
+  'foam-tailgate': 'Пенка багажника двери',
+}
+
+export function foamTitle(kind: FoamKind): string {
+  return FOAM_TITLES[kind]
+}
+
+export function isFoam(part: Part): boolean {
+  return Boolean(part.foamKind)
+}
+
+/** Название пенки: «Пенка … для [Марка] [Модель]» (как в карточке каталога). */
+export function foamPartTitle(part: Part): string {
+  if (!part.foamKind) return part.title
+  return `${foamTitle(part.foamKind)} для ${part.vehicle.brand} ${part.vehicle.model}`
+}
+
 function slug(text: string): string {
   return text
     .toLowerCase()
@@ -2262,6 +2327,7 @@ export const ARCH_DIRECTIONS: ArchDirectionOption[] = [
 
 /** Для арок с одновременными «Передние арки» и «Задние арки» в поле «Что производим». */
 export function needsArchDirection(part: Part): boolean {
+  if (part.foamKind) return false
   return (
     part.type === 'арка' &&
     part.produced.some((item) => item.includes('Передние арки')) &&
@@ -2278,6 +2344,7 @@ export function archDirectionLabel(directionId?: string): string {
 }
 
 export function archDirectionTitle(part: Part, directionId?: string): string {
+  if (part.foamKind) return foamPartTitle(part)
   if (part.type !== 'арка') return part.title
   if (!needsArchDirection(part)) return part.title
   const vehicleLabel = `${part.vehicle.brand} ${part.vehicle.model}`
@@ -2304,14 +2371,13 @@ function buildPart(row: CatalogRow, kind: PartType): Part {
         ? `Колёсные арки для ${vehicleLabel}`
         : `${archScope}колёсная арка для ${vehicleLabel}`
   const generationNote = generation ? ` поколения «${generation}»` : ''
+  const specNote = `${years ? `Годы выпуска: ${years}` : ''}${years && body ? ', ' : ''}${
+    body ? `кузов: ${body}` : ''
+  }`
   const description =
     kind === 'порог'
-      ? `Ремонтный порог для ${vehicleLabel}${generationNote}. Позиция из каталога: ${producedRaw.replace(/;/g, ', ')}${
-          years ? `. Годы выпуска: ${years}` : ''
-        }${body ? `, кузов: ${body}` : ''}.`
-      : `Колёсная арка для ${vehicleLabel}${generationNote}. Позиция из каталога: ${producedRaw.replace(/;/g, ', ')}${
-          years ? `. Годы выпуска: ${years}` : ''
-        }${body ? `, кузов: ${body}` : ''}.`
+      ? `Ремонтный порог для ${vehicleLabel}${generationNote}. ${specNote}.`
+      : `Колёсная арка для ${vehicleLabel}${generationNote}. ${specNote}.`
   return {
     id: `${slug(brand)}-${slug(model)}-${slug(generation || 'all')}-${slug(body)}-${kind}`.slice(0, 96),
     sku,
@@ -2323,7 +2389,8 @@ function buildPart(row: CatalogRow, kind: PartType): Part {
     years,
     produced,
     basePrice: BASE_PRICE[kind],
-    images: [kind === 'порог' ? POROG_IMAGE : ARKA_IMAGE],
+    // У порогов первым идёт фото детали, вторым — схема зоны установки.
+    images: kind === 'порог' ? [POROG_IMAGE, POROG_SCHEME_IMAGE] : [ARKA_IMAGE],
     description,
   }
 }
@@ -2346,6 +2413,59 @@ export const PARTS: Part[] = ROWS.flatMap((row) =>
     return part
   }),
 )
+
+/** Фото пенки по виду. */
+const FOAM_IMAGES: Record<FoamKind, string> = {
+  'foam-rear-door': FOAM_REAR_IMAGE,
+  'foam-front-door': FOAM_FRONT_IMAGE,
+  'foam-tailgate': FOAM_TAILGATE_IMAGE,
+}
+
+/** Генератор пенок из поля «Что производим»: по одному товару на вид пенки.
+ *  Та же логика id и слияния дублей, что и у PARTS. */
+function buildFoam(row: CatalogRow, kind: FoamKind): Part {
+  const [brand, model, generation, years, body, , sku, producedRaw] = row
+  const produced = producedRaw.split(';').filter(Boolean)
+  const vehicleLabel = `${brand} ${model}`
+  const generationNote = generation ? ` поколения «${generation}»` : ''
+  const specNote = `${years ? `Годы выпуска: ${years}` : ''}${years && body ? ', ' : ''}${
+    body ? `кузов: ${body}` : ''
+  }`
+  const foamLabel = foamTitle(kind)
+  return {
+    id: `${slug(brand)}-${slug(model)}-${slug(generation || 'all')}-${slug(body)}-${kind}`.slice(0, 96),
+    sku,
+    title: `${foamLabel} для ${vehicleLabel}`,
+    type: kind === 'foam-tailgate' ? 'арка' : 'порог',
+    side: 'Комплект',
+    vehicle: { brand, model, generation: generation || 'все поколения' },
+    body,
+    years,
+    produced,
+    basePrice: FOAM_PRICES[kind],
+    images: [FOAM_IMAGES[kind]],
+    description: `${foamLabel} для ${vehicleLabel}${generationNote}. ${specNote}.`,
+    foamKind: kind,
+  }
+}
+
+const FOAM_PARTS: Part[] = ROWS.flatMap((row) =>
+  foamKinds(row[7].split(';').filter(Boolean)).map((kind) => buildFoam(row, kind)),
+)
+
+for (const part of FOAM_PARTS) {
+  if (partIds.has(part.id)) {
+    const baseId = `${part.id}-${slug(part.sku)}`
+    let id = baseId
+    let suffix = 2
+    while (partIds.has(id)) id = `${baseId}-${suffix++}`
+    part.id = id
+  }
+  partIds.add(part.id)
+}
+
+/** Все товары каталога: пороги, арки и пенки (пенки идут последними). */
+export const ALL_PARTS: Part[] = [...PARTS, ...FOAM_PARTS]
 
 /* URL-транслитерация кириллицы в латиницу (дружелюбные адреса каталога). */
 const CYRILLIC_TO_LATIN: Record<string, string> = {
@@ -2424,9 +2544,10 @@ type CatalogSegment = {
   brand?: string
   model?: string
   generation?: string
+  years?: string
 }
 
-/** Разбирает путь каталога вида /catalog/[тип]/[марка]/[модель]/[поколение]/. */
+/** Разбирает путь каталога вида /catalog/[тип]/[марка]/[модель]/[поколение]/ (прежний формат адресов). */
 export function parseCatalogPath(segments: string[]): CatalogSegment | null {
   const [typeSlug, ...rest] = segments
   if (!typeSlug || rest.length > 3) return null
@@ -2460,27 +2581,105 @@ export function parseCatalogPath(segments: string[]): CatalogSegment | null {
   return result
 }
 
+/** Разбирает путь каталога, где третий сегмент — год выпуска (с откатом на прежнее поколение). */
+export function parseCatalogYearPath(segments: string[]): CatalogSegment | null {
+  // Совместимость: адреса со старым третьим сегментом-поколением открываются
+  // как марка и модель без выбора года.
+  const [typeSlug, ...rest] = segments
+  if (!typeSlug || rest.length > 3) return null
+  const type = TYPE_BY_SLUG[typeSlug]
+  if (!type) return null
+  const [brandSlug, modelSlug] = rest
+  if (!brandSlug) return { type }
+  const brand = findPartValue(brandSlug, (part) => part.vehicle.brand)
+  if (!brand) return null
+  const result: CatalogSegment = { type, brand }
+  if (!modelSlug) return result
+  const model = findPartValue(
+    modelSlug,
+    (part) => (part.vehicle.brand === brand ? part.vehicle.model : ''),
+  )
+  if (!model) return null
+  result.model = model
+  const yearSlug = rest[2]
+  if (yearSlug) {
+    const years = findPartValue(yearSlug, (part) =>
+      part.vehicle.brand === brand && part.vehicle.model === model ? part.years : '',
+    )
+    if (years) {
+      result.years = years
+      return result
+    }
+    // Ссылки, сохранённые до замены поколения на год, продолжают работать:
+    // поколение из адреса переводим в первый год выпуска этого автомобиля.
+    const generation = findPartValue(
+      yearSlug,
+      (part) =>
+        part.vehicle.brand === brand && part.vehicle.model === model
+          ? part.vehicle.generation
+          : '',
+    )
+    const legacyYears = generation ? yearsForGeneration(brand, model, generation) : ''
+    if (!legacyYears) return null
+    result.years = legacyYears
+  }
+  return result
+}
+
+/** Годы выпуска выбранной модели — по всем строкам каталога, включая пенки. */
+export function yearsFor(brand: string, model: string): string[] {
+  return Array.from(
+    new Set(
+      ALL_PARTS.filter((p) => p.vehicle.brand === brand && p.vehicle.model === model)
+        .map((p) => p.years)
+        .filter(Boolean),
+    ),
+  )
+}
+
+/** Поколение для пары «марка + модель + годы выпуска» (первое совпадение). */
+export function generationForYears(brand: string, model: string, years: string): string {
+  return (
+    ALL_PARTS.find(
+      (p) => p.vehicle.brand === brand && p.vehicle.model === model && p.years === years,
+    )?.vehicle.generation ?? ''
+  )
+}
+
 function findPartValue(slugValue: string, getValue: (part: Part) => string): string | null {
-  for (const part of PARTS) {
+  for (const part of ALL_PARTS) {
     const value = getValue(part)
     if (value && toUrlSlug(value) === slugValue) return value
   }
   return null
 }
 
-/** Строит путь каталога из текущих фильтров: /catalog/[тип]/[марка]/[модель]/[поколение]/
+/** Строит путь каталога из текущих фильтров: /catalog/[тип]/[марка]/[модель]/[год выпуска]/
  *  (фрагменты, равные значениям по умолчанию, пропускаются). */
 export function buildCatalogPath(
   type: string,
   brand: string,
   model: string,
-  generation: string,
+  years: string,
 ): string {
   const segments = [TYPE_SLUGS[type] ?? TYPE_SLUGS['все']]
   if (brand) segments.push(toUrlSlug(brand))
   if (brand && model) segments.push(toUrlSlug(model))
-  if (brand && model && generation) segments.push(toUrlSlug(generation))
+  if (brand && model && years) segments.push(toUrlSlug(years))
   return `/catalog/${segments.join('/')}/`
+}
+
+/** Год выпуска, соответствующий поколению (для сохранённых фильтров и старых ссылок). */
+export function yearsForGeneration(brand: string, model: string, generation: string): string {
+  return (
+    ALL_PARTS.find(
+      (p) =>
+        p.vehicle.brand === brand &&
+        p.vehicle.model === model &&
+        p.vehicle.generation === generation &&
+        p.years,
+    )?.years ?? ''
+  )
 }
 
 export const VEHICLES: Vehicle[] = Array.from(
@@ -2492,12 +2691,15 @@ export const VEHICLES: Vehicle[] = Array.from(
   ).values(),
 )
 
+/** Фильтры берут только базовые товары: пенки не добавляют марки, модели и годы. */
+const CORE_VEHICLES: Vehicle[] = VEHICLES
+
 /** Марки: латиница в начале, кириллица — в конце; внутри группы — по алфавиту. */
 function brandGroup(brand: string): number {
   return /[A-Za-z]/.test(brand) ? 0 : 1
 }
 
-export const BRANDS = Array.from(new Set(VEHICLES.map((v) => v.brand))).sort((a, b) => {
+export const BRANDS = Array.from(new Set(CORE_VEHICLES.map((v) => v.brand))).sort((a, b) => {
   const groupDiff = brandGroup(a) - brandGroup(b)
   if (groupDiff !== 0) return groupDiff
   return a.localeCompare(b, 'ru')
@@ -2505,16 +2707,16 @@ export const BRANDS = Array.from(new Set(VEHICLES.map((v) => v.brand))).sort((a,
 
 export function modelsForBrand(brand: string): string[] {
   return Array.from(
-    new Set(VEHICLES.filter((v) => v.brand === brand).map((v) => v.model)),
+    new Set(CORE_VEHICLES.filter((v) => v.brand === brand).map((v) => v.model)),
   ).sort((a, b) => a.localeCompare(b, 'ru'))
 }
 
 export function generationsFor(brand: string, model: string): string[] {
-  return VEHICLES.filter((v) => v.brand === brand && v.model === model).map((v) => v.generation)
+  return CORE_VEHICLES.filter((v) => v.brand === brand && v.model === model).map((v) => v.generation)
 }
 
 export function partsForVehicle(brand: string, model: string, generation: string): Part[] {
-  return PARTS.filter(
+  return ALL_PARTS.filter(
     (p) =>
       p.vehicle.brand === brand &&
       p.vehicle.model === model &&
@@ -2522,8 +2724,13 @@ export function partsForVehicle(brand: string, model: string, generation: string
   )
 }
 
+/** Гейт видимости пенок: только при одновременно выбранных марке, модели и годе выпуска. */
+export function foamGate(brand: string, model: string, years: string): boolean {
+  return Boolean(brand && model && years)
+}
+
 export function findPart(id: string): Part | undefined {
-  return PARTS.find((p) => p.id === id)
+  return ALL_PARTS.find((p) => p.id === id)
 }
 
 export function formatPrice(value: number): string {
@@ -2539,8 +2746,28 @@ export interface CartLine {
   qty: number
 }
 
-export function kitsFor(type: PartType): KitOption[] {
-  if (type === 'арка') return KITS_ARCH
+/** Единственная опция комплектации пенки: цена не зависит от выбора. */
+const FOAM_KIT: KitOption = {
+  id: 'foam',
+  label: 'Стандарт',
+  note: 'Фиксированная цена без выбора материала, направления и комплектации.',
+  priceDelta: 0,
+}
+
+/** Комплектации: у пенки фиксированная цена — одна опция вместо порогов/арк. */
+export function kitsFor(type: PartType, foamKind?: FoamKind): KitOption[] {
+  if (foamKind) return [FOAM_KIT]
+  if (type === 'арка')
+    return [
+      ...KITS_ARCH,
+      {
+        id: 'full-repair-arch',
+        label: 'Ремонтный комплект',
+        note: 'В комплекте: две наружные и две внутренние арки.',
+        priceDelta: 0,
+        doublesBase: true,
+      },
+    ]
   return [
     ...KITS,
     {
@@ -2548,21 +2775,27 @@ export function kitsFor(type: PartType): KitOption[] {
       label: 'Ремонтный комплект',
       note:
         'Включает два порога, два усилителя порога и две торцевые заглушки. ' +
-        'Цена = две стороны + 1800 ₽ за два усилителя порога + 1200 ₽ за две торцевые заглушки.',
+        'Цена: basePrice * 2 + 3000 (холоднокатаная) или + 3600 (оцинкованная).',
       priceDelta: 0,
       doublesBase: true,
-      galvanizedExtra: 600,
-      fixedExtra: 3000,
     },
   ]
 }
 
+/** Цена: у пенок фиксированная цена, выбор материала и комплектации не учитывается. */
 export function basePriceFor(part: Part, materialId: string): number {
+  if (part.foamKind) return FOAM_PRICES[part.foamKind]
   const material = MATERIALS.find((m) => m.id === materialId)
   return material?.basePrices[part.type] ?? part.basePrice
 }
 
-export function linePrice(part: Part, materialId: string, kitId: string): number {
+export function linePrice(
+  part: Part,
+  materialId: string,
+  kitId: string,
+  directionId?: string,
+): number {
+  if (part.foamKind) return FOAM_PRICES[part.foamKind]
   const material = MATERIALS.find((m) => m.id === materialId)
   const kit = kitsFor(part.type).find((k) => k.id === kitId)
   const base = basePriceFor(part, materialId)
@@ -2577,6 +2810,20 @@ export function linePrice(part: Part, materialId: string, kitId: string): number
   if (!kit.doublesBase) return base
 
   let price = base * 2
+  if (kit.id === 'full-repair') {
+    // Пороги: base * 2 + 3000 (холоднокатаная) / + 3600 (оцинкованная).
+    price += materialId === 'galvanized' ? 3600 : 3000
+    return price
+  }
+  if (kit.id === 'full-repair-arch') {
+    // Арки: холоднокатаная base * 2 + 4200 (задняя) / + 4800 (передняя);
+    // оцинкованная base * 2 + 4600 (задняя) / + 5350 (передняя).
+    // Для арок без выбора направления действует вариант «Задняя».
+    const front = resolveArchDirectionId(directionId) === 'front'
+    if (materialId === 'galvanized') price += front ? 5350 : 4600
+    else price += front ? 4800 : 4200
+    return price
+  }
   if (materialId === 'galvanized') price += material?.pairExtra[part.type] ?? 0
   price += kit.fixedExtra ?? 0
   return price
@@ -2590,10 +2837,12 @@ export function describeLine(line: CartLine): {
   sum: number
 } | null {
   const part = findPart(line.partId)
-  const material = MATERIALS.find((m) => m.id === line.materialId)
-  const kit = kitsFor(part?.type ?? 'порог').find((k) => k.id === line.kitId)
+  // Пенки хранят kitId 'foam' и не выбирают материал — работаем с фиксированной ценой.
+  const foam = part?.foamKind
+  const material = foam ? MATERIALS[0] : MATERIALS.find((m) => m.id === line.materialId)
+  const kit = kitsFor(part?.type ?? 'порог', foam).find((k) => k.id === line.kitId)
   if (!part || !material || !kit) return null
-  const unitPrice = linePrice(part, material.id, kit.id)
+  const unitPrice = linePrice(part, material.id, kit.id, line.directionId)
   return { part, material, kit, unitPrice, sum: unitPrice * line.qty }
 }
 

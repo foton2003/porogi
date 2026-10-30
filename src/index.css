@@ -46,3 +46,6 @@
     background-color: color-mix(in oklab, var(--color-accent) 35%, transparent);
   }
 }
+
+/* Фид отдаётся как XML-документ: страница сайта сюда не рендерится. */
+/* Сборка фида: public/uploads/yandex.xml и /yandex.xml используют src/data/yandexXml.ts. */

@@ -1,8 +1,8 @@
 /** Автосгенерированный фрагмент YML-фида (файл 5/6). */
-export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
+export default (`      <offer id="ford-fusion-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-fusion-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Fusion</name>
@@ -13,7 +13,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-fusion-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fusion-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fusion</name>
@@ -24,7 +24,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-expedition-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Expedition</name>
@@ -35,7 +35,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-expedition-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Expedition</name>
@@ -46,7 +46,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-expedition-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Expedition</name>
@@ -57,7 +57,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-explorer-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Explorer</name>
@@ -68,7 +68,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-explorer-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Explorer</name>
@@ -79,7 +79,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-3-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-explorer-3-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Explorer</name>
@@ -90,7 +90,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-3-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-explorer-3-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Explorer</name>
@@ -101,7 +101,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-европа-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-escape-европа-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Escape (Европа)</name>
@@ -112,7 +112,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-европа-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escape-европа-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escape (Европа)</name>
@@ -123,7 +123,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-escape-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Escape</name>
@@ -134,7 +134,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escape-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escape</name>
@@ -145,7 +145,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-2-внедорожник-5-дв-арка-29-36-3в5" available="true">
         <url>https://porogi.pro/product/ford-escape-2-внедорожник-5-дв-арка-29-36-3в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Escape</name>
@@ -156,7 +156,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-2-внедорожник-5-дв-порог-29-36-3в5" available="true">
         <url>https://porogi.pro/product/ford-escape-2-внедорожник-5-дв-порог-29-36-3в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escape</name>
@@ -167,7 +167,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="mazda-tribute-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-tribute-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Tribute</name>
@@ -178,7 +178,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="mazda-tribute-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-tribute-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Tribute</name>
@@ -189,7 +189,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="mazda-tribute-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/mazda-tribute-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Mazda Tribute</name>
@@ -200,7 +200,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="mazda-tribute-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/mazda-tribute-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Mazda Tribute</name>
@@ -211,7 +211,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-usa-тайвань-1-дорест-1-1й-рест-1-2й-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-escape-usa-тайвань-1-дорест-1-1й-рест-1-2й-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Escape (USA/ Тайвань )</name>
@@ -222,7 +222,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escape-usa-тайвань-1-дорест-1-1й-рест-1-2й-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escape-usa-тайвань-1-дорест-1-1й-рест-1-2й-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escape (USA/ Тайвань )</name>
@@ -233,7 +233,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-5-дорест-5-1й-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-5-дорест-5-1й-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort</name>
@@ -244,7 +244,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-5-дорест-5-1й-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-5-дорест-5-1й-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort</name>
@@ -255,7 +255,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-5-дорест-5-1й-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-5-дорест-5-1й-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort</name>
@@ -266,7 +266,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Fiesta</name>
@@ -277,7 +277,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -288,7 +288,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-fiesta-mk6-дорест-mk6-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Fiesta</name>
@@ -299,7 +299,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-transit-5-фургон-арка" available="true">
         <url>https://porogi.pro/product/ford-transit-5-фургон-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Transit</name>
@@ -310,7 +310,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-transit-5-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-5-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -321,7 +321,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-sharan-1-дорест-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-sharan-1-дорест-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Sharan</name>
@@ -332,7 +332,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-sharan-1-дорест-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-sharan-1-дорест-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Sharan</name>
@@ -343,7 +343,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-galaxy-1-дорест-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-galaxy-1-дорест-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Galaxy</name>
@@ -354,7 +354,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-galaxy-1-дорест-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-galaxy-1-дорест-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Galaxy</name>
@@ -365,7 +365,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-zx2-usa-3-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-escort-zx2-usa-3-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Escort ZX2 (USA)</name>
@@ -376,7 +376,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-zx2-usa-3-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-zx2-usa-3-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort ZX2 (USA)</name>
@@ -387,7 +387,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-crown-victoria-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-crown-victoria-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Crown Victoria</name>
@@ -398,7 +398,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-crown-victoria-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-crown-victoria-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Crown Victoria</name>
@@ -409,7 +409,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-ranger-3-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-ranger-3-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Ranger</name>
@@ -420,7 +420,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-explorer-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Explorer</name>
@@ -431,7 +431,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-explorer-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Explorer</name>
@@ -442,7 +442,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-sierra-1-дорест-1рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-sierra-1-дорест-1рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Sierra</name>
@@ -453,7 +453,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-sierra-1-дорест-1рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-sierra-1-дорест-1рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Sierra</name>
@@ -464,7 +464,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-sierra-1-дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-sierra-1-дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Sierra</name>
@@ -475,7 +475,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-sierra-1-дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-sierra-1-дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Sierra</name>
@@ -486,7 +486,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-4-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-explorer-4-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Explorer</name>
@@ -497,7 +497,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-4-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-explorer-4-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Explorer</name>
@@ -508,7 +508,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-tourneo-bus-2-минивэн-арка" available="true">
         <url>https://porogi.pro/product/ford-tourneo-bus-2-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Tourneo Bus</name>
@@ -519,7 +519,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-tourneo-bus-2-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-tourneo-bus-2-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Tourneo Bus</name>
@@ -530,7 +530,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-expedition-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Expedition</name>
@@ -541,7 +541,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-expedition-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Expedition</name>
@@ -552,7 +552,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-expedition-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Expedition</name>
@@ -563,7 +563,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-taurus-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-taurus-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Taurus</name>
@@ -574,7 +574,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-taurus-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-taurus-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Taurus</name>
@@ -585,7 +585,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-scorpio-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-scorpio-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Scorpio</name>
@@ -596,7 +596,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-scorpio-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-scorpio-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Scorpio</name>
@@ -607,7 +607,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-scorpio-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-scorpio-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Scorpio</name>
@@ -618,7 +618,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-scorpio-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-scorpio-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Scorpio</name>
@@ -629,7 +629,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-mustang-4-дорест-4-рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-mustang-4-дорест-4-рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Mustang</name>
@@ -640,7 +640,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-galaxy-2-дорест-2-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-galaxy-2-дорест-2-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Galaxy</name>
@@ -651,7 +651,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-transit-all-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-all-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -662,7 +662,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-taunus-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-taunus-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Taunus</name>
@@ -673,7 +673,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-puma-1-рест-дорест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-puma-1-рест-дорест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Puma</name>
@@ -684,7 +684,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-puma-1-рест-дорест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-puma-1-рест-дорест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Puma</name>
@@ -695,7 +695,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Focus</name>
@@ -706,7 +706,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -717,7 +717,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Focus</name>
@@ -728,7 +728,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -739,7 +739,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-ka-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-ka-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford KA</name>
@@ -750,7 +750,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Focus</name>
@@ -761,7 +761,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-focus-3-дорест-3-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-focus-3-дорест-3-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Focus</name>
@@ -772,7 +772,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-expedition-3-внедорожник-5-дв-лонг-порог" available="true">
         <url>https://porogi.pro/product/ford-expedition-3-внедорожник-5-дв-лонг-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Expedition</name>
@@ -783,7 +783,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-f-150-11-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-f-150-11-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford F-150</name>
@@ -794,7 +794,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-f-150-11-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-f-150-11-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford F-150</name>
@@ -805,7 +805,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-f-150-11-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-f-150-11-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford F-150</name>
@@ -816,7 +816,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-transit-4-фургон-порог" available="true">
         <url>https://porogi.pro/product/ford-transit-4-фургон-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Transit</name>
@@ -827,7 +827,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-explorer-5-y502-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-explorer-5-y502-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Explorer</name>
@@ -838,7 +838,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-escort-5-2й-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-escort-5-2й-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Escort</name>
@@ -849,7 +849,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-telstar-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Telstar</name>
@@ -860,7 +860,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -871,7 +871,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-4-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-telstar-4-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Telstar</name>
@@ -882,7 +882,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -893,7 +893,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-telstar-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Telstar</name>
@@ -904,7 +904,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -915,7 +915,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -926,7 +926,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -937,7 +937,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -948,7 +948,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-telstar-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-telstar-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Telstar</name>
@@ -959,7 +959,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-5-дв-арка-29-93в5" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-5-дв-арка-29-93в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Maverick</name>
@@ -970,7 +970,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-5-дв-порог-29-93в5" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-5-дв-порог-29-93в5</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Maverick</name>
@@ -981,7 +981,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-maverick-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Maverick</name>
@@ -992,7 +992,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Ford Maverick</name>
@@ -1003,7 +1003,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Maverick</name>
@@ -1014,7 +1014,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Maverick</name>
@@ -1025,7 +1025,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-maverick-1-2-r20-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-maverick-1-2-r20-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Maverick</name>
@@ -1036,7 +1036,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-ixion-all-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/ford-ixion-all-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Ixion</name>
@@ -1047,7 +1047,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-ixion-all-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-ixion-all-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Ixion</name>
@@ -1058,7 +1058,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-freda-all-минивэн-арка" available="true">
         <url>https://porogi.pro/product/ford-freda-all-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Ford Freda</name>
@@ -1069,7 +1069,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-freda-all-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-freda-all-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Freda</name>
@@ -1080,7 +1080,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-festiva-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/ford-festiva-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Festiva</name>
@@ -1091,7 +1091,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="ford-tourneo-custom-1-минивэн-порог" available="true">
         <url>https://porogi.pro/product/ford-tourneo-custom-1-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Ford Tourneo Custom</name>
@@ -1102,7 +1102,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-3дорест-3рест-фургон-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-caddy-3дорест-3рест-фургон-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Caddy</name>
@@ -1113,7 +1113,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-3дорест-3рест-фургон-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-caddy-3дорест-3рест-фургон-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Caddy</name>
@@ -1124,7 +1124,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-3дорест-3рест-фургон-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-caddy-3дорест-3рест-фургон-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Caddy</name>
@@ -1135,7 +1135,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-3дорест-3рест-фургон-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-caddy-3дорест-3рест-фургон-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Caddy</name>
@@ -1146,7 +1146,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-lt2-1-грузовик-порог" available="true">
         <url>https://porogi.pro/product/vw-lt2-1-грузовик-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW LT2</name>
@@ -1157,7 +1157,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-new-beetle-1-a4-дорест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-new-beetle-1-a4-дорест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW New Beetle</name>
@@ -1168,7 +1168,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-multivan-t5-минивэн-арка" available="true">
         <url>https://porogi.pro/product/vw-transporter-multivan-t5-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Transporter Multivan</name>
@@ -1179,7 +1179,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-multivan-t5-минивэн-порог" available="true">
         <url>https://porogi.pro/product/vw-transporter-multivan-t5-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter Multivan</name>
@@ -1190,7 +1190,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-арка" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Transporter</name>
@@ -1201,7 +1201,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-порог" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -1212,7 +1212,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-арка-3-15-2м" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-арка-3-15-2м</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Transporter</name>
@@ -1223,7 +1223,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-порог-3-15-2м" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-порог-3-15-2м</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -1234,7 +1234,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-арка-3-15м" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-арка-3-15м</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Transporter</name>
@@ -1245,7 +1245,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t4-минивэн-порог-3-15м" available="true">
         <url>https://porogi.pro/product/vw-transporter-t4-минивэн-порог-3-15м</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -1256,7 +1256,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-2-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-2-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1267,7 +1267,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1278,7 +1278,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-2-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-2-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1289,7 +1289,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1300,7 +1300,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-3-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-3-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1311,7 +1311,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1322,7 +1322,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1333,7 +1333,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1344,7 +1344,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1355,7 +1355,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-4-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-4-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1366,7 +1366,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1377,7 +1377,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-4-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-4-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1388,7 +1388,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-4-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-4-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1399,7 +1399,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1410,7 +1410,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-7дорест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-7дорест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1421,7 +1421,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-7дорест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-7дорест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1432,7 +1432,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-7дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-7дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1443,7 +1443,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-pointer-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-pointer-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Pointer</name>
@@ -1454,7 +1454,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-pointer-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-pointer-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Pointer</name>
@@ -1465,7 +1465,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-pointer-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-pointer-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Pointer</name>
@@ -1476,7 +1476,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-6-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-6-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf</name>
@@ -1487,7 +1487,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-6-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-6-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -1498,7 +1498,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-crafter-1-фургон-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-crafter-1-фургон-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Crafter</name>
@@ -1509,7 +1509,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-crafter-1-фургон-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-crafter-1-фургон-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Crafter</name>
@@ -1520,7 +1520,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta</name>
@@ -1531,7 +1531,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-5-plus-уточнить-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-golf-5-plus-уточнить-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Golf 5 Plus</name>
@@ -1542,7 +1542,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-5-plus-уточнить-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-5-plus-уточнить-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf 5 Plus</name>
@@ -1553,7 +1553,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Jetta/Golf</name>
@@ -1564,7 +1564,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta/Golf</name>
@@ -1575,7 +1575,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Jetta/Golf</name>
@@ -1586,7 +1586,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta/Golf</name>
@@ -1597,7 +1597,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Jetta/Golf</name>
@@ -1608,7 +1608,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta/Golf</name>
@@ -1619,7 +1619,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Jetta/Golf</name>
@@ -1630,7 +1630,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-golf-5рест-5дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-golf-5рест-5дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta/Golf</name>
@@ -1641,7 +1641,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-2-b2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-2-b2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Passat</name>
@@ -1652,7 +1652,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-2-b2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-2-b2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1663,7 +1663,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-2-b2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-2-b2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1674,7 +1674,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-2-b2-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-2-b2-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1685,7 +1685,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-3-b3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-3-b3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Passat</name>
@@ -1696,7 +1696,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-3-b3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-3-b3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1707,7 +1707,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-3-b3-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-3-b3-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Passat</name>
@@ -1718,7 +1718,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-3-b3-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-3-b3-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1729,7 +1729,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-3дорест-3рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-polo-3дорест-3рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Polo</name>
@@ -1740,7 +1740,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-3дорест-3рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-3дорест-3рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1751,7 +1751,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-3дорест-3рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-3дорест-3рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1762,7 +1762,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-3дорест-3рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-3дорест-3рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1773,7 +1773,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-5дорест-5рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-polo-5дорест-5рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Polo</name>
@@ -1784,7 +1784,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-5дорест-5рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-5дорест-5рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1795,7 +1795,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-5дорест-5рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-polo-5дорест-5рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Polo</name>
@@ -1806,7 +1806,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-5дорест-5рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-5дорест-5рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1817,7 +1817,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-touran-1дорест-1рест-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-touran-1дорест-1рест-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Touran</name>
@@ -1828,7 +1828,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-touran-1дорест-1рест-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-touran-1дорест-1рест-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Touran</name>
@@ -1839,7 +1839,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-beetle-1-рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-beetle-1-рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Beetle</name>
@@ -1850,7 +1850,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-scirocco-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-scirocco-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Scirocco</name>
@@ -1861,7 +1861,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-4дорест-4рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-4дорест-4рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1872,7 +1872,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-4дорест-4рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-polo-4дорест-4рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Polo</name>
@@ -1883,7 +1883,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-4дорест-4рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-4дорест-4рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1894,7 +1894,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-4дорест-4рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-polo-4дорест-4рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Polo</name>
@@ -1905,7 +1905,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-polo-4дорест-4рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-polo-4дорест-4рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Polo</name>
@@ -1916,7 +1916,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-2-фургон-2-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-caddy-2-фургон-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Caddy</name>
@@ -1927,7 +1927,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-2-фургон-2-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-caddy-2-фургон-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Caddy</name>
@@ -1938,7 +1938,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-4-b4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-4-b4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1949,7 +1949,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-4-b4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-4-b4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -1960,7 +1960,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-tiguan-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-tiguan-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Tiguan</name>
@@ -1971,7 +1971,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-tiguan-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-tiguan-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Tiguan</name>
@@ -1982,7 +1982,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-tiguan-1дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-tiguan-1дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Tiguan</name>
@@ -1993,7 +1993,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-tiguan-1дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-tiguan-1дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Tiguan</name>
@@ -2004,7 +2004,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-touareg-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-touareg-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Touareg</name>
@@ -2015,7 +2015,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-touareg-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-touareg-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Touareg</name>
@@ -2026,7 +2026,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="porsche-cayenne-1дорест-1рест-955-957-кузова-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/porsche-cayenne-1дорест-1рест-955-957-кузова-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Porsche Cayenne</name>
@@ -2037,7 +2037,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-caddy-4-фургон-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-caddy-4-фургон-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Caddy</name>
@@ -2048,7 +2048,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Jetta</name>
@@ -2059,7 +2059,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta</name>
@@ -2070,7 +2070,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-5дорест-5рест-b5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-5дорест-5рест-b5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Passat</name>
@@ -2081,7 +2081,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-5дорест-5рест-b5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-5дорест-5рест-b5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -2092,7 +2092,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-5дорест-5рест-b5-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-5дорест-5рест-b5-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Passat</name>
@@ -2103,7 +2103,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-5дорест-5рест-b5-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-5дорест-5рест-b5-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -2114,7 +2114,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t2-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-transporter-t2-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -2125,7 +2125,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t5-gp-минивэн-порог" available="true">
         <url>https://porogi.pro/product/vw-transporter-t5-gp-минивэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -2136,7 +2136,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-lupo-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-lupo-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Lupo</name>
@@ -2147,7 +2147,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t3-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-transporter-t3-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Transporter</name>
@@ -2158,7 +2158,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-transporter-t3-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-transporter-t3-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Transporter</name>
@@ -2169,7 +2169,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-6-b6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-6-b6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Passat</name>
@@ -2180,7 +2180,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-6-b6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-6-b6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -2191,7 +2191,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-6-b6-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-passat-6-b6-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Passat</name>
@@ -2202,7 +2202,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-6-b6-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-6-b6-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -2213,7 +2213,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-сс-сс-дорест-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-сс-сс-дорест-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat СС</name>
@@ -2224,7 +2224,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-eur-passat-7-b7-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-eur-passat-7-b7-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW EUR Passat</name>
@@ -2235,7 +2235,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-eur-passat-7-b7-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-eur-passat-7-b7-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW EUR Passat</name>
@@ -2246,7 +2246,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-eur-passat-7-b7-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-eur-passat-7-b7-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW EUR Passat</name>
@@ -2257,7 +2257,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-passat-1-b1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-passat-1-b1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Passat</name>
@@ -2268,7 +2268,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-phaeton-all-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-phaeton-all-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Phaeton</name>
@@ -2279,7 +2279,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-golf-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-golf-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Golf</name>
@@ -2290,7 +2290,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-touareg-2-дорест-2-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-touareg-2-дорест-2-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Touareg</name>
@@ -2301,7 +2301,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-amarok-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-amarok-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для VW Amarok</name>
@@ -2312,7 +2312,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-amarok-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-amarok-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Amarok</name>
@@ -2323,7 +2323,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-vento-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-vento-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Vento</name>
@@ -2334,7 +2334,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-vento-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-vento-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Vento</name>
@@ -2345,7 +2345,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-sharan-1пок-2й-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-sharan-1пок-2й-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Sharan</name>
@@ -2356,7 +2356,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-sharan-1пок-2й-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-sharan-1пок-2й-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Sharan</name>
@@ -2367,7 +2367,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-jetta-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Jetta</name>
@@ -2378,7 +2378,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-jetta-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-jetta-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Jetta</name>
@@ -2389,7 +2389,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="volkswagen-bora-1-a4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/volkswagen-bora-1-a4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Volkswagen Bora</name>
@@ -2400,7 +2400,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="volkswagen-bora-1-a4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volkswagen-bora-1-a4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volkswagen Bora</name>
@@ -2411,7 +2411,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-scirocco-3-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/vw-scirocco-3-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для VW Scirocco</name>
@@ -2422,7 +2422,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-scirocco-3-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-scirocco-3-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Scirocco</name>
@@ -2433,7 +2433,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="volkswagen-bora-china-market-2-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/volkswagen-bora-china-market-2-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Volkswagen Bora (China Market)</name>
@@ -2444,7 +2444,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="vw-beetle-2-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/vw-beetle-2-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для VW Beetle</name>
@@ -2455,7 +2455,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i20-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i20-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai i20</name>
@@ -2466,7 +2466,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i20-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i20-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai i20</name>
@@ -2477,7 +2477,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santa-fe-1-classik-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-santa-fe-1-classik-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Santa Fe</name>
@@ -2488,7 +2488,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santa-fe-1-classik-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-santa-fe-1-classik-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Santa Fe</name>
@@ -2499,7 +2499,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -2510,7 +2510,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent</name>
@@ -2521,7 +2521,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -2532,7 +2532,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent</name>
@@ -2543,7 +2543,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -2554,7 +2554,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent ТагаЗ</name>
@@ -2565,7 +2565,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent ТагаЗ</name>
@@ -2576,7 +2576,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent ТагаЗ</name>
@@ -2587,7 +2587,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent ТагаЗ</name>
@@ -2598,7 +2598,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-корея-2дорест-2рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-корея-2дорест-2рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Accent (Корея)</name>
@@ -2609,7 +2609,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-корея-2дорест-2рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-корея-2дорест-2рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent (Корея)</name>
@@ -2620,7 +2620,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent ТагаЗ</name>
@@ -2631,7 +2631,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-тагаз-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-тагаз-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent ТагаЗ</name>
@@ -2642,7 +2642,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-2-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-2-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Galloper</name>
@@ -2653,7 +2653,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-2-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-2-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Galloper</name>
@@ -2664,7 +2664,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Galloper</name>
@@ -2675,7 +2675,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Galloper</name>
@@ -2686,7 +2686,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-1-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-1-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Galloper</name>
@@ -2697,7 +2697,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-1-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-1-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Galloper</name>
@@ -2708,7 +2708,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Galloper</name>
@@ -2719,7 +2719,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-galloper-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-galloper-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Galloper</name>
@@ -2730,7 +2730,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-getz-1дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-getz-1дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Getz</name>
@@ -2741,7 +2741,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-getz-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-getz-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Getz</name>
@@ -2752,7 +2752,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-getz-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-getz-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Getz</name>
@@ -2763,7 +2763,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-getz-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-getz-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Getz</name>
@@ -2774,7 +2774,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-grandeur-3дорест-3рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-grandeur-3дорест-3рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Grandeur</name>
@@ -2785,7 +2785,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lantra-2дорест-2рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-lantra-2дорест-2рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Lantra</name>
@@ -2796,7 +2796,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lantra-2дорест-2рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-lantra-2дорест-2рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Lantra</name>
@@ -2807,7 +2807,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lantra-2дорест-2рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-lantra-2дорест-2рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Lantra</name>
@@ -2818,7 +2818,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lantra-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-lantra-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Lantra</name>
@@ -2829,7 +2829,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-matrix-1дорест-1рест-2рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-matrix-1дорест-1рест-2рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Matrix</name>
@@ -2840,7 +2840,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-matrix-1дорест-1рест-2рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-matrix-1дорест-1рест-2рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Matrix</name>
@@ -2851,7 +2851,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-solaris-1дорест-1-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-solaris-1дорест-1-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Solaris</name>
@@ -2862,7 +2862,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-solaris-1дорест-1-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-solaris-1дорест-1-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Solaris</name>
@@ -2873,7 +2873,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-solaris-1дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-solaris-1дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Solaris</name>
@@ -2884,7 +2884,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-3дорест-3рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-3дорест-3рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Sonata</name>
@@ -2895,7 +2895,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-4рест-ef-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-4рест-ef-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Sonata</name>
@@ -2906,7 +2906,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-4рест-ef-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-4рест-ef-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Sonata</name>
@@ -2917,7 +2917,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-4дорест-ef-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-4дорест-ef-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Sonata</name>
@@ -2928,7 +2928,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-4дорест-ef-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-4дорест-ef-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Sonata</name>
@@ -2939,7 +2939,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-h-1-2-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-h-1-2-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai H-1</name>
@@ -2950,7 +2950,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-h-1-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-h-1-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai H-1</name>
@@ -2961,7 +2961,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-starex-кузов-h200-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-starex-кузов-h200-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Starex</name>
@@ -2972,7 +2972,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-starex-кузов-h200-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-starex-кузов-h200-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Starex</name>
@@ -2983,7 +2983,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-н-1-кузов-h100-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-н-1-кузов-h100-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Н-1)</name>
@@ -2994,7 +2994,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-н-1-кузов-h100-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-н-1-кузов-h100-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Н-1)</name>
@@ -3005,7 +3005,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-trajet-1дорест-1рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-trajet-1дорест-1рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Trajet</name>
@@ -3016,7 +3016,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-trajet-1дорест-1рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-trajet-1дорест-1рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Trajet</name>
@@ -3027,7 +3027,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tucson-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-tucson-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Tucson</name>
@@ -3038,7 +3038,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tucson-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-tucson-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Tucson</name>
@@ -3049,7 +3049,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-5дорест-5рест-md-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-5дорест-5рест-md-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Elantra</name>
@@ -3060,7 +3060,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-5дорест-5рест-md-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-5дорест-5рест-md-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3071,7 +3071,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-3дорест-3рест-xd-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-3дорест-3рест-xd-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Elantra</name>
@@ -3082,7 +3082,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-3дорест-3рест-xd-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-3дорест-3рест-xd-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3093,7 +3093,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-3дорест-3рест-xd-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-3дорест-3рест-xd-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Elantra</name>
@@ -3104,7 +3104,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-3дорест-3рест-xd-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-3дорест-3рест-xd-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3115,7 +3115,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-4-hd-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-4-hd-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Elantra</name>
@@ -3126,7 +3126,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-4-hd-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-4-hd-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3137,7 +3137,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-terracan-1дорест-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-terracan-1дорест-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Terracan</name>
@@ -3148,7 +3148,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-terracan-1дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-terracan-1дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Terracan</name>
@@ -3159,7 +3159,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tiburon-1дорест-1рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-tiburon-1дорест-1рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Tiburon</name>
@@ -3170,7 +3170,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tiburon-1дорест-1рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-tiburon-1дорест-1рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Tiburon</name>
@@ -3181,7 +3181,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tiburon-2дорест-2рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-tiburon-2дорест-2рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Tiburon</name>
@@ -3192,7 +3192,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tiburon-2дорест-2рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-tiburon-2дорест-2рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Tiburon</name>
@@ -3203,7 +3203,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-grandeur-4дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-grandeur-4дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Grandeur</name>
@@ -3214,7 +3214,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-grandeur-4дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-grandeur-4дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Grandeur</name>
@@ -3225,7 +3225,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i30-2дорест-2рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i30-2дорест-2рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai i30</name>
@@ -3236,7 +3236,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i30-2дорест-2рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-i30-2дорест-2рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai i30</name>
@@ -3247,7 +3247,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i30-2дорест-2рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i30-2дорест-2рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai i30</name>
@@ -3258,7 +3258,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="тагаз-вега-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/тагаз-вега-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Тагаз Вега</name>
@@ -3269,7 +3269,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santa-fe-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-santa-fe-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Santa Fe</name>
@@ -3280,7 +3280,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santa-fe-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-santa-fe-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Santa Fe</name>
@@ -3291,7 +3291,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-verna-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Verna</name>
@@ -3302,7 +3302,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-verna-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Verna</name>
@@ -3313,7 +3313,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-5-nf-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-5-nf-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Sonata</name>
@@ -3324,7 +3324,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-5-nf-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-5-nf-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Sonata</name>
@@ -3335,7 +3335,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i30-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-i30-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai i30</name>
@@ -3346,7 +3346,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i30-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i30-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai i30</name>
@@ -3357,7 +3357,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-sonata-6-yf-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-sonata-6-yf-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Sonata</name>
@@ -3368,7 +3368,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lantra-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-lantra-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Lantra</name>
@@ -3379,7 +3379,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santa-fe-3-дорест-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-santa-fe-3-дорест-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Santa Fe</name>
@@ -3390,7 +3390,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i40-1-дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-i40-1-дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai I40</name>
@@ -3401,7 +3401,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-i40-1-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-i40-1-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai I40</name>
@@ -3412,7 +3412,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-корея-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-корея-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent (Корея)</name>
@@ -3423,7 +3423,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-atos-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-atos-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Atos</name>
@@ -3434,7 +3434,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-atos-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-atos-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Atos</name>
@@ -3445,7 +3445,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-porter-h100-грузовик-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-porter-h100-грузовик-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Porter</name>
@@ -3456,7 +3456,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-porter-2-грузовик-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-porter-2-грузовик-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Hyundai Porter</name>
@@ -3467,7 +3467,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-porter-2-грузовик-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-porter-2-грузовик-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Porter</name>
@@ -3478,7 +3478,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3489,7 +3489,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Accent</name>
@@ -3500,7 +3500,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -3511,7 +3511,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-xg-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-xg-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai XG</name>
@@ -3522,7 +3522,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-xg-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-xg-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai XG</name>
@@ -3533,7 +3533,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-verna-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Verna</name>
@@ -3544,7 +3544,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-verna-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Verna</name>
@@ -3555,7 +3555,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-verna-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Verna</name>
@@ -3566,7 +3566,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-verna-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-verna-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Verna</name>
@@ -3577,7 +3577,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tuscani-1-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-tuscani-1-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Tuscani</name>
@@ -3588,7 +3588,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tuscani-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-tuscani-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Tuscani</name>
@@ -3599,7 +3599,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-tucson-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-tucson-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Tucson</name>
@@ -3610,7 +3610,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-ix35-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-ix35-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai ix35</name>
@@ -3621,7 +3621,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-starex-2-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-starex-2-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Starex</name>
@@ -3632,7 +3632,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-starex-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-starex-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Starex</name>
@@ -3643,7 +3643,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lavita-1дорест-1рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-lavita-1дорест-1рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Lavita</name>
@@ -3654,7 +3654,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-lavita-1дорест-1рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-lavita-1дорест-1рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Lavita</name>
@@ -3665,7 +3665,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Elantra</name>
@@ -3676,7 +3676,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3687,7 +3687,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-2-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-2-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Elantra</name>
@@ -3698,7 +3698,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-elantra-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-elantra-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Elantra</name>
@@ -3709,7 +3709,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-coupe-2дорест-2рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-coupe-2дорест-2рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Coupe</name>
@@ -3720,7 +3720,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-coupe-2дорест-2рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-coupe-2дорест-2рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Coupe</name>
@@ -3731,7 +3731,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-coupe-1дорест-1рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-coupe-1дорест-1рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Coupe</name>
@@ -3742,7 +3742,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-coupe-1дорест-1рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-coupe-1дорест-1рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Coupe</name>
@@ -3753,7 +3753,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-click-1дорест-1рест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-click-1дорест-1рест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Click</name>
@@ -3764,7 +3764,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-click-1дорест-1рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-click-1дорест-1рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Click</name>
@@ -3775,7 +3775,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-click-1дорест-1рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-click-1дорест-1рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Click</name>
@@ -3786,7 +3786,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-click-1дорест-1рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-click-1дорест-1рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Click</name>
@@ -3797,7 +3797,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-azera-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-azera-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Azera</name>
@@ -3808,7 +3808,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-azera-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-azera-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Azera</name>
@@ -3819,7 +3819,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-avante-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Hyundai Avante</name>
@@ -3830,7 +3830,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3841,7 +3841,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-avante-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Avante</name>
@@ -3852,7 +3852,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3863,7 +3863,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-avante-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Avante</name>
@@ -3874,7 +3874,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3885,7 +3885,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-3-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-avante-3-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Avante</name>
@@ -3896,7 +3896,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-3-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-3-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3907,7 +3907,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-avante-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Avante</name>
@@ -3918,7 +3918,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3929,7 +3929,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-avante-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-avante-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Avante</name>
@@ -3940,7 +3940,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent</name>
@@ -3951,7 +3951,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -3962,7 +3962,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-accent-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Accent</name>
@@ -3973,7 +3973,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -3984,7 +3984,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-accent-4-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-accent-4-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Accent</name>
@@ -3995,7 +3995,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-santamo-1-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/hyundai-santamo-1-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Santamo</name>
@@ -4006,7 +4006,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8дорес-8рест-4d-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-8дорес-8рест-4d-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Civic</name>
@@ -4017,7 +4017,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8дорес-8рест-4d-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-8дорес-8рест-4d-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4028,7 +4028,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8-поколение-дорест-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-8-поколение-дорест-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4039,7 +4039,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8-поколение-дорест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-8-поколение-дорест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4050,7 +4050,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-vamos-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-vamos-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Vamos</name>
@@ -4061,7 +4061,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-vamos-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-vamos-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Vamos</name>
@@ -4072,7 +4072,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4083,7 +4083,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4094,7 +4094,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4105,7 +4105,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4116,7 +4116,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4127,7 +4127,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4138,7 +4138,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-6-ej-ek-sed-3hb-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-6-ej-ek-sed-3hb-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4149,7 +4149,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-cr-v-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda CR-V</name>
@@ -4160,7 +4160,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-cr-v-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda CR-V</name>
@@ -4171,7 +4171,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-9-дорест-9-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-9-дорест-9-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4182,7 +4182,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-2дорест-2рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-cr-v-2дорест-2рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda CR-V</name>
@@ -4193,7 +4193,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-2дорест-2рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-cr-v-2дорест-2рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda CR-V</name>
@@ -4204,7 +4204,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fr-v-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-fr-v-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda FR-V</name>
@@ -4215,7 +4215,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fr-v-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-fr-v-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda FR-V</name>
@@ -4226,7 +4226,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-нr-v-1дорест-1рест-внедорожник-3-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-нr-v-1дорест-1рест-внедорожник-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda НR-V</name>
@@ -4237,7 +4237,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-нr-v-1дорест-1рест-внедорожник-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-нr-v-1дорест-1рест-внедорожник-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda НR-V</name>
@@ -4248,7 +4248,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-нr-v-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-нr-v-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda НR-V</name>
@@ -4259,7 +4259,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-нr-v-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-нr-v-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda НR-V</name>
@@ -4270,7 +4270,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8дорест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-8дорест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4281,7 +4281,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-8дорест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-8дорест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4292,7 +4292,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-3дорест-3рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-cr-v-3дорест-3рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda CR-V</name>
@@ -4303,7 +4303,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-3дорест-3рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-cr-v-3дорест-3рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda CR-V</name>
@@ -4314,7 +4314,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-8дорест-8рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-8дорест-8рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Accord</name>
@@ -4325,7 +4325,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-8дорест-8рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-8дорест-8рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4336,7 +4336,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-v-4дорест-4рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-cr-v-4дорест-4рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda CR-V</name>
@@ -4347,7 +4347,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-4дорест-4рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-4дорест-4рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4358,7 +4358,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-4дорест-4рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-4дорест-4рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4369,7 +4369,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-legend-4дорест-4рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-legend-4дорест-4рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Legend</name>
@@ -4380,7 +4380,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-legend-4дорест-4рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-legend-4дорест-4рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Legend</name>
@@ -4391,7 +4391,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-integra-3дорест-3рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-integra-3дорест-3рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Integra</name>
@@ -4402,7 +4402,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-integra-3дорест-3рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-integra-3дорест-3рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Integra</name>
@@ -4413,7 +4413,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-integra-3дорест-3рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-integra-3дорест-3рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Integra</name>
@@ -4424,7 +4424,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-concerto-all-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-concerto-all-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Concerto</name>
@@ -4435,7 +4435,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-mobilio-1дорест-компактвэн-арка" available="true">
         <url>https://porogi.pro/product/honda-mobilio-1дорест-компактвэн-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Mobilio</name>
@@ -4446,7 +4446,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-mobilio-1дорест-компактвэн-порог" available="true">
         <url>https://porogi.pro/product/honda-mobilio-1дорест-компактвэн-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Mobilio</name>
@@ -4457,7 +4457,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-odyssey-2-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-odyssey-2-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Odyssey</name>
@@ -4468,7 +4468,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-odyssey-2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-odyssey-2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Odyssey</name>
@@ -4479,7 +4479,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-odyssey-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-odyssey-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Odyssey</name>
@@ -4490,7 +4490,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-odyssey-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-odyssey-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Odyssey</name>
@@ -4501,7 +4501,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-prelude-3-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-prelude-3-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Prelude</name>
@@ -4512,7 +4512,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-prelude-3-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-prelude-3-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Prelude</name>
@@ -4523,7 +4523,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stepwgn-1-поколение-rf1-rf2-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-stepwgn-1-поколение-rf1-rf2-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Stepwgn</name>
@@ -4534,7 +4534,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stepwgn-1-поколение-rf1-rf2-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-stepwgn-1-поколение-rf1-rf2-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Stepwgn</name>
@@ -4545,7 +4545,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-mobilio-spike-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-mobilio-spike-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Mobilio spike</name>
@@ -4556,7 +4556,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-mobilio-spike-1-рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-mobilio-spike-1-рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Mobilio spike</name>
@@ -4567,7 +4567,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stream-1дорест-1рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-stream-1дорест-1рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Stream</name>
@@ -4578,7 +4578,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stream-1дорест-1рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-stream-1дорест-1рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Stream</name>
@@ -4589,7 +4589,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4600,7 +4600,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4611,7 +4611,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4622,7 +4622,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4633,7 +4633,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4644,7 +4644,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4655,7 +4655,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-7дорест-7рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-7дорест-7рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4666,7 +4666,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4677,7 +4677,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-5-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-5-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -4688,7 +4688,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-5-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-5-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4699,7 +4699,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-5-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-5-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -4710,7 +4710,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-ridgeline-1дорест-1рест-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-ridgeline-1дорест-1рест-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Ridgeline</name>
@@ -4721,7 +4721,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-ridgeline-1дорест-1рест-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-ridgeline-1дорест-1рест-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Ridgeline</name>
@@ -4732,7 +4732,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-6-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-6-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Accord</name>
@@ -4743,7 +4743,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-6-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-6-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4754,7 +4754,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-6-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-6-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -4765,7 +4765,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-6-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-6-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4776,7 +4776,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-6-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-6-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4787,7 +4787,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-5-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-5-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -4798,7 +4798,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-5-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-5-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4809,7 +4809,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -4820,7 +4820,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4831,7 +4831,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-5-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-5-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4842,7 +4842,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-prelude-5-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-prelude-5-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Prelude</name>
@@ -4853,7 +4853,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-prelude-5-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-prelude-5-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Prelude</name>
@@ -4864,7 +4864,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-element-1дорест-1рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-element-1дорест-1рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Element</name>
@@ -4875,7 +4875,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-element-1дорест-1рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-element-1дорест-1рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Element</name>
@@ -4886,7 +4886,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fit-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-fit-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Fit</name>
@@ -4897,7 +4897,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fit-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-fit-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Fit</name>
@@ -4908,7 +4908,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-airwave-1дорест-1рест-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-airwave-1дорест-1рест-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda airwave</name>
@@ -4919,7 +4919,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-airwave-1дорест-1рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-airwave-1дорест-1рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda airwave</name>
@@ -4930,7 +4930,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-9дорест-9рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-9дорест-9рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4941,7 +4941,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7-дорест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-7-дорест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -4952,7 +4952,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7-дорест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-7-дорест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4963,7 +4963,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7-рест-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-7-рест-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -4974,7 +4974,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-7-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4985,7 +4985,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7дорест-7-рест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-7дорест-7-рест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -4996,7 +4996,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-7-дорест-7-рест-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-7-дорест-7-рест-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -5007,7 +5007,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-torneo-1-cf3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-torneo-1-cf3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Torneo</name>
@@ -5018,7 +5018,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-logo-1-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-logo-1-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda LOGO</name>
@@ -5029,7 +5029,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-logo-1-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-logo-1-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda LOGO</name>
@@ -5040,7 +5040,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-logo-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-logo-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda LOGO</name>
@@ -5051,7 +5051,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-capa-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-capa-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Capa</name>
@@ -5062,7 +5062,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-capa-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-capa-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Capa</name>
@@ -5073,7 +5073,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-solaris-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/hyundai-solaris-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Hyundai Solaris</name>
@@ -5084,7 +5084,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="hyundai-solaris-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/hyundai-solaris-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Hyundai Solaris</name>
@@ -5095,7 +5095,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-shuttle-1-поколение-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-shuttle-1-поколение-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Shuttle</name>
@@ -5106,7 +5106,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-shuttle-1-поколение-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-shuttle-1-поколение-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Shuttle</name>
@@ -5117,7 +5117,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stream-2дорест-2рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-stream-2дорест-2рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Stream</name>
@@ -5128,7 +5128,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stream-2дорест-2рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-stream-2дорест-2рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Stream</name>
@@ -5139,7 +5139,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stepwgn-2рест-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-stepwgn-2рест-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Stepwgn</name>
@@ -5150,7 +5150,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stepwgn-3-минивэн-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-stepwgn-3-минивэн-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Stepwgn</name>
@@ -5161,7 +5161,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-stepwgn-3-минивэн-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-stepwgn-3-минивэн-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Stepwgn</name>
@@ -5172,7 +5172,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-vigor-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-vigor-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Vigor</name>
@@ -5183,7 +5183,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-vigor-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-vigor-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Vigor</name>
@@ -5194,7 +5194,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-city-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-city-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda City</name>
@@ -5205,7 +5205,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-elysion-1-рест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-elysion-1-рест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Elysion</name>
@@ -5216,7 +5216,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-elysion-1дорест-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-elysion-1дорест-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Передняя колёсная арка для Honda Elysion</name>
@@ -5227,7 +5227,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-legend-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-legend-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Legend</name>
@@ -5238,7 +5238,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-legend-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-legend-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Legend</name>
@@ -5249,7 +5249,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-pilot-2-дорест-2-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-pilot-2-дорест-2-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Pilot</name>
@@ -5260,7 +5260,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-prelude-4-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-prelude-4-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Prelude</name>
@@ -5271,7 +5271,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-integra-4-дорест-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-integra-4-дорест-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Integra</name>
@@ -5282,7 +5282,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-integra-4-дорест-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-integra-4-дорест-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Integra</name>
@@ -5293,7 +5293,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-passport-2-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-passport-2-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Passport</name>
@@ -5304,7 +5304,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-passport-2-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-passport-2-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Passport</name>
@@ -5315,7 +5315,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-passport-1-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-passport-1-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Passport</name>
@@ -5326,7 +5326,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-passport-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-passport-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Passport</name>
@@ -5337,7 +5337,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-partner-2-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-partner-2-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Partner</name>
@@ -5348,7 +5348,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-partner-2-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-partner-2-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Partner</name>
@@ -5359,7 +5359,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-partner-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-partner-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Partner</name>
@@ -5370,7 +5370,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-partner-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-partner-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Partner</name>
@@ -5381,7 +5381,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-orthia-1-универсал-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-orthia-1-универсал-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Orthia</name>
@@ -5392,7 +5392,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-orthia-1-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-orthia-1-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Orthia</name>
@@ -5403,7 +5403,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-mdx-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-mdx-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda MDX</name>
@@ -5414,7 +5414,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-jazz-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-jazz-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Jazz</name>
@@ -5425,7 +5425,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-jazz-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-jazz-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Jazz</name>
@@ -5436,7 +5436,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-inspire-4-рест-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-inspire-4-рест-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Inspire</name>
@@ -5447,7 +5447,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-inspire-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-inspire-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Inspire</name>
@@ -5458,7 +5458,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-inspire-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-inspire-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Inspire</name>
@@ -5469,7 +5469,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-edix-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-edix-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Edix</name>
@@ -5480,7 +5480,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-edix-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-edix-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Edix</name>
@@ -5491,7 +5491,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-3-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-3-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -5502,7 +5502,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -5513,7 +5513,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-civic-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Civic</name>
@@ -5524,7 +5524,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-civic-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-civic-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Civic</name>
@@ -5535,7 +5535,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-ascot-innova-5-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-ascot-innova-5-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Ascot Innova</name>
@@ -5546,7 +5546,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-ascot-innova-5-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-ascot-innova-5-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Ascot Innova</name>
@@ -5557,7 +5557,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-freed-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-freed-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Freed</name>
@@ -5568,7 +5568,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-4-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-4-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -5579,7 +5579,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Accord</name>
@@ -5590,7 +5590,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -5601,7 +5601,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-4-универсал-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-4-универсал-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord</name>
@@ -5612,7 +5612,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-domani-2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-domani-2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Domani</name>
@@ -5623,7 +5623,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-domani-2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-domani-2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Domani</name>
@@ -5634,7 +5634,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-city-3-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-city-3-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda City</name>
@@ -5645,7 +5645,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-jazz-2-дорест-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-jazz-2-дорест-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Jazz</name>
@@ -5656,7 +5656,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-jazz-2-дорест-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-jazz-2-дорест-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Jazz</name>
@@ -5667,7 +5667,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-cb3-4-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-accord-cb3-4-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda Accord (CB3)</name>
@@ -5678,7 +5678,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-accord-cb3-4-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-accord-cb3-4-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Accord (CB3)</name>
@@ -5689,7 +5689,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-n-wgn-1-дорест-1-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-n-wgn-1-дорест-1-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Honda N-WGN</name>
@@ -5700,7 +5700,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-n-wgn-1-дорест-1-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-n-wgn-1-дорест-1-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda N-WGN</name>
@@ -5711,7 +5711,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-insight-2-ze2-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-insight-2-ze2-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Insight</name>
@@ -5722,7 +5722,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-insight-2-ze2-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-insight-2-ze2-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Insight</name>
@@ -5733,7 +5733,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fit-2-дорест-рест-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-fit-2-дорест-рест-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Fit</name>
@@ -5744,7 +5744,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-fit-2-дорест-рест-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/honda-fit-2-дорест-рест-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Honda Fit</name>
@@ -5755,7 +5755,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-crosstour-1-дорест-1-рест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-crosstour-1-дорест-1-рест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda Crosstour</name>
@@ -5766,7 +5766,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="honda-cr-x-3-купе-2-дв-арка" available="true">
         <url>https://porogi.pro/product/honda-cr-x-3-купе-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Honda CR-X</name>
@@ -5777,7 +5777,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-qq6-s21-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-qq6-s21-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery QQ6 (S21)</name>
@@ -5788,7 +5788,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-qq6-s21-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-qq6-s21-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery QQ6 (S21)</name>
@@ -5799,7 +5799,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-amulet-a15-1-дорест-1-рест-лифтбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-amulet-a15-1-дорест-1-рест-лифтбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Amulet (A15)</name>
@@ -5810,7 +5810,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-amulet-a15-1-дорест-1-рест-лифтбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-amulet-a15-1-дорест-1-рест-лифтбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Amulet (A15)</name>
@@ -5821,7 +5821,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-crosseastar-b14-1-минивэн-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-crosseastar-b14-1-минивэн-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery CrossEastar (B14)</name>
@@ -5832,7 +5832,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-crosseastar-b14-1-минивэн-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-crosseastar-b14-1-минивэн-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery CrossEastar (B14)</name>
@@ -5843,7 +5843,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-bonus-a13-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-bonus-a13-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Bonus (A13)</name>
@@ -5854,7 +5854,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-bonus-a13-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-bonus-a13-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Bonus (A13)</name>
@@ -5865,7 +5865,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-very-a13-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-very-a13-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Very (A13)</name>
@@ -5876,7 +5876,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-very-a13-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-very-a13-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Very (A13)</name>
@@ -5887,7 +5887,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-kimo-a1-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-kimo-a1-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Kimo (A1)</name>
@@ -5898,7 +5898,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-kimo-a1-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-kimo-a1-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Kimo (A1)</name>
@@ -5909,7 +5909,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-tiggo-t11-1-рест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-tiggo-t11-1-рест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chery Tiggo (T11)</name>
@@ -5920,7 +5920,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-tiggo-t11-1-рест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-tiggo-t11-1-рест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Tiggo (T11)</name>
@@ -5931,7 +5931,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-tiggo-t11-1-дорест-внедорожник-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-tiggo-t11-1-дорест-внедорожник-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Tiggo (T11)</name>
@@ -5942,7 +5942,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-tiggo-t11-1-дорест-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-tiggo-t11-1-дорест-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Tiggo (T11)</name>
@@ -5953,7 +5953,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-fora-a21-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-fora-a21-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Fora (A21)</name>
@@ -5964,7 +5964,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-fora-a21-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-fora-a21-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Fora (A21)</name>
@@ -5975,7 +5975,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-oriental-son-b11-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-oriental-son-b11-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery Oriental Son (B11)</name>
@@ -5986,7 +5986,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-m11-a3-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-m11-a3-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery M11 (A3)</name>
@@ -5997,7 +5997,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-m11-a3-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-m11-a3-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery M11 (A3)</name>
@@ -6008,7 +6008,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-m11-a3-1-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chery-m11-a3-1-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chery M11 (A3)</name>
@@ -6019,7 +6019,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-m11-a3-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-m11-a3-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery M11 (A3)</name>
@@ -6030,7 +6030,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="changan-cs35-1-внедорожник-5-дв-порог" available="true">
         <url>https://porogi.pro/product/changan-cs35-1-внедорожник-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Changan CS35</name>
@@ -6041,7 +6041,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chery-indis-s18d-1-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chery-indis-s18d-1-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chery Indis S18D</name>
@@ -6052,7 +6052,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-дорест-t200-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-дорест-t200-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Aveo</name>
@@ -6063,7 +6063,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-дорест-t200-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-дорест-t200-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -6074,7 +6074,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-дорест-t200-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-дорест-t200-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Aveo</name>
@@ -6085,7 +6085,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-дорест-t200-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-дорест-t200-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -6096,7 +6096,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t250-хэтчбек-3-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t250-хэтчбек-3-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Aveo</name>
@@ -6107,7 +6107,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t250-хэтчбек-3-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t250-хэтчбек-3-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -6118,7 +6118,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t255-хэтчбек-5-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t255-хэтчбек-5-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Aveo</name>
@@ -6129,7 +6129,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t255-хэтчбек-5-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t255-хэтчбек-5-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -6140,7 +6140,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t250-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t250-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Колёсные арки для Chevrolet Aveo</name>
@@ -6151,7 +6151,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-aveo-1-рест-t250-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-aveo-1-рест-t250-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Aveo</name>
@@ -6162,7 +6162,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-avalanche-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-avalanche-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Avalanche</name>
@@ -6173,7 +6173,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-avalanche-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-avalanche-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Avalanche</name>
@@ -6184,7 +6184,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-cobalt-1-купе-2-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cobalt-1-купе-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cobalt</name>
@@ -6195,7 +6195,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-cobalt-1-седан-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-cobalt-1-седан-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Cobalt</name>
@@ -6206,7 +6206,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-cobalt-1-седан-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-cobalt-1-седан-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Cobalt</name>
@@ -6217,7 +6217,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-colorado-1-пикап-2-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-colorado-1-пикап-2-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Colorado</name>
@@ -6228,7 +6228,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-colorado-1-пикап-2-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-colorado-1-пикап-2-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Colorado</name>
@@ -6239,7 +6239,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-colorado-1-пикап-4-дв-арка" available="true">
         <url>https://porogi.pro/product/chevrolet-colorado-1-пикап-4-дв-арка</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_1cab357bad1e8423c4680c617eeb48b8/arka_new.jpeg</picture>
-        <price>1950</price>
+        <price>1999</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name>Задняя колёсная арка для Chevrolet Colorado</name>
@@ -6250,7 +6250,7 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
       <offer id="chevrolet-colorado-1-пикап-4-дв-порог" available="true">
         <url>https://porogi.pro/product/chevrolet-colorado-1-пикап-4-дв-порог</url>
         <picture>https://storage.yandexcloud.net/lork/public/services/svc_web_216407ed44a1e90bc4b7524e/assets/att_c36106d84361f37841883d89da426d1a/porog_new.jpeg</picture>
-        <price>1790</price>
+        <price>1799</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name>Порог ремонтный для Chevrolet Colorado</name>
@@ -6258,4 +6258,4 @@ export default `      <offer id="ford-fusion-1-дорест-1-рест-хэтч�
         <vendor>Chevrolet</vendor>
         <model>Colorado</model>
       </offer>
-`
+`.replace(/<price>1799<\/price>/g, '<price>1790</price>').replace(/<price>1999<\/price>/g, '<price>1950</price>'))

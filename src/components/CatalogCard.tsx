@@ -3,18 +3,24 @@ import { Link, useNavigate } from 'react-router-dom'
 import { db } from '@lork/sdk'
 import {
   ARCH_DIRECTIONS,
+  FOAM_TAILGATE_OLD_PRICE,
   MATERIALS,
   archDirectionLabel,
   archDirectionTitle,
   basePriceFor,
+  foamTitle,
   formatPrice,
+  isFoam,
+  isSchemeImage,
   kitsFor,
   linePrice,
   needsArchDirection,
   type Part,
 } from '@/data/catalog'
 import ConsentCheckbox from '@/components/ConsentCheckbox'
-import { getCallbackProfile, markContact, onCallbackEvent, rememberCallbackProfile } from '@/lib/callbackScript'
+import ImageLightbox from '@/components/ImageLightbox'
+import { markContact, rememberCallbackProfile } from '@/lib/callbackScript'
+import { sendUisLead } from '@/lib/uisLead'
 
 function createOrderNumber(): string {
   const stamp = Date.now().toString(36).toUpperCase()
@@ -29,12 +35,53 @@ interface CatalogCardProps {
 /** Карточка товара в каталоге с действиями «Выбрать комплектацию», «Купить в 1 клик» и «Консультация». */
 export default function CatalogCard({ part }: CatalogCardProps) {
   const navigate = useNavigate()
-
+  const foam = isFoam(part)
+  /* У пенок фиксированная цена, материал и направление не выбираются. */
   const material = MATERIALS[0]
-  const kit = useMemo(() => kitsFor(part.type)[0], [part.type])
+  const kit = useMemo(() => kitsFor(part.type, part.foamKind)[0], [part.type, part.foamKind])
   const showDirection = needsArchDirection(part)
   const price = linePrice(part, material.id, kit.id)
   const basePrice = basePriceFor(part, material.id)
+  const oldPrice =
+    part.foamKind === 'foam-tailgate' ? FOAM_TAILGATE_OLD_PRICE : null
+  const badge = part.foamKind ? foamTitle(part.foamKind) : part.type
+  const [lightboxOpen, setLightboxOpen] = useState(false)
+
+  /* Микроразметка Schema.org (JSON-LD) для карточки товара в каталоге.
+     Видимая цена на карточке — «от» (базовая), в разметке — та же. */
+  const productSchema = useMemo(
+    () => ({
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: part.title,
+      sku: part.sku,
+      description: part.description,
+      image: part.images,
+      brand: { '@type': 'Brand', name: part.vehicle.brand },
+      manufacturer: { '@type': 'Organization', name: 'Магазин кузовных порогов и арок' },
+      category: part.foamKind ? foamTitle(part.foamKind) : part.type,
+      offers: {
+        '@type': 'Offer',
+        url: `${window.location.origin}/product/${part.id}`,
+        priceCurrency: 'RUB',
+        price: basePrice,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'Магазин кузовных порогов и арок' },
+      },
+    }),
+    [part, basePrice],
+  )
+
+  useEffect(() => {
+    const script = document.createElement('script')
+    script.type = 'application/ld+json'
+    script.textContent = JSON.stringify(productSchema)
+    document.head.appendChild(script)
+    return () => {
+      document.head.removeChild(script)
+    }
+  }, [productSchema])
 
   const [quickOpen, setQuickOpen] = useState(false)
   const [quickPhone, setQuickPhone] = useState('')
@@ -49,29 +96,6 @@ export default function CatalogCard({ part }: CatalogCardProps) {
   }, [quickSent])
 
   const [callOpen, setCallOpen] = useState(false)
-
-  /* Скрипт обратного звонка: показывает форму на первом визите по таймеру
-     или при попытке закрыть сайт; данные из Cookie подставляются в форму. */
-  useEffect(() => {
-    let cancelled = false
-    const onShown = () => {
-      if (cancelled) return
-      const profile = getCallbackProfile()
-      if (profile.name) setCallName(profile.name)
-      if (profile.phone) setCallPhone(profile.phone.replace(/^\+7/, ''))
-      setCallOpen(true)
-      setCallError('')
-      setCallSent(false)
-      setCallConsent(false)
-    }
-    const off = onCallbackEvent((event) => {
-      if (event.type === 'callback-form-shown') onShown()
-    })
-    return () => {
-      cancelled = true
-      off()
-    }
-  }, [])
 
   const [callName, setCallName] = useState('')
   const [callPhone, setCallPhone] = useState('')
@@ -112,19 +136,21 @@ export default function CatalogCard({ part }: CatalogCardProps) {
     setQuickError('')
     setQuickSending(true)
     try {
+      const phone = `+7${quickPhone}`
+      const comment = `Заказ в 1 клик из каталога: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel()}` : ''} (арт. ${part.sku}) · ${foam ? 'Фиксированная цена' : `Материал: ${material.label} · Комплектация: ${kit.label}`} · ${formatPrice(price)}\nСтраница: ${window.location.href}`
       const { error } = await db.from('orders_public').insert({
         order_number: createOrderNumber(),
         customer_name: 'Заказ в 1 клик',
-        phone: `+7${quickPhone}`,
+        phone,
         city: '—',
-        comment: `Заказ в 1 клик из каталога: ${part.title}${showDirection ? ` · Направление: ${archDirectionLabel()}` : ''} (арт. ${part.sku}) · Материал: ${material.label} · Комплектация: ${kit.label} · ${formatPrice(price)}\nСтраница: ${window.location.href}`,
+        comment,
         items: [
           {
             partId: part.id,
             title: archDirectionTitle(part),
             sku: part.sku,
-            material: material.label,
-            kit: kit.label,
+            material: foam ? '—' : material.label,
+            kit: foam ? 'Стандарт' : kit.label,
             direction: showDirection ? archDirectionLabel() : null,
             qty: 1,
             unitPrice: price,
@@ -136,6 +162,8 @@ export default function CatalogCard({ part }: CatalogCardProps) {
         consent_pdn: true,
       })
       if (error) throw error
+      /* Заявка сохранена — передаём её в UIS; сбой UIS не влияет на отправку. */
+      void sendUisLead({ phone, message: comment })
       setQuickSent(true)
       setQuickPhone('')
       setQuickConsent(false)
@@ -182,26 +210,30 @@ export default function CatalogCard({ part }: CatalogCardProps) {
       setCallError('Отметьте согласие на обработку персональных данных.')
       return
     }
+    const phone = `+7${callPhone}`
+    const comment = `Консультация по товару из каталога: ${part.title} (арт. ${part.sku}).\nСтраница: ${window.location.href}`
     setCallError('')
     setCallSending(true)
     try {
       const { error } = await db.from('orders_public').insert({
         order_number: 'CALLBACK',
         customer_name: name,
-        phone: `+7${callPhone}`,
+        phone,
         city: '—',
-        comment: `Консультация по товару из каталога: ${part.title} (арт. ${part.sku}).\nСтраница: ${window.location.href}`,
+        comment,
         items: [],
         total: 0,
         status: 'callback',
         consent_pdn: true,
       })
       if (error) throw error
+      /* Заявка сохранена — передаём её в UIS; сбой UIS не влияет на отправку. */
+      void sendUisLead({ name, phone, message: comment })
       setCallSent(true)
       setCallName('')
       setCallPhone('')
       setCallConsent(false)
-      rememberCallbackProfile({ name, phone: `+7${callPhone}` })
+      rememberCallbackProfile({ name, phone })
       markContact()
     } catch {
       setCallError('Не удалось отправить заявку. Попробуйте ещё раз.')
@@ -214,27 +246,59 @@ export default function CatalogCard({ part }: CatalogCardProps) {
     <div className="group overflow-hidden rounded-xl border border-border bg-card transition-colors hover:border-accent">
       <Link to={`/product/${part.id}`} className="block">
         <div className="aspect-[4/3] overflow-hidden bg-surface">
-          <img
-            src={part.images[0]}
-            alt={part.title}
-            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
-            loading="lazy"
-          />
+          {/* Фото любого товара открывается в лайтбоксе, не переходя по ссылке карточки. */}
+          <button
+            type="button"
+            onClick={(event) => {
+              event.preventDefault()
+              event.stopPropagation()
+              setLightboxOpen(true)
+            }}
+            className="block h-full w-full cursor-zoom-in"
+            aria-label={`Увеличить фото: ${part.title}`}
+          >
+            <img
+              src={part.images[0]}
+              alt={
+                isSchemeImage(part.images[0])
+                  ? `${part.title} — схема зоны установки`
+                  : part.title
+              }
+              className={
+                isSchemeImage(part.images[0])
+                  ? 'h-full w-full object-contain p-3'
+                  : `h-full w-full object-cover${
+                      foam ? '' : ' transition-transform duration-300 group-hover:scale-105'
+                    }`
+              }
+              loading="lazy"
+            />
+          </button>
         </div>
         <div className="p-4">
           <div className="flex items-center justify-between gap-2 text-xs uppercase tracking-wide text-muted-foreground">
-            <span>{part.type}</span>
+            <span>{badge}</span>
             <span>Арт. {part.sku}</span>
           </div>
           <h2 className="mt-1 font-semibold leading-snug">{part.title}</h2>
           <div className="mt-1 text-sm text-muted-foreground">
             {part.vehicle.generation} · Кузов: {part.body}
           </div>
-          <div className="mt-3 flex items-center justify-between">
-            <span className="font-bold text-accent">от {formatPrice(basePrice)}</span>
-            <span className="rounded-full bg-secondary px-2 py-0.5 text-xs text-secondary-foreground">
-              {part.side}
-            </span>
+          <div className="mt-3 flex items-center justify-between gap-2">
+            {oldPrice ? (
+              /* Старая цена зачёркивается, рядом — плашка со скидкой. */
+              <span className="flex flex-wrap items-center gap-2">
+                <span className="font-bold text-accent">{formatPrice(basePrice)}</span>
+                <span className="text-sm text-muted-foreground line-through">
+                  {formatPrice(oldPrice)}
+                </span>
+                <span className="rounded-full bg-[#dc2626] px-2 py-0.5 text-xs font-semibold text-white">
+                  Скидка {formatPrice(oldPrice - basePrice)}
+                </span>
+              </span>
+            ) : (
+              <span className="font-bold text-accent">{foam ? formatPrice(basePrice) : `от ${formatPrice(basePrice)}`}</span>
+            )}
           </div>
         </div>
       </Link>
@@ -245,7 +309,7 @@ export default function CatalogCard({ part }: CatalogCardProps) {
           onClick={() => navigate(`/product/${part.id}`)}
           className="inline-flex min-h-11 w-full items-center justify-center rounded-md bg-primary px-4 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
         >
-          Выбрать комплектацию
+          {foam ? 'Перейти к товару' : 'Выбрать комплектацию'}
         </button>
         <div className="grid grid-cols-2 gap-2">
           <button
@@ -317,8 +381,9 @@ export default function CatalogCard({ part }: CatalogCardProps) {
                 <div className="mt-4 rounded-md border border-border bg-secondary p-3 text-sm">
                   <div className="font-medium">{archDirectionTitle(part)}</div>
                   <div className="mt-1 text-muted-foreground">
-                    {showDirection ? `Направление: ${archDirectionLabel()} · ` : ''}
-                    Материал: {material.label} · Комплектация: {kit.label}
+                    {foam
+                      ? 'Фиксированная цена'
+                      : `${showDirection ? `Направление: ${archDirectionLabel()} · ` : ''}Материал: ${material.label} · Комплектация: ${kit.label}`}
                   </div>
                   <div className="mt-1 flex items-center justify-between gap-2">
                     <span className="text-muted-foreground">Арт. {part.sku}</span>
@@ -335,11 +400,9 @@ export default function CatalogCard({ part }: CatalogCardProps) {
                     <input
                       type="tel"
                       inputMode="tel"
-                      value={quickPhone
-                        .replace(/(\d{3})(?=\d)/g, '$1 ')
-                        .replace(/(\d{3}) (\d{3})(?=\d)/g, '$1 $2 ')}
+                      value={[quickPhone.slice(0, 3), quickPhone.slice(3, 6), quickPhone.slice(6, 8), quickPhone.slice(8, 10)].filter(Boolean).join(' ')}
                       onChange={(event) => handleQuickPhone(event.target.value)}
-                      placeholder="(999) 123-45-67"
+                      placeholder="999 123 45 67"
                       aria-label="Номер телефона, начинается с +7"
                       className="h-full w-full bg-transparent px-3 text-base outline-none"
                     />
@@ -446,11 +509,9 @@ export default function CatalogCard({ part }: CatalogCardProps) {
                     <input
                       type="tel"
                       inputMode="tel"
-                      value={callPhone
-                        .replace(/(\d{3})(?=\d)/g, '$1 ')
-                        .replace(/(\d{3}) (\d{3})(?=\d)/g, '$1 $2 ')}
+                      value={[callPhone.slice(0, 3), callPhone.slice(3, 6), callPhone.slice(6, 8), callPhone.slice(8, 10)].filter(Boolean).join(' ')}
                       onChange={(event) => handleCallPhone(event.target.value)}
-                      placeholder="(999) 123-45-67"
+                      placeholder="999 123 45 67"
                       aria-label="Номер телефона, начинается с +7"
                       className="h-full w-full bg-transparent px-3 text-base outline-none"
                     />
@@ -486,6 +547,13 @@ export default function CatalogCard({ part }: CatalogCardProps) {
             )}
           </div>
         </div>
+      )}
+      {lightboxOpen && (
+        <ImageLightbox
+          src={part.images[0]}
+          alt={part.title}
+          onClose={() => setLightboxOpen(false)}
+        />
       )}
     </div>
   )

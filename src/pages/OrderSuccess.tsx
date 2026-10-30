@@ -188,26 +188,6 @@ export default function OrderSuccess() {
             <div className="text-xs uppercase tracking-wide text-muted-foreground">Номер заказа</div>
             <div className="text-lg font-bold text-accent">{remote.order_number}</div>
           </div>
-          {remote.total !== null ? (
-            <div>
-              <div className="text-xs uppercase tracking-wide text-muted-foreground">Сумма</div>
-              <div className="text-lg font-bold">{formatPrice(Number(remote.total))}</div>
-            </div>
-          ) : null}
-          {remote.created_at ? (
-            <div>
-              <div className="text-xs uppercase tracking-wide text-muted-foreground">Дата</div>
-              <div className="text-lg font-bold">
-                {new Date(remote.created_at).toLocaleString('ru-RU', {
-                  day: '2-digit',
-                  month: '2-digit',
-                  year: 'numeric',
-                  hour: '2-digit',
-                  minute: '2-digit',
-                })}
-              </div>
-            </div>
-          ) : null}
         </div>
 
         {fallbackItems.length > 0 && (
@@ -306,39 +286,12 @@ export default function OrderSuccess() {
         Ожидайте звонка менеджера для подтверждения заказа
       </div>
 
-      <div className="mt-4">
-        <p className="text-sm text-muted-foreground">
-          Остались вопросы или хотите уточнить информацию по заказу самостоятельно, звоните
-        </p>
-        <a
-          href="tel:+78003501624"
-          className="mt-1 inline-flex min-h-11 items-center text-lg font-bold text-accent transition-colors hover:text-accent/80"
-        >
-          +7 (800) 350-16-24
-        </a>
-      </div>
-
       <div className="mt-5 flex flex-wrap items-center gap-x-6 gap-y-2 rounded-md border border-border bg-secondary px-4 py-3">
         <div>
           <div className="text-xs uppercase tracking-wide text-muted-foreground">Номер заказа</div>
           <div className="text-lg font-bold text-accent">{order.orderNumber}</div>
         </div>
-        <div>
-          <div className="text-xs uppercase tracking-wide text-muted-foreground">Сумма</div>
-          <div className="text-lg font-bold">{formatPrice(order.total)}</div>
-        </div>
-        <div>
-          <div className="text-xs uppercase tracking-wide text-muted-foreground">Дата</div>
-          <div className="text-lg font-bold">
-            {new Date(order.createdAt).toLocaleString('ru-RU', {
-              day: '2-digit',
-              month: '2-digit',
-              year: 'numeric',
-              hour: '2-digit',
-              minute: '2-digit',
-            })}
-          </div>
-        </div>
+        
       </div>
 
       <div className="mt-6">
@@ -388,6 +341,17 @@ export default function OrderSuccess() {
           </div>
         )}
       </dl>
+              <div className="mt-4">
+          <p className="text-sm text-muted-foreground">
+            Остались вопросы или хотите уточнить информацию по заказу самостоятельно, звоните
+          </p>
+          <a
+            href="tel:+78003501624"
+            className="mt-1 inline-flex min-h-11 items-center text-lg font-bold text-accent transition-colors hover:text-accent/80"
+          >
+            +7 (800) 350-16-24
+          </a>
+        </div>
     </SuccessLayout>
   )
 }

@@ -4,14 +4,30 @@ import part2 from '@/feed/yandex-part-2'
 import part3 from '@/feed/yandex-part-3'
 import part4 from '@/feed/yandex-part-4'
 import part5 from '@/feed/yandex-part-5'
+import { PARTS, buildCatalogPath } from '@/data/catalog'
+import { catalogDescription, catalogHeading } from '@/lib/catalogSeo'
+import { buildYandexCollections } from '@/features/collections'
+
+/**
+ * Блок <collections>: по одной коллекции на каждую страницу каталога
+ * «пороги и арки» → марка → модель. Title и description берутся из тех же
+ * шаблонов, что и на самой странице каталога.
+ */
+export const YANDEX_COLLECTIONS_XML: string = buildYandexCollections({
+  parts: PARTS,
+  buildPath: (brand, model) => buildCatalogPath('все', brand, model, ''),
+  heading: (brand, model) => catalogHeading('все', brand, model, '', ''),
+  description: (brand, model) => catalogDescription(brand, model, ''),
+})
 
 /**
  * YML-фид Яндекс.Маркета: собирается из автосгенерированных фрагментов src/feed/*.
- * Полная копия фида также лежит в public/uploads/yandex.xml.
+ * Элемент <collections> ставится внутри <shop> сразу после <offers>.
+ * Полная копия фида лежит в public/uploads/yandex.xml.
  */
 export const YANDEX_FEED_XML: string =
   `<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-09T00:00:00+03:00">
+<yml_catalog date="2026-10-20T00:00:00+03:00">
   <shop>
     <name>Магазин кузовных порогов и арок</name>
     <company>Магазин кузовных порогов и арок</company>
@@ -33,6 +49,8 @@ export const YANDEX_FEED_XML: string =
   part4 +
   part5 +
   `    </offers>
-  </shop>
+` +
+  YANDEX_COLLECTIONS_XML +
+  `  </shop>
 </yml_catalog>
 `
